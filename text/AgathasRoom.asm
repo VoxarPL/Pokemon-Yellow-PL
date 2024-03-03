@@ -1,44 +1,44 @@
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "Jestem AGATHA z"
+	line "ELITARNEJ CZWÓRKI!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "OAK bardzo się"
+	line "tobą interesuje,"
+	cont "synku!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Ten stary dupek"
+	line "był kiedyś twardy"
+	cont "i przystojny! To"
+	cont "było dekady temu!"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Teraz chce tylko"
+	line "bawić się swoim"
+	cont "#DEXEM! Myli"
+	cont "się! #MONY"
+	cont "służą do walki!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! Pokażę"
+	line "ci, jak walczy"
+	cont "prawdziwy Trener!"
 	done
 
 _AgathaEndBattleText::
-	text "Woo-hoo!"
-	line "You're something"
-	cont "special, child!"
+	text "Łu-hu!"
+	line "Jesteś bardzo"
+	cont "wyjątkowy, synku!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Wygrałeś! Teraz"
+	line "wiem, co ten dzban"
+	cont "w tobie widzi!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "Bez zbędnych słów,"
+	line "biegnij po"
+	cont "zwycięstwo, synku!"
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Czyjś głos:"
+	line "Nie uciekaj!"
 	done

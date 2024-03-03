@@ -1,28 +1,30 @@
 _CeruleanBadgeHouseSoulBadgeText::
-	text "The DEFENSE of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "OBRONA wszystkich"
+	line "#MONÓW nieco"
+	cont "wzrasta."
 
-	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+	para "Pozwala także na"
+	line "używanie SURFOWA-"
+	cont "NIA poza walką."
 	prompt
 
 _CeruleanBadgeHouseMarshBadgeText::
-	text "#MON up to L70"
-	line "will obey you."
+	text "#MONY do P70"
+	line "będą ci posłuszne."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Na wyższym"
+	line "poziomie stają się"
+	cont "nieposłuszne!"
 	prompt
 
 _CeruleanBadgeHouseVolcanoBadgeText::
-	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+	text "SPECIALNE"
+	line "zdolności twoich"
+	cont "#MONÓW nieco"
+	cont "wzrosną."
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::
-	text "All #MON will"
-	line "obey you!"
+	text "Wszystkie #MONY"
+	line "będą ci posłuszne!"
 	prompt

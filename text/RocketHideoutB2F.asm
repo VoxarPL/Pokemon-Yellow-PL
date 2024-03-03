@@ -1,17 +1,17 @@
 _RocketHideoutB1FRocketBattleText::
-	text "BOSS said you can"
-	line "see GHOSTs with"
-	cont "the SILPH SCOPE!"
+	text "SZEF mówił, że"
+	line "można zobaczyć"
+	cont "DUCHY za pomocą"
+	cont "SKANERA SILPH!"
 	done
 
 _RocketHideoutB1FRocketEndBattleText::
-	text "I"
-	line "surrender!"
+	text "Poddaję się!"
 	prompt
 
 _RocketHideoutB1FRocketAfterBattleText::
-	text "The TEAM ROCKET"
-	line "HQ has 4 basement"
-	cont "floors. Can you"
-	cont "reach the BOSS?"
+	text "KRYJÓWKA ZESPOŁU R"
+	line "ma cztery piętra."
+	cont "Zdołasz dotrzeć do"
+	cont "SZEFA?"
 	done

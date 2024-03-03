@@ -1,193 +1,194 @@
 _ItemUseBallText00::
-	text "It dodged the"
-	line "thrown BALL!"
+	text "Uniknął rzuconego"
+	line "BALLA!"
 
-	para "This #MON"
-	line "can't be caught!"
+	para "Tego #MONA nie"
+	line "można złapać!"
 	prompt
 
 _ItemUseBallText01::
-	text "You missed the"
-	line "#MON!"
+	text "Nie trafiłeś w"
+	line "#MONA!"
 	prompt
 
 _ItemUseBallText02::
-	text "Darn! The #MON"
-	line "broke free!"
+	text "Kurczę! #MON"
+	line "wymknął się!"
 	prompt
 
 _ItemUseBallText03::
-	text "Aww! It appeared"
-	line "to be caught! "
+	text "Aww! Wyglądał na"
+	line "złapanego!"
 	prompt
 
 _ItemUseBallText04::
-	text "Shoot! It was so"
-	line "close too!"
+	text "Kurczę! A było tak"
+	line "blisko!"
 	prompt
 
 _ItemUseBallText05::
-	text "All right!"
+	text "Mam cię!"
 	line "@"
 	text_ram wEnemyMonNick
-	text " was"
-	cont "caught!@"
+	text " został"
+	cont "złapany!@"
 	text_end
 
 _ItemUseBallText07::
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "BILL's PC!"
+	text " został"
+	line "przesłany do PC"
+	cont "BILLA!"
 	prompt
 
 _ItemUseBallText08::
 	text_ram wBoxMonNicks
-	text " was"
-	line "transferred to"
-	cont "someone's PC!"
+	text " został"
+	line "przesłany do"
+	cont "czyjegoś PC!"
 	prompt
 
 _ItemUseBallText06::
-	text "New #DEX data"
-	line "will be added for"
+	text "Dodano nowe dane"
+	line "do #DEXU o"
 	cont "@"
 	text_ram wEnemyMonNick
 	text "!@"
 	text_end
 
 _SurfingGotOnText::
-	text "<PLAYER> got on"
+	text "<PLAYER> wsiada na"
 	line "@"
 	text_ram wcd6d
 	text "!"
 	prompt
 
 _SurfingNoPlaceToGetOffText::
-	text "There's no place"
-	line "to get off!"
+	text "Nie ma miejsca,"
+	line "aby wysiąść!"
 	prompt
 
 _RefusingText::
 	text_ram wcd6d
 	text_start
-	line "is refusing!"
+	line "odmawia!"
 	prompt
 
 _VitaminStatRoseText::
 	text_ram wcd6d
-	text "'s"
+	text " "
 	line "@"
 	text_ram wStringBuffer
-	text " rose."
+	text " rośnie."
 	prompt
 
 _VitaminNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "To nie zadziała."
 	prompt
 
 _ThrewBaitText::
-	text "<PLAYER> threw"
-	line "some BAIT."
+	text "<PLAYER> rzuca"
+	line "PRZYNĘTĄ."
 	done
 
 _ThrewRockText::
-	text "<PLAYER> threw a"
-	line "ROCK."
+	text "<PLAYER> rzuca"
+	line "SKAŁĄ."
 	done
 
 _PlayedFluteNoEffectText::
-	text "Played the #"
-	line "FLUTE."
+	text "Zagrano na #"
+	line "FLECIE."
 
-	para "Now, that's a"
-	line "catchy tune!"
+	para "To jest chwytliwa"
+	line "melodia!"
 	prompt
 
 _FluteWokeUpText::
-	text "All sleeping"
-	line "#MON woke up."
+	text "Wszystkie śpiące"
+	line "#MONY obudziły"
+	cont "się."
 	prompt
 
 _PlayedFluteHadEffectText::
-	text "<PLAYER> played the"
-	line "# FLUTE.@"
+	text "<PLAYER> gra na"
+	line "# FLECIE.@"
 	text_end
 
 _CoinCaseNumCoinsText::
-	text "Coins"
+	text "Żetony"
 	line "@"
 	text_bcd wPlayerCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " "
 	prompt
 
 _ItemfinderFoundItemText::
-	text "Yes! ITEMFINDER"
-	line "indicates there's"
-	cont "an item nearby."
+	text "Tak! WYKRYWACZ"
+	line "wskazuje, że w"
+	cont "pobliżu jest"
+	cont "przedmiot."
 	prompt
 
 _ItemfinderFoundNothingText::
-	text "Nope! ITEMFINDER"
-	line "isn't responding."
+	text "Nie! WYKRYWACZ"
+	line "nie odpowiada."
 	prompt
 
 _RaisePPWhichTechniqueText::
-	text "Raise PP of which"
-	line "technique?"
+	text "Zwiększyć PP"
+	line "której techniki?"
 	done
 
 _RestorePPWhichTechniqueText::
-	text "Restore PP of"
-	line "which technique?"
+	text "Przywrócić PP"
+	line "której techniki?"
 	done
 
 _PPMaxedOutText::
 	text_ram wStringBuffer
-	text "'s PP"
-	line "is maxed out."
+	text " PP"
+	line "jest maksymalne."
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
-	text "'s PP"
-	line "increased."
+	text " PP"
+	line "zwiększono."
 	prompt
 
 _PPRestoredText::
-	text "PP was restored."
+	text "Przywrócono PP."
 	prompt
 
 _BootedUpTMText::
-	text "Booted up a TM!"
+	text "Uruchomiono TM!"
 	prompt
 
 _BootedUpHMText::
-	text "Booted up an HM!"
+	text "Uruchomiono HM!"
 	prompt
 
 _TeachMachineMoveText::
-	text "It contained"
+	text "Zawiera ruch"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 
-	para "Teach @"
+	para "Dać @"
 	text_ram wStringBuffer
 	text_start
-	line "to a #MON?"
+	line "#MONOWI?"
 	done
 
 _MonCannotLearnMachineMoveText::
 	text_ram wcd6d
-	text " is not"
-	line "compatible with"
-	cont "@"
+	text " nie"
+	line "jest kompatybilny"
+	cont "z @"
 	text_ram wStringBuffer
 	text "."
 
-	para "It can't learn"
+	para "Nie może poznać"
 	line "@"
 	text_ram wStringBuffer
 	text "."
@@ -195,54 +196,55 @@ _MonCannotLearnMachineMoveText::
 
 _ItemUseNotTimeText::
 	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that! "
+	line "To nie czas, aby"
+	cont "tego użyć!"
 	prompt
 
 _ItemUseNotYoursToUseText::
-	text "This isn't yours"
-	line "to use!"
+	text "To nie należy do"
+	line "ciebie!"
 	prompt
 
 _ItemUseNoEffectText::
-	text "It won't have any"
-	line "effect."
+	text "To nie zadziała."
 	prompt
 
 _ThrowBallAtTrainerMonText1::
-	text "The trainer"
-	line "blocked the BALL!"
+	text "Trener blokuje"
+	line "BALLA!"
 	prompt
 
 _ThrowBallAtTrainerMonText2::
-	text "Don't be a thief!"
+	text "Nie bądź"
+	line "złodziejem!"
 	prompt
 
 _NoCyclingAllowedHereText::
-	text "No cycling"
-	next "allowed here."
+	text "Nie wolno tu"
+	next "jeździć."
 	prompt
 
 _NoSurfingHereText::
-	text "No SURFing on"
+	text "Nie SURFUJ na"
 	line "@"
 	text_ram wcd6d
-	text " here!"
+	text " tu!"
 	prompt
 
 _BoxFullCannotThrowBallText::
-	text "The #MON BOX"
-	line "is full! Can't"
-	cont "use that item!"
+	text "BOX #MON jest"
+	line "pełny! Nie można"
+	cont "użyć tego"
+	cont "przedmiotu!"
 	prompt
 
 _DontHavePokemonText::
-	text "You don't have a "
-	line "#MON!"
+	text "Nie masz"
+	line "#MONÓW!"
 	prompt
 
 _ItemUseText001::
-	text "<PLAYER> used@"
+	text "<PLAYER> używa@"
 	text_end
 
 _ItemUseText002::
@@ -251,7 +253,7 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text "<PLAYER> wsiada na@"
 	text_end
 
 _GotOnBicycleText2::
@@ -260,64 +262,64 @@ _GotOnBicycleText2::
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text "<PLAYER> wysiada@"
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
+	text "z @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "Wyrzucono"
 	line "@"
 	text_ram wcd6d
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
+	text "Na pewno wyrzucić"
 	line "@"
 	text_ram wStringBuffer
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "To zbyt ważne, by"
+	line "wyrzucić!"
 	prompt
 
 _AlreadyKnowsText::
 	text_ram wcd6d
-	text " knows"
+	text " zna już"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
-_ConnectCableText::
-	text "Okay, connect the"
-	line "cable like so!"
+_ConnectCableText:: ; sprawdź
+	text "OK, podłącz kabel"
+	line "w ten sposób!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> traded"
+	text "<PLAYER> wymienia"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " for"
+	text " na"
 	cont "@"
 	text_ram wInGameTradeReceiveMonName
 	text "!@"
 	text_end
 
 _WannaTrade1Text::
-	text "I'm looking for"
+	text "Właśnie szukam"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "! Wanna"
+	text "! Może"
 
-	para "trade one for"
+	para "wymienisz na"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "? "
@@ -325,118 +327,119 @@ _WannaTrade1Text::
 
 _NoTrade1Text::
 	text "Awww!"
-	line "Oh well..."
+	line "No cóż..."
 	done
 
 _WrongMon1Text::
-	text "What? That's not"
+	text "Co? To nie jest"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "!"
 
-	para "If you get one,"
-	line "come back here!"
+	para "Jeśli go złapiesz,"
+	line "przyjdź do mnie!"
 	done
 
 _Thanks1Text::
-	text "Hey thanks!"
+	text "Hej, dzięki!"
 	done
 
 _AfterTrade1Text::
-	text "Isn't my old"
+	text "Czy mój stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text " great?"
+	text " nie"
+	cont "jest super?"
 	done
 
 _WannaTrade2Text::
-	text "Hello there! Do"
-	line "you want to trade"
+	text "Cześć! Czy chcesz"
+	line "wymienić swojego"
 
-	para "your @"
+	para "@"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "for @"
+	line "na @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "Cóż, skoro nie"
+	line "chcesz..."
 	done
 
 _WrongMon2Text::
-	text "Hmmm? This isn't"
+	text "Hmmm? To nie jest"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "Think of me when"
-	line "you get one."
+	para "Pomyśl o mnie, gdy"
+	line "go złapiesz."
 	done
 
 _Thanks2Text::
-	text "Thanks!"
+	text "Dzięki!"
 	done
 
 _AfterTrade2Text::
-	text "Hello there! Your"
-	line "old @"
+	text "Cześć! Twój stary"
+	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	cont "magnificent!"
+	text " jest"
+	cont "wspaniały!"
 	done
 
 _WannaTrade3Text::
-	text "Hi! Do you have"
+	text "Hej! Masz może"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "?"
 
-	para "Want to trade it"
-	line "for @"
+	para "Chcesz wymienić go"
+	line "na @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade3Text::
-	text "That's too bad."
+	text "No to szkoda."
 	done
 
 _WrongMon3Text::
-	text "...This is no"
+	text "...To nie jest"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "If you get one,"
-	line "trade it with me!"
+	para "Jeśli go złapiesz,"
+	line "wymień się ze mną!"
 	done
 
 _Thanks3Text::
-	text "Thanks, pal!"
+	text "Dzięki, kolego!"
 	done
 
 _AfterTrade3Text::
-	text "How is my old"
+	text "Jak tam mój stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 
-	para "My @"
+	para "Mój @"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	line "doing great!"
+	text " ma"
+	line "się świetnie!"
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "Nie ma tu nic do"
+	line "ŚCIĘCIA!"
 	prompt
 
 _UsedCutText::
 	text_ram wcd6d
-	text " hacked"
-	line "away with CUT!"
+	text " używa"
+	line "CIĘCIA!"
 	prompt

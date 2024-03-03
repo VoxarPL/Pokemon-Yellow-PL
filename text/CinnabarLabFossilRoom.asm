@@ -1,78 +1,78 @@
 _CinnabarLabFossilRoomScientist1Text::
-	text "Hiya!"
+	text "Hej!"
 
-	para "I am important"
-	line "doctor!"
+	para "Jestem ważnym"
+	line "doktorem!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "Badam tu rzadkie"
+	line "Skamieliny!"
 
-	para "You! Have you a"
-	line "fossil for me?"
+	para "Ty! Masz dla mnie"
+	line "jakąś Skamielinę?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "No! Is too bad!"
+	text "Nie! To niedobrze!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "I take a little"
-	line "time!"
+	text "Potrzebuję trochę"
+	line "czasu!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "Idź na krótki"
+	line "spacer!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
-	text "Where were you?"
+	text "Gdzie byłeś?"
 
-	para "Your fossil is"
-	line "back to life!"
+	para "Twoja Skamielina"
+	line "wróciła do życia!"
 
-	para "It was @"
+	para "To był @"
 	text_ram wStringBuffer
-	text_start
-	line "like I think!"
+	text ","
+	line "jak sądzę!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1SeesFossilText::
-	text "Oh! That is"
+	text "Och! To jest"
 	line "@"
 	text_ram wcd6d
 	text "!"
 
-	para "It is fossil of"
+	para "To Skamielina"
 	line "@"
 	text_ram wStringBuffer
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	text ","
+	cont "#MON, który już"
+	cont "dawno wymarł!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	para "Moja maszyna"
+	line "sprawi, że ten"
+	cont "#MON zwów wróci"
+	cont "do życia!"
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "So! You hurry and"
-	line "give me that!"
+	text "A więc! Pospiesz"
+	line "się i daj mi to!"
 
-	para "<PLAYER> handed"
-	line "over @"
+	para "<PLAYER> przekazuje"
+	line "@"
 	text_ram wcd6d
 	text "!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "I take a little"
-	line "time!"
+	text "Potrzebuję trochę"
+	line "czasu!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "Idź na krótki"
+	line "spacer!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
-	text "Aiyah! You come"
-	line "again!"
+	text "Ajach! Zapraszamy"
+	line "ponownie!"
 	done

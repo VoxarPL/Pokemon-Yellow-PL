@@ -1,59 +1,64 @@
 _Museum2FYoungsterText::
-	text "MOON STONE?"
+	text "KAMIEŃ"
+	line "KSIĘŻYCOWY?"
 
-	para "What's so special"
-	line "about it?"
+	para "Co w nim takiego"
+	line "wyjątkowego?"
 	done
 
 _Museum2FGrampsText::
-	text "July 20, 1969!"
+	text "20 lipca 1969"
+	line "roku!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "Pierwsze lądowanie"
+	line "na Księżycu!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Kupiłem wtedy"
+	line "kolorowy TV!"
 	done
 
 _Museum2FScientistText::
-	text "We have a space"
-	line "exhibit now."
+	text "Mamy teraz wystawę"
+	line "kosmiczną."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Ja chcę PIKACHU!"
+	line "Jest taki słodki!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Poprosiłam tatę,"
+	line "by mi go złapał!"
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Tak, PIKACHU,"
+	line "wkrótce, obiecuję!"
 	done
 
 _Museum2FPikachuText1::
-	text "Your PIKACHU looks"
-	line "untamed."
-	cont "May I have it for"
-	cont "my daughter?"
+	text "Twój PIKACHU jest"
+	line "nieokiełznany."
+	cont "Mogę go dostać dla"
+	cont "mojej córki?"
 	done
 
 _Museum2FPikachuText2::
-	text "I'd like to get"
-	line "that PIKACHU off"
-	cont "you, but it's too"
-	cont "attached to you."
+	text "Chciałbym wziąć od"
+	line "ciebie PIKACHU,"
+	cont "ale jest do ciebie"
+	cont "zbyt przywiązany."
 	done
 
 _Museum2FSpaceShuttleSignText::
-	text "SPACE SHUTTLE"
+	text "PROM KOSMICZNY"
 	line "COLUMBIA"
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteoryt, który"
+	line "spadł na"
+	cont "KSIĘŻYCOWĄ GÓRĘ."
+
+	para "(KAMIEŃ"
+	line "KSIĘŻYCOWY?)"
 	done

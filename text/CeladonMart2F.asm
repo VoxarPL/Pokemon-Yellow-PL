@@ -1,22 +1,22 @@
 _CeladonMart2FMiddleAgedManText::
-	text "SUPER REPEL keeps"
-	line "weak #MON at"
-	cont "bay..."
+	text "SUPER ODGANIACZ"
+	line "trzyma słabe"
+	cont "#MONY z dala..."
 
-	para "Hmm, it's a more"
-	line "powerful REPEL!"
+	para "Hmm, to mocniejszy"
+	line "ODGANIACZ!"
 	done
 
 _CeladonMart2FGirlText::
-	text "For long outings,"
-	line "you should buy"
-	cont "REVIVE."
+	text "Na długie wypady,"
+	line "powinieneś kupić"
+	cont "OCUCACZ."
 	done
 
 _CeladonMart2FCurrentFloorSignText::
-	text "Top Grade Items"
-	line "for Trainers!"
+	text "Rzeczy Klasy 1."
+	line "dla Trenerów!"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2P: RYNEK"
+	line "    TRENERA"
 	done

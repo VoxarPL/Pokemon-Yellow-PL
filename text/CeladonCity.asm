@@ -1,74 +1,77 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
-	line "from my friend!"
+	text "Dostałem KOFFINGA"
+	line "od przyjaciela!"
 
-	para "We get along now,"
-	line "because I was"
-	cont "very nice to it!"
+	para "Dogadujemy się, bo"
+	line "byłem dla niego"
+	cont "bardzo miły!"
 	done
 
 _CeladonCityGramps1Text::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "Cheche! Ta SALA"
+	line "jest świetna!"
+	cont "Pełno w niej"
+	cont "kobiet!"
 	done
 
 _CeladonCityGirlText::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "SALON GIER bardzo"
+	line "źle wpływa na"
+	cont "wizerunek miasta!"
 	done
 
 _CeladonCityGramps2Text::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "Przegrałem wszy-"
+	line "stko, co miałem!"
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "Mogłem wymienić"
+	line "zaoszczędzone"
+	cont "żetony na nagrody!"
 	done
 
 _CeladonCityGramps3Text::
-	text "Hello, there!"
+	text "Cześć!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "Widziałem cię, ale"
+	line "nigdy nie miałem"
+	cont "okazji pogadać!"
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "Oto prezent za to,"
+	line "że wpadłeś!"
 	prompt
 
 _CeladonCityGramps3ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonCityGramps3TM41ExplanationText::
-	text "TM41 teaches"
-	line "SOFTBOILED!"
+	text "TM41 uczy ruchu"
+	line "JAJO NA MIĘKKO!"
 
-	para "Only one #MON"
-	line "can use it!"
+	para "Tylko jeden"
+	line "#MON może go"
+	cont "używać!"
 
-	para "That #MON is"
+	para "A jest nim"
 	line "CHANSEY!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "Och, twój plecak"
+	line "jest już pełny!"
 	done
 
 _CeladonCityFisherText::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "To mój zaufany"
+	line "kumpel, POLIWRATH!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "Ewoluował z"
+	line "POLIWHIRLA, kiedy"
+	cont "użyłem KAMIENIA"
+	cont "WODY!"
 	done
 
 _CeladonCityPoliwrathText::
@@ -77,78 +80,84 @@ _CeladonCityPoliwrathText::
 	text_end
 
 _CeladonCityRocket1Text::
-	text "What are you"
-	line "staring at?"
+	text "Na co się tak"
+	line "gapisz?"
 	done
 
 _CeladonCityRocket2Text::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "Trzymaj się z dala"
+	line "od ZESPOŁU R!"
 	done
 
 _CeladonCitySignText::
-	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	text "PRYZMANIA"
+	line "Miasto Tęczowych"
+	cont "Snów"
 	done
 
 _CeladonCityGymSignText::
-	text "CELADON CITY"
-	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	text "PRYZMANIA"
+	line "SALA #MON"
+	cont "LIDER: ERIKA"
 
-	para "The Nature-Loving"
-	line "Princess!"
+	para "Księżniczka"
+	line "Kochająca Naturę!"
 	done
 
 _CeladonCityMansionSignText::
-	text "CELADON MANSION"
+	text "REZYDENCJA"
+	line "PRYZMANII"
 	done
 
 _CeladonCityDeptStoreSignText::
-	text "Find what you"
-	line "need at CELADON"
-	cont "DEPT. STORE!"
+	text "Znajdź to, czego"
+	line "potrzebujesz w"
+	cont "DOMU TOWAROWYM"
+	cont "PRYZMANII!"
 	done
 
 _CeladonCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	para "OCHRONA SPEC."
+	line "chroni #MONA"
+	cont "przed atakami"
+	cont "SPECJALNYMI takimi"
+	cont "jak ogień i woda!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Zrób zakupy w"
+	line "DOMU TOWAROWYM"
+	cont "PRYZMANII!"
 	done
 
 _CeladonCityPrizeExchangeSignText::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "Wymiana żetonów na"
+	line "nagrody!"
+	cont "WYMIANA NAGRÓD"
 	done
 
 _CeladonCityGameCornerSignText::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grownups!"
+	text "SALON GIER"
+	line "ROCKETÓW"
+
+	para "Zabawa tylko dla"
+	line "dorosłych!"
 	done
 
 _CeladonCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "X CELNOŚĆ zwiększa"
+	line "celność ruchów"
+	cont "#MONA!"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "POTĘŻNY CIOS"
+	line "podnosi szansę na"
+	cont "krytyczny cios!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "Zrób zakupy w"
+	line "DOMU TOWAROWYM"
+	cont "PRYZMANII!"
 	done

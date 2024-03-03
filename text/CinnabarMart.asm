@@ -1,10 +1,11 @@
 _CinnabarMartSilphWorkerFText::
-	text "Don't they have X"
-	line "ATTACK? It's good"
-	cont "for battles!"
+	text "Nie mają X ATAK?"
+	line "Przydaje się"
+	cont "podczas walk!"
 	done
 
 _CinnabarMartScientistText::
-	text "It never hurts to"
-	line "have extra items!"
+	text "Nie zaszkodzi"
+	line "kilka dodatkowych"
+	cont "przedmiotów!"
 	done

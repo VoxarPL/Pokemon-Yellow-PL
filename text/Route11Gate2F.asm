@@ -1,40 +1,39 @@
 _Route11Gate2FOaksAideItemfinderDescriptionText::
-	text "There are items on"
-	line "the ground that"
-	cont "can't be seen."
+	text "Na ziemi leżą"
+	line "niewidoczne"
+	cont "przedmioty."
 
-	para "ITEMFINDER will"
-	line "detect an item"
-	cont "close to you."
+	para "WYKRYWACZ wykryje"
+	line "przedmiot, który"
+	cont "jest w pobliżu."
 
-	para "It can't pinpoint"
-	line "it, so you have"
-	cont "to look yourself!"
+	para "Nie jest w stanie"
+	line "go zlokalizować,"
+	cont "więc musisz szukać"
+	cont "samemu!"
 	done
 
 _Route11Gate2FLeftBinocularsSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Spojrzałeś w."
+	line "lornetkę."
 
-	para "A big #MON is"
-	line "asleep on a road!"
+	para "Duży #MON śpi"
+	line "na drodze!"
 	done
 
 _Route11Gate2FLeftBinocularsNoSnorlaxText::
-	text "Looked into the"
-	line "binoculars."
+	text "Spojrzałeś w."
+	line "lornetkę."
 
-	para "It's a beautiful"
-	line "view!"
+	para "To piękny widok!"
 	done
 
 _Route11Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Spojrzałeś w."
+	line "lornetkę."
 
-	para "The only way to"
-	line "get from CERULEAN"
-	cont "CITY to LAVENDER"
-	cont "is by way of the"
-	cont "ROCK TUNNEL."
+	para "Jedyna droga z"
+	line "AZURII do LAWANDII"
+	cont "wjedzie przez"
+	cont "KAMIENNY TUNEL."
 	done

@@ -1,235 +1,241 @@
 _CeruleanCityRivalPreBattleText::
-	text "<RIVAL>: Yo!"
+	text "<RIVAL>: Joł!"
 	line "<PLAYER>!"
 
-	para "You're still"
-	line "struggling along"
-	cont "back here?"
+	para "Wciąż zmagasz się"
+	line "z problemami?"
 
-	para "I'm doing great!"
-	line "I caught a bunch"
-	cont "of strong and"
-	cont "smart #MON!"
+	para "Mi idzie świetnie!"
+	line "Złapałem mnóstwo"
+	cont "silnych oraz"
+	cont "inteligentnych"
+	cont "#MONÓW!"
 
-	para "Here, let me see"
-	line "what you caught,"
-	cont "<PLAYER>!"
+	para "Pokaż mi, co ty"
+	line "złapałeś, <PLAYER>!"
 	done
 
 _CeruleanCityRivalDefeatedText::
-	text "Hey!"
-	line "Take it easy!"
-	cont "You won already!"
+	text "Hej!"
+	line "Spokojnie!"
+	cont "Już wygrałeś!"
 	prompt
 
 _CeruleanCityRivalVictoryText::
-	text "Heh!"
-	line "You're no match"
-	cont "for my genius!"
+	text "Che!"
+	line "Nie masz szans z"
+	cont "moim geniuszem!"
 	prompt
 
 _CeruleanCityRivalIWentToBillsText::
-	text "<RIVAL>: Hey,"
-	line "guess what?"
+	text "<RIVAL>: Hej,"
+	line "wiesz co?"
 
-	para "I went to BILL's"
-	line "and got him to"
-	cont "show me his rare"
-	cont "#MON!"
+	para "Poszedłem do BILLA"
+	line "i namówiłem go, by"
+	cont "pokazał mi swoje"
+	cont "rzadkie #MONY!"
 
-	para "That added a lot"
-	line "of pages to my"
-	cont "#DEX!"
+	para "To dodało wiele"
+	line "stron do mojego"
+	cont "#DEXU!"
 
-	para "After all, BILL's"
-	line "world famous as a"
-	cont "#MANIAC!"
+	para "W końcu BILL jest"
+	line "znany na świecie"
+	cont "jako #MANIAK!"
 
-	para "He invented the"
-	line "#MON Storage"
-	cont "System on PC!"
+	para "Wynalazł System"
+	line "Przechowywania"
+	cont "#MONÓW w PC!"
 
-	para "Since you're using"
-	line "his system, go"
-	cont "thank him!"
+	para "Skoro korzystasz z"
+	line "jego systemu,"
+	cont "podziękuj mu!"
 
-	para "Well, I better"
-	line "get rolling!"
-	cont "Smell ya later!"
+	para "Cóż, będę już się"
+	line "zwijał!"
+	cont "Do zobaczenia!"
 	done
 
 _CeruleanCityRocketText::
-	text "Hey! Stay out!"
-	line "It's not your"
-	cont "yard! Huh? Me?"
+	text "Hej! Nie wtrącaj"
+	line "się! To nie twoje"
+	cont "podwórko! Hę? Ja?"
 
-	para "I'm an innocent"
-	line "bystander! Don't"
-	cont "you believe me?"
+	para "Jestem niewinnym"
+	line "świadkiem! Nie"
+	cont "wierzysz mi?"
 	done
 
 _CeruleanCityRocketReceivedTM28Text::
-	text "<PLAYER> recovered"
+	text "<PLAYER> odzyskuje"
 	line "TM28!@"
 	text_end
 
 _CeruleanCityRocketIBetterGetMovingText::
 	text_start
 
-	para "I better get"
-	line "moving! Bye!@"
+	para "Lepiej już pójdę!"
+	line "Pa!@"
 	text_end
 
 _CeruleanCityRocketTM28NoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Zrób na to"
+	line "miejsce!"
 
-	para "I can't run until"
-	line "I give it to you!"
+	para "Nie ucieknę, póki"
+	line "ci tego nie oddam!"
 	done
 
 _CeruleanCityRocketIGiveUpText::
-	text "Stop!"
-	line "I give up! I'll"
-	cont "leave quietly!"
+	text "Przestań!"
+	line "Poddaje się!"
+	cont "Odejdę po cichu!"
 	prompt
 
 _CeruleanCityRocketIllReturnTheTMText::
-	text "OK! I'll return"
-	line "the TM I stole!"
+	text "OK! Zwrócę TM,"
+	line "który ukradłem!"
 	prompt
 
 _CeruleanCityCooltrainerMText::
-	text "You're a trainer"
-	line "too? Collecting,"
-	cont "fighting, it's a"
-	cont "tough life."
+	text "Też jesteś"
+	line "trenerem?"
+	cont "Zbieranie, walki,"
+	cont "to ciężkie życie."
 	done
 
 _CeruleanCitySuperNerd1Text::
-	text "That bush in"
-	line "front of the shop"
-	cont "is in the way."
+	text "Ten krzak przed"
+	line "sklepem blokuje"
+	cont "drogę."
 
-	para "There might be a"
-	line "way around."
+	para "Być może jest na"
+	line "to sposób."
 	done
 
 _CeruleanCitySuperNerd2Text::
-	text "You're making an"
-	line "encyclopedia on"
-	cont "#MON? That"
-	cont "sounds amusing."
+	text "Tworzysz"
+	line "encyklopedię o"
+	cont "#MONACH?"
+	cont "Brzmi zabawnie."
 	done
 
 _CeruleanCityGuardText::
-	text "These poor people"
-	line "here were robbed."
+	text "Ci biedni ludzie"
+	line "zostali okradzeni."
 
-	para "We're positive"
-	line "that TEAM ROCKET"
-	cont "is behind this"
-	cont "terrible deed."
+	para "Jesteśmy"
+	line "przekonani, że"
+	cont "ZESPÓŁ R stoi za"
+	cont "tym strasznym"
+	cont "czynem."
 
-	para "Even our POLICE"
-	line "FORCE has trouble"
-	cont "with the ROCKETs!"
+	para "Nawet policja ma"
+	line "problemy z"
+	cont "ROCKETAMI!"
 	done
 
 _CeruleanCityCooltrainerF1ElectrodeUseSonicboomText::
 	text "OK! ELECTRODE!"
-	line "Use SONICBOOM!"
-	cont "Please ELECTRODE,"
-	cont "pay attention!"
+	line "Użyj DŹWIĘKOGROMU!"
+	cont "Proszę, ELECTRODE,"
+	cont "skup się!"
 	done
 
 _CeruleanCityCooltrainerF1ElectrodePunchText::
-	text "ELECTRODE, TACKLE!"
-	line "No! You blew it"
-	cont "again!"
+	text "ELECTRODE,"
+	cont "PCHNIĘCIE!"
+
+	para "Nie! Znowu"
+	cont "zawaliłeś!"
 	done
 
 _CeruleanCityCooltrainerF1ElectrodeWithdrawText::
-	text "ELECTRODE, SWIFT!"
-	line "No! That's wrong!"
+	text "ELECTRODE,"
+	cont "GWIEZDNY PĘD!"
 
-	para "Training #MON"
-	line "is difficult!"
+	para "Nie! To nie tak!"
 
-	para "Your #MON's"
-	line "obedience depends"
-	cont "on your abilities"
-	cont "as a trainer!"
+	para "Trening #MONÓW"
+	line "jest trudny!"
+
+	para "Posłuszeństwo"
+	line "#MONÓW zależy"
+	cont "od twoich"
+	cont "umiejętności jako"
+	cont "Trenera!"
 	done
 
 _CeruleanCityElectrodeTookASnoozeText::
-	text "ELECTRODE took a"
-	line "snooze..."
+	text "ELECTRODE uciął"
+	line "sobie drzemkę..."
 	done
 
 _CeruleanCityElectrodeIsLoafingAroundText::
-	text "ELECTRODE is"
-	line "loafing around..."
+	text "ELECTRODE kręci ci"
+	line "się dookoła..."
 	done
 
 _CeruleanCityElectrodeTurnedAwayText::
-	text "ELECTRODE turned"
-	line "away..."
+	text "ELECTRODE odwrócił"
+	line "się..."
 	done
 
 _CeruleanCityElectrodeIgnoredOrdersText::
-	text "ELECTRODE"
-	line "ignored orders..."
+	text "ELECTRODE ignoruje"
+	line "polecenia..."
 	done
 
 _CeruleanCityCooltrainerF2Text::
-	text "I want a bright"
-	line "red BICYCLE!"
+	text "Chcę jasnoczerwony"
+	line "ROWER!"
 
-	para "I'll keep it at"
-	line "home, so it won't"
-	cont "get dirty!"
+	para "Będę go trzymać w"
+	line "domu, żeby się nie"
+	cont "zabrudził!"
 	done
 
 _CeruleanCitySuperNerd3Text::
-	text "This is CERULEAN"
-	line "CAVE! Horribly"
-	cont "strong #MON"
-	cont "live in there!"
+	text "To jest JASKINIA"
+	line "AZURII! Żyją tam"
+	cont "strasznie silne"
+	cont "#MONY!"
 
-	para "The #MON LEAGUE"
-	line "champion is the"
-	cont "only person who"
-	cont "is allowed in!"
+	para "Mistrz LIGI"
+	line "#MON to jedyna"
+	cont "osobo, która może"
+	cont "tam wejść!"
 	done
 
 _CeruleanCitySignText::
-	text "CERULEAN CITY"
-	line "A Mysterious,"
-	cont "Blue Aura"
-	cont "Surrounds It"
+	text "AZURIA"
+	line "Otacza Ją"
+	cont "Tajemnicza,"
+	cont "Niebieska Aura"
 	done
 
 _CeruleanCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "Pressing B Button"
-	line "during evolution"
-	cont "cancels the whole"
-	cont "process."
+	para "Naciśnięcie"
+	line "Przycisku B"
+	cont "podczas ewolucji"
+	cont "anuluje proces."
 	done
 
 _CeruleanCityBikeShopSign::
-	text "Grass and caves"
-	line "handled easily!"
-	cont "BIKE SHOP"
+	text "Podróżowanie staje"
+	line "się łatwe!"
+	cont "SKLEP ROWEROWY"
 	done
 
 _CeruleanCityGymSign::
-	text "CERULEAN CITY"
-	line "#MON GYM"
-	cont "LEADER: MISTY"
+	text "AZURIA"
+	line "SALA #MON"
+	cont "LIDER: MISTY"
 
-	para "The Tomboyish"
-	line "Mermaid!"
+	para "Chłopczyńska"
+	line "Syrenka!"
 	done

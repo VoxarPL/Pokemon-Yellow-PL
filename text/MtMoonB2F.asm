@@ -1,130 +1,128 @@
 _MtMoonJessieJamesText1::
-	text "Stop right there!@"
+	text "Zatrzymaj się!@"
 	text_end
 
 _MtMoonJessieJamesText2::
-	text "That fossil is"
-	line "TEAM ROCKET's!"
+	text "Ta skamielina"
+	line "należy do"
+	cont "ZESPOŁU R!"
 
-	para "Surrender now, or "
-	line "prepare to fight!"
+	para "Poddaj się lub do"
+	line "walki stań!"
 	done
 
 _MtMoonJessieJamesText3::
-	text "A"
-	line "brat beat us?"
+	text "Pokonał nas jakiś"
+	line "głąb?"
 	prompt
 
 _MtMoonJessieJamesText4::
-	text "TEAM ROCKET, blast"
-	line "off at the speed"
-	cont "of light!@"
+	text "ZESPÓŁ R znowu"
+	line "błysnął!@"
 	text_end
 
 _MtMoonB2FDomeFossilYouWantText::
-	text "You want the"
-	line "DOME FOSSIL?"
+	text "Chcesz SKAM."
+	line "SKORUPĘ?"
 	done
 
 _MtMoonB2FHelixFossilYouWantText::
-	text "You want the"
-	line "HELIX FOSSIL?"
+	text "Chcesz SKAM."
+	line "ŚLIMAK?"
 	done
 
 _MtMoonB2FReceivedFossilText::
-	text "<PLAYER> got the"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _MtMoonB2FYouHaveNoRoomText::
-	text "Look, you've got"
-	line "no room for this.@"
+	text "Spójrz, nie masz"
+	line "na to miejsca.@"
 	text_end
 
 _MtMoonB2FSuperNerdTheyreBothMineText::
-	text "Hey, stop!"
+	text "Hej, stój!"
 
-	para "I found these"
-	line "fossils! They're"
-	cont "both mine!"
+	para "Znalazłem te"
+	line "skamieliny! Obie"
+	cont "należą do mnie!"
 	done
 
 _MtMoonB2FSuperNerdOkIllShareText::
 	text "OK!"
-	line "I'll share!"
+	line "Podzielę się!"
 	prompt
 
 _MtMoonB2fSuperNerdEachTakeOneText::
-	text "We'll each take"
-	line "one!"
-	cont "No being greedy!"
+	text "Każdy z nas weźmie"
+	line "po jednej! Nie"
+	cont "bądźmy chciwi!"
 	done
 
 _MtMoonB2FSuperNerdTheresAPokemonLabText::
-	text "Far away, on"
-	line "CINNABAR ISLAND,"
-	cont "there's a #MON"
-	cont "LAB."
+	text "Daleko stąd, na"
+	line "WYSPIE CINNABAR,"
+	cont "jest LABORATORIUM"
+	cont "#MON"
 
-	para "They do research"
-	line "on regenerating"
-	cont "fossils."
+	para "Prowadzą badania"
+	line "nad regeneracją"
+	cont "skamielin."
 	done
 
 _MtMoonB2FSuperNerdThenThisIsMineText::
-	text "All right. Then"
-	line "this is mine!@"
+	text "W porządku. Więc"
+	line "ta jest moja!@"
 	text_end
 
 _MtMoonB2FRocket2BattleText::
-	text "We, TEAM ROCKET,"
-	line "are #MON"
-	cont "gangsters!"
+	text "My, ZESPÓŁ R, to"
+	line "#MONOWI"
+	cont "gangsterzy!"
 	done
 
 _MtMoonB2FRocket2EndBattleText::
-	text "I blew"
-	line "it!"
+	text "Zawaliłem!"
 	prompt
 
 _MtMoonB2FRocket2AfterBattleText::
-	text "Darn it all! My"
-	line "associates won't"
-	cont "stand for this!"
+	text "Do diabła! Moi"
+	line "współpracownicy"
+	cont "tego nie zniosą!"
 	done
 
 _MtMoonB2FRocket3BattleText::
-	text "We're pulling a"
-	line "big job here!"
-	cont "Get lost, kid!"
+	text "Robimy tu kawał"
+	line "dobrej roboty!"
+	cont "Spadaj, mały!"
 	done
 
 _MtMoonB2FRocket3EndBattleText::
-	text "So, you"
-	line "are good."
+	text "No, jesteś dobry."
 	prompt
 
 _MtMoonB2FRocket3AfterBattleText::
-	text "If you find a"
-	line "fossil, give it"
-	cont "to me and scram!"
+	text "Jeśli znajdziesz"
+	line "skamielinę, daj mi"
+	cont "ją bez wahania!"
 	done
 
 _MtMoonB2FRocket4BattleText::
-	text "Little kids"
-	line "should leave"
-	cont "grown-ups alone!"
+	text "Małe dzieci"
+	line "powinny dać"
+	cont "dorosłym spokój!"
 	done
 
 _MtMoonB2FRocket4EndBattleText::
-	text "I'm"
-	line "steamed!"
+	text "Jestem wkurzony!"
 	prompt
 
 _MtMoonB2FRocket4AfterBattleText::
-	text "#MON lived"
-	line "here long before"
-	cont "people came."
+	text "#MONY żyły tu"
+	line "na długo przed"
+	cont "pojawieniem się"
+	cont "ludzi."
 	done

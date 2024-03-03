@@ -1,44 +1,40 @@
 _FuchsiaGoodRodHouseFishingGuruText::
-	text "I'm the FISHING"
-	line "GURU's older"
-	cont "brother!"
+	text "Jestem starszym"
+	line "bratem RYBACKIEGO"
+	cont "GURU!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Po prostu kooocham"
+	line "łowić ryby!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Też lubisz łowić"
+	line "ryby?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruReceivedGoodRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "Wspaniale! Podoba"
+	line "mi się twój styl!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Weź to i łów,"
+	line "młodzieńcze!"
 
-	para "<PLAYER> received"
-	line "a @"
-	text_ram wStringBuffer
-	text "!@"
+	para "<PLAYER> otrzymuje"
+	line "DOBRĄ WĘDKĘ!@"
 	text_end
 
 _FuchsiaGoodRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Och... To takie"
+	line "rozczarowujące..."
 	done
 
 _FuchsiaGoodRodHouseFishingGuruHowAreTheFishText::
-	text "Hello there,"
-	line "<PLAYER>!"
+	text "Cześć, <PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Jak biorą ryby?"
 	done
 
 _FuchsiaGoodRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "O nie!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Nie masz miejsca"
+	line "na mój prezent!"
 	done

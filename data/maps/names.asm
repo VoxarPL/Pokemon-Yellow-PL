@@ -27,9 +27,9 @@ Route15Name:         db "DROGA 15@"
 Route16Name:         db "DROGA 16@"
 Route17Name:         db "DROGA 17@"
 Route18Name:         db "DROGA 18@"
-Route19Name:         db "MORSKA DROGA 19@" ; usunąć morska?
-Route20Name:         db "MORSKA DROGA 20@" ; usunąć morska?
-Route21Name:         db "MORSKA DROGA 21@" ; usunąć morska?
+Route19Name:         db "DROGA 19@"
+Route20Name:         db "DROGA 20@"
+Route21Name:         db "DROGA 21@"
 Route22Name:         db "DROGA 22@"
 Route23Name:         db "DROGA 23@"
 Route24Name:         db "DROGA 24@"

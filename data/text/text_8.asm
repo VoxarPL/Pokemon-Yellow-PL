@@ -68,13 +68,13 @@ _NewBadgeRequiredText::
 	prompt
 
 _CannotUseItemsHereText::
-	text "You can't use items"
-	line "here."
+	text "Nie możesz używać"
+	line "tu przedmiotów."
 	prompt
 
 _CannotGetOffHereText::
-	text "You can't get off"
-	line "here."
+	text "Nie możesz tu"
+	line "wysiąść."
 	prompt
 
 _UsedStrengthText::
@@ -101,32 +101,32 @@ _CyclingIsFunText::
 	prompt
 
 _GotMonText::
-	text "<PLAYER> got"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wcd6d
 	text "!@"
 	text_end
 
 _SentToBoxText::
-	text "There's no more"
-	line "room for #MON!"
+	text "Nie ma miejsca na"
+	line "#MONA!"
 	cont "@"
 	text_ram wBoxMonNicks
-	text " was"
-	cont "sent to #MON"
-	cont "BOX @"
+	text " został"
+	cont "wysłany do BOXU"
+	cont "#MON @"
 	text_ram wStringBuffer
-	text " on PC!"
+	text " w PC!"
 	done
 
 _BoxIsFullText::
-	text "There's no more"
-	line "room for #MON!"
+	text "Nie ma miejsca na"
+	line "#MONA!"
 
-	para "The #MON BOX"
-	line "is full and can't"
-	cont "accept any more!"
+	para "BOX #MON jest"
+	line "pełny i nie może"
+	cont "przyjąć więcej!"
 
-	para "Change the BOX at"
-	line "a #MON CENTER!"
+	para "Zmień BOX w"
+	line "CENTRUM #MON!"
 	done

@@ -1,68 +1,70 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Hej! Czekaj!"
+	line "Nie wychodź!@"
 	text_end
 
 _PalletTownOakThatWasCloseText::
-	text "OAK: That was"
-	line "close!"
+	text "OAK: Mało"
+	line "brakowało!"
 
-	para "Wild #MON live"
-	line "in tall grass!"
+	para "Dzikie #MONY"
+	line "żyją w wysokiej"
+	cont "trawie!"
 	done
 
 _PalletTownOakWhewText::
-	text "OAK: Whew..."
+	text "OAK: Uff..."
 	done
 
 _PalletTownOakComeWithMe::
-	text "OAK: A #MON can"
-	line "appear anytime in"
-	cont "tall grass."
+	text "OAK: #MON może"
+	line "pojawić się w"
+	cont "każdej chwili w"
+	cont "tej trawie."
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Potrzebujesz"
+	line "własnego #MONA"
+	cont "do ochrony."
+	cont "Już wiem!"
 
-	para "Here, come with"
-	line "me!"
+	para "Proszę, chodź ze"
+	line "mną!"
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "Też trenuję"
+	line "#MONY!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Kiedy staną się"
+	line "silniejsze, będą"
+	cont "mnie chronić!"
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "Technologia jest"
+	line "niesamowita!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Możesz wysyłać i"
+	line "zabierać rzeczy i"
+	cont "#MONY jako dane"
+	cont "w komputerze!"
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "LABORATORIUM"
+	line "BADAWCZE OAKA"
 	done
 
 _PalletTownSignText::
-	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	text "ALABASTIA"
+	line "Cienie twojej"
+	cont "podróży czekają!"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "<PLAYER> - dom"
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "<RIVAL> - dom"
 	done

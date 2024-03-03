@@ -1,26 +1,26 @@
 _Route16Gate2FLittleBoyText::
-	text "I'm going for a"
-	line "ride with my girl"
-	cont "friend!"
+	text "Wybieram się na"
+	line "przejażdżkę z moją"
+	cont "dziewczyną!"
 	done
 
 _Route16Gate2FLittleGirlText::
-	text "We're going"
-	line "riding together!"
+	text "Jedziemy razem na"
+	line "przejażdżkę!"
 	done
 
 _Route16Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Spojrzałeś w."
+	line "lornetkę."
 
-	para "It's CELADON DEPT."
-	line "STORE!"
+	para "To DOM TOWAROWY"
+	line "PRYZMANII!"
 	done
 
 _Route16Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Spojrzałeś w."
+	line "lornetkę."
 
-	para "There's a long"
-	line "path over water!"
+	para "Nad wodą jest"
+	line "długa droga!"
 	done

@@ -1,35 +1,37 @@
 _Route4CooltrainerF1Text::
-	text "Ouch! I tripped"
-	line "over a rocky"
-	cont "#MON, GEODUDE!"
+	text "Auć! Potknęłam się"
+	line "o skalistego"
+	cont "#MONA,"
+	cont "GEODUDE'A!"
 	done
 
 _Route4CooltrainerF2BattleText::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "Przyszłam po"
+	line "mojego #MONA"
+	cont "grzyba!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "Och! Mój słodki"
+	line "#MON grzyb!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "Może nie być tu"
+	line "już żadnych"
+	cont "grzybów."
 
-	para "I think I got"
-	line "them all."
+	para "Myślę, że mam je"
+	line "wszystkie."
 	done
 
 _Route4MtMoonSignText::
-	text "MT.MOON"
-	line "Tunnel Entrance"
+	text "KSIĘŻYCOWA GÓRA"
+	line "Wejście do Tunelu"
 	done
 
 _Route4SignText::
-	text "ROUTE 4"
-	line "MT.MOON -"
-	cont "CERULEAN CITY"
+	text "DROGA 4"
+	line "KSIĘŻYCOWA GÓRA -"
+	cont "AZURIA"
 	done

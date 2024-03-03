@@ -1,24 +1,23 @@
 _CeruleanPokecenterSuperNerdText::
-	text "That BILL!"
+	text "Ten BILL!"
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
+	para "Słyszałem, że"
+	line "zrobi wszystko, by"
+	cont "zdobyć rzadkie"
+	cont "#MONY!"
 	done
 
 _CeruleanPokecenterGentlemanText::
-	text "Have you heard"
-	line "about BILL?"
+	text "Słyszałeś o BILLU?"
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+	para "Wszyscy nazywają"
+	line "go #MANIAKIEM!"
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+	para "Myślę jednak, że"
+	line "ludzie są tylko"
+	cont "zazdrośni o BILLA."
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+	para "Kto nie chciałby"
+	line "pochwalić się"
+	cont "swoimi #MONAMI?"
 	done

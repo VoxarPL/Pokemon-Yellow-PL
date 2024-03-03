@@ -1,155 +1,156 @@
 _Route20Swimmer1BattleText::
-	text "The water is"
-	line "shallow here."
+	text "Woda jest tu"
+	line "płytka."
 	done
 
 _Route20Swimmer1EndBattleText::
-	text "Splash!"
+	text "Plusk!"
 	prompt
 
 _Route20Swimmer1AfterBattleText::
-	text "I wish I could"
-	line "ride my #MON."
+	text "Chciałbym jeździć"
+	line "na moim #MONIE."
 	done
 
 _Route20Swimmer2BattleText::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "MORSKA PIANA to"
+	line "spokojna ucieczka!"
 	done
 
 _Route20Swimmer2EndBattleText::
-	text "Quit it!"
+	text "Odpuść!"
 	prompt
 
 _Route20Swimmer2AfterBattleText::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "Pod tą wyspą"
+	line "znajduje się"
+	cont "ogromna jaskinia."
 	done
 
 _Route20Swimmer3BattleText::
-	text "I love floating"
-	line "with the fishes!"
+	text "Uwielbiam pływać z"
+	line "rybami!"
 	done
 
 _Route20Swimmer3EndBattleText::
-	text "Yowch!"
+	text "Jałć!"
 	prompt
 
 _Route20Swimmer3AfterBattleText::
-	text "Want to float"
-	line "with me?"
+	text "Chcesz ze mną"
+	line "popływać?"
 	done
 
 _Route20Swimmer4BattleText::
-	text "Are you on"
-	line "vacation too?"
+	text "Też jesteś na"
+	line "wakacjach?"
 	done
 
 _Route20Swimmer4EndBattleText::
-	text "No"
-	line "mercy at all!"
+	text "Zero litości!"
 	prompt
 
 _Route20Swimmer4AfterBattleText::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "MORSKA PIANA była"
+	line "kiedyś jedną"
+	cont "wyspą!"
 	done
 
 _Route20Swimmer5BattleText::
-	text "Check out my buff"
-	line "physique!"
+	text "Spójrz na moją"
+	line "sylwetkę!"
 	done
 
 _Route20Swimmer5EndBattleText::
-	text "Wimpy!"
+	text "Mięczak!"
 	prompt
 
 _Route20Swimmer5AfterBattleText::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "To ja powinienem"
+	line "wzmacniać mojego"
+	cont "#MONA, a nie on"
+	cont "mnie!"
 	done
 
 _Route20Swimmer6BattleText::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "Dlaczego jeździsz"
+	line "na #MONIE?"
+	cont "Nie umiesz pływać?"
 	done
 
 _Route20Swimmer6EndBattleText::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "Auć! Storpedowany!"
 	prompt
 
 _Route20Swimmer6AfterBattleText::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "Jazda na #MONIE"
+	line "wygląda zabawnie!"
 	done
 
 _Route20CooltrainerMBattleText::
-	text "I rode my bird"
-	line "#MON here!"
+	text "Przyleciałem tu na"
+	line "moim #MONIE!"
 	done
 
 _Route20CooltrainerMEndBattleText::
-	text "Oh"
-	line "no!"
+	text "O nie!"
 	prompt
 
 _Route20CooltrainerMAfterBattleText::
-	text "My birds can't"
-	line "FLY me back!"
+	text "Moje ptaki nie"
+	line "mogą LATAĆ!"
 	done
 
 _Route20Swimmer7BattleText::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "Mój chłopak dał mi"
+	line "duże perły!"
 	done
 
 _Route20Swimmer7EndBattleText::
-	text "Don't"
-	line "touch my pearls!"
+	text "Nie dotykaj moich"
+	line "pereł!"
 	prompt
 
 _Route20Swimmer7AfterBattleText::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "Czy moje perły"
+	line "urosną wewnątrz"
+	cont "CLOYSTERA?"
 	done
 
 _Route20Swimmer8BattleText::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "Przypłynąłem tu z"
+	line "WYSPY CINNABAR!"
 	done
 
 _Route20Swimmer8EndBattleText::
-	text "I'm"
-	line "so disappointed!"
+	text "Jestem taki"
+	line "rozczarowany!"
 	prompt
 
 _Route20Swimmer8AfterBattleText::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "#MONY przejęły"
+	line "opuszczoną"
+	cont "rezydencję w"
+	cont "CINNABAR!"
 	done
 
 _Route20Swimmer9BattleText::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "CINNABAR, na"
+	line "zachodzie, ma"
+	cont "LABORATORIUM dla"
+	cont "#MONÓW."
 	done
 
 _Route20Swimmer9EndBattleText::
-	text "Wait!"
+	text "Czekaj!"
 	prompt
 
 _Route20Swimmer9AfterBattleText::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "CINNABAR to wyspa"
+	line "wulkaniczna!"
 	done
 
 _Route20SeafoamIslandsSignText::
-	text "SEAFOAM ISLANDS"
+	text "WYSPY MORSKIEJ"
+	cont "PIANY"
 	done

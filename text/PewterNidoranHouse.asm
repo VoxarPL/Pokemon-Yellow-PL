@@ -3,23 +3,25 @@ _PewterNidoranHouseNidoranText::
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "NIDORAN, siad!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "Nasz #MON jest"
+	line "obcy, więc trudno"
+	cont "sobie z nim"
+	cont "radzić."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "Obce #MONY"
+	line "otrzymujesz z"
+	cont "wymiany."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "Rośnie szybko, ale"
+	line "może zignorować"
+	cont "niedoświadczonego"
+	cont "trenera w walce!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "Gdybyśmy tylko"
+	line "mieli jakieś"
+	cont "ODZNAKI..."
 	done

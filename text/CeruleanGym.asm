@@ -1,135 +1,139 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "Cześć, jesteś tu"
+	line "nowy!"
 
-	para "What's your policy"
-	line "on #MON? What"
-	cont "is your approach?"
+	para "Jakie są twoje"
+	line "zasady? Jakie jest"
+	cont "twoje podejście?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "Moje podejście to"
+	line "całkowita ofensywa"
+	cont "#MONAMI typu"
+	cont "Wodnego!"
 
-	para "MISTY, the world-"
-	line "famous beauty, is"
-	cont "your host!"
+	para "MISTY, światowej"
+	line "sławy piękność,"
+	cont "jest twoim"
+	cont "gospodarzem!"
 
-	para "Are you ready,"
-	line "sweetie?"
+	para "Jesteś gotowy,"
+	line "cukiereczku?"
 	done
 
 _CeruleanGymMistyTM11ExplanationText::
-	text "TM11 teaches"
-	line "BUBBLEBEAM!"
+	text "TM11 uczy ruchu"
+	line "BĄBLOPROMIEŃ!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "Użyj go na Wodnym"
+	line "#MONIE!"
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "ODZNAKA KASKADY"
+	line "sprawia, że"
+	cont "#MONY do P30"
+	cont "będą posłuszne!"
 
-	para "That includes"
-	line "even outsiders!"
+	para "Dotyczy to nawet"
+	line "tych z wymiany!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "anytime!"
+	para "Co więcej, możesz"
+	line "używać CIECIA w"
+	cont "każdej chwili!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "Możesz CIĄĆ małe"
+	line "krzaki, otwierając"
+	cont "nowe ścieżki!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "Weź też mój"
+	line "ulubiony TM!"
 	done
 
 _CeruleanGymMistyReceivedTM11Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "TM11!@"
 	text_end
 
 _CeruleanGymMistyTM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+	text "Lepiej zrób na to"
+	line "miejsce!"
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::
-	text "I can't"
-	line "believe I lost!"
+	text "Nie wierzę, że"
+	line "przegrałam!"
 
-	para "All right!"
+	para "W porządku!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!"
+	para "Możesz wziąć"
+	line "ODZNAKĘ KASKADY,"
+	cont "by pokazać, że"
+	cont "mnie pokonałeś!"
 	prompt
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "Jestem dla ciebie"
+	line "więcej niż tylko"
+	cont "dobra!"
 
-	para "MISTY can wait!"
+	para "MISTY poczeka!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
+	text "Przerosłeś mnie!"
 	prompt
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "Zmierz się z"
+	line "innymi Trenerami,"
+	cont "a dowiesz się, jak"
+	cont "dobry naprawdę"
+	cont "jesteś."
 	done
 
 _CeruleanGymBattleText2::
-	text "Splash!"
+	text "Plusk!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "Jestem pierwszy!"
+	line "Do dzieła!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "To niemożliwe!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "MISTY będzie coraz"
+	line "lepsza!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "Nie przegra z kimś"
+	line "takim jak ty!"
 	done
 
 _CeruleanGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Joł! Przyszły"
+	line "mistrzu!"
 
-	para "Here's my advice!"
+	para "Oto moja rada!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "LIDERKA MISTY jest"
+	line "profesjonalistką,"
+	cont "która używa"
+	cont "Wodnych #MONÓW!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "Możesz wyssać całą"
+	line "ich wodę Trawia-"
+	cont "stymi #MONAMI!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "Albo porazić ich"
+	line "prądem!"
 	done
 
 _CeruleanGymGymGuideBeatMistyText::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "Pokonałeś MISTY!"
+	line "A nie mówiłem?"
 
-	para "You and me, kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "Ty i ja, młody,"
+	line "tworzymy całkiem"
+	cont "niezły zespół!"
 	done

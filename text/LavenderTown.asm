@@ -1,64 +1,69 @@
 _LavenderTownLittleGirlDoYouBelieveInGhostsText::
-	text "Do you believe in"
-	line "GHOSTs?"
+	text "Wierzysz w DUCHY?"
 	done
 
 _LavenderTownLittleGirlSoThereAreBelieversText::
-	text "Really? So there"
-	line "are believers..."
+	text "Serio? Więc ktoś"
+	line "jednak wierzy..."
 	done
 
 _LavenderTownLittleGirlHaHaGuessNotText::
-	text "Hahaha, I guess"
-	line "not."
+	text "Hahaha, myślę, że"
+	line "nie."
 
-	para "That white hand"
-	line "on your shoulder,"
-	cont "it's not real."
+	para "Ta biała ręka na"
+	line "twoim ramieniu nie"
+	cont "jest prawdziwa."
 	done
 
 _LavenderTownCooltrainerMText::
-	text "This town is known"
-	line "as the grave site"
-	cont "of #MON."
+	text "To miasteczko jest"
+	line "znane jako miejsce"
+	cont "pochówku dla"
+	cont "#MONÓW."
 
-	para "Memorial services"
-	line "are held in"
-	cont "#MON TOWER."
+	para "Nabożeństwa"
+	line "żałobne odbywają"
+	cont "się w WIEŻY"
+	cont "#MON."
 	done
 
 _LavenderTownSuperNerdText::
-	text "GHOSTs appeared"
-	line "in #MON TOWER."
+	text "DUCHY pojawiły się"
+	line "w WIEŻY #MON."
 
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	para "Myślę, że to duchy"
+	line "#MONÓW,"
+	cont "zabitych przez"
+	cont "ROCKETÓW."
 	done
 
 _LavenderTownSignText::
-	text "LAVENDER TOWN"
-	line "The Noble Purple"
-	cont "Town"
+	text "LAWANDIA"
+	line "Szlachetne"
+	cont "Purpurowe Miasto"
 	done
 
 _LavenderTownSilphScopeSignText::
-	text "New SILPH SCOPE!"
+	text "Nowy SKANER SILPH!"
 
-	para "Make the Invisible"
-	line "Plain to See!"
+	para "Uczyń Niewidzialne"
+	line "Widocznym!"
 
 	para "SILPH CO."
 	done
 
 _LavenderTownPokemonHouseSignText::
-	text "LAVENDER VOLUNTEER"
-	line "#MON HOUSE"
+	text "WOLONTARIUSZ"
+	line "LAWANDII"
+
+	para "DOM #MONÓW"
 	done
 
 _LavenderTownPokemonTowerSignText::
-	text "May the Souls of"
-	line "#MON Rest Easy"
-	cont "#MON TOWER"
+	text "Niech Dusze #-"
+	line "MONÓW Spoczywają w"
+	cont "Pokoju"
+
+	para "WIEŻA #MON"
 	done

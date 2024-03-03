@@ -1,68 +1,70 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "#MON BADGEs"
-	line "are owned only by"
-	cont "skilled trainers."
+	text "ODZNAKI SAL są"
+	line "własnością tylko"
+	cont "doświadczonych"
+	cont "Trenerów."
 
-	para "I see you have"
-	line "at least one."
+	para "Widzę, że już coś"
+	line "masz."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
+	para "Te ODZNAKI kryją"
+	line "wspaniałe sekrety!"
 	prompt
 
 _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
-	text "Now then..."
+	text "No więc..."
 
-	para "Which of the 8"
-	line "BADGEs should I"
-	cont "describe?"
+	para "Którą z 8 ODZNAK"
+	line "powinienem opisać?"
 	done
 
 _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
-	text "Come visit me any-"
-	line "time you wish."
+	text "Odwiedź mnie, gdy"
+	line "tylko zechcesz."
 	done
 
 _CeruleanBadgeHouseBoulderBadgeText::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "ATAK wszystkich"
+	line "#MONÓW nieco"
+	cont "wzrasta."
 
-	para "It also lets you"
-	line "use FLASH any-"
-	cont "time you desire."
+	para "Pozwala także na"
+	line "używanie BŁYSKU w"
+	cont "dowolnej chwili."
 	prompt
 
 _CeruleanBadgeHouseCascadeBadgeText::
-	text "#MON up to L30"
-	line "will obey you."
+	text "#MONY do P30"
+	line "będą ci posłuszne."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Na wyższym"
+	line "poziomie stają się"
+	cont "nieposłuszne!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	para "Pozwala także na"
+	line "używanie CIĘCIA"
+	cont "poza polem walki."
 	prompt
 
 _CeruleanBadgeHouseThunderBadgeText::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "SZYBKOŚĆ twoich"
+	line "#MONÓW nieco"
+	cont "wzrasta."
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	para "Pozwala także na"
+	line "używanie LOTU"
+	cont "poza polem walki."
 	prompt
 
 _CeruleanBadgeHouseRainbowBadgeText::
-	text "#MON up to L50"
-	line "will obey you."
+	text "#MONY do P50"
+	line "będą ci posłuszne."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Na wyższym"
+	line "poziomie stają się"
+	cont "nieposłuszne!"
 
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	para "Pozwala także na"
+	line "używanie SIŁY"
+	cont "poza polem walki."
 	prompt

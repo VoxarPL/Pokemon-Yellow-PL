@@ -9,7 +9,7 @@ ItemNames::
 	li "?????" ; SURFBOARD
 	li "SAFARI BALL"
 	li "POKéDEX"
-	li "KAM.KSIĘŻYC." ; Kamień Księżyca
+	li "KAM.KSIĘŻYC." ; Kamień Księżycowy
 	li "ANTIDOTUM"
 	li "LEK OPARZEŃ"
 	li "ODMRAŻACZ"

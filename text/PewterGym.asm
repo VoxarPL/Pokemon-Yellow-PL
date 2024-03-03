@@ -1,186 +1,188 @@
 _PewterGymBrockPreBattleText::
-	text "I'm BROCK!"
-	line "I'm PEWTER's GYM"
-	cont "LEADER!"
+	text "Jestem BROCK,"
+	line "LIDER SALI"
+	cont "MARMORII!"
 
-	para "I believe in rock"
-	line "hard defense and"
-	cont "determination!"
+	para "Wierzę w twardą"
+	line "obronę oraz"
+	cont "determinację!"
 
-	para "That's why my"
-	line "#MON are all"
-	cont "the rock-type!"
+	para "Dlatego wszystkie"
+	line "moje #MONY są"
+	cont "typu kamiennego!"
 
-	para "Do you still want"
-	line "to challenge me?"
-	cont "Fine then! Show"
-	cont "me your best!"
+	para "Chcesz rzucić mi"
+	line "wyzwanie?"
+	cont "W porządku! Pokaż"
+	cont "mi, co potrafisz!"
 	done
 
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "Na świecie jest"
+	line "wielu różnych"
+	cont "trenerów!"
 
-	para "Some raise #MON"
-	line "for fights. Some"
-	cont "see them as pets."
+	para "Niektórzy trenują"
+	line "#MONY do walki."
+	cont "Inni widzą w nich"
+	cont "pupili."
 
-	para "I'm in training to"
-	line "become a #MON"
-	cont "breeder."
+	para "Ja trenuję, aby"
+	line "zostać hodowcą"
+	cont "#MON."
 
-	para "If you take your"
-	line "#MON training"
-	cont "seriously, go"
-	cont "visit the GYM in"
-	cont "CERULEAN and test"
-	cont "your abilities!"
+	para "Jeśli poważnie"
+	line "podchodzisz do"
+	cont "treningu, odwiedź"
+	cont "SALĘ w AZURII i"
+	cont "sprawdź swoje"
+	cont "umiejętności!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Wait! Take this"
-	line "with you!"
+	text "Poczekaj! Weź to"
+	line "ze sobą!"
 	done
 
 _PewterGymReceivedTM34Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "TM34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
-	cont "#MON!"
+	para "TM zawiera ruch,"
+	line "której można"
+	cont "nauczyć #MONA!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "TM można użyć"
+	line "tylko raz! Więc"
+	cont "gdy chcesz nauczyć"
+	cont "#MONA nowego"
+	cont "ruchu, wybierz z"
+	cont "ostrożnością!"
 
-	para "TM34 contains"
-	line "BIDE!"
+	para "TM34 zawiera ruch"
+	line "CIERPLIWOŚĆ!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "Twój #MON"
+	line "wchłonie obrażenia"
+	cont "w walce, a potem"
+	cont "zwróci je z"
+	cont "dwukrotną siłą!"
 	done
 
 _PewterGymTM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "Nie masz na to"
+	line "miejsca!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "Wziąłem to za"
+	line "pewnik."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Jako dowód twojego"
+	line "zwycięstwa, oto"
+	cont "ODZNAKA GŁAZU!"
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	para "<PLAYER> otrzymuje"
+	line "ODZNAKĘ GŁAZU!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "To oficjalna"
+	line "ODZNAKA LIGI"
+	cont "#MON!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "Posiadając ją,"
+	line "#MONY stają się"
+	cont "potężniejsze!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used anytime!"
+	para "Technika BŁYSKU"
+	line "może być używana"
+	cont "w każdej chwili!"
 	prompt
 
 _PewterGymCooltrainerMBattleText::
-	text "Stop right there,"
-	line "kid!"
+	text "Zatrzymaj się,"
+	line "młody!"
 
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "Wciąż jesteś lata"
+	line "świetlne od"
+	cont "BROCKA!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Darn!"
+	text "Kurczę!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "Lata świetlne to"
+	line "nie czas! To"
+	cont "pomiar odległości!"
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "Jesteś gorący, ale"
+	line "nie tak gorący jak"
+	cont "BROCK!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "Hejka! Masz, to,"
+	line "czego potrzeba,"
+	cont "aby zostać"
+	cont "mistrzem #MON!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "Nie jestem"
+	line "trenerem, ale"
+	cont "powiem ci, jak"
+	cont "wygrać!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "Pozwól, że zabiorę"
+	line "cię na szczyt!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "All right! Let's"
-	line "get happening!"
+	text "W porządku!"
+	line "Zacznijmy działać!"
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "Pierwszy #MON w"
+	line "walce jest na"
+	cont "szczycie listy"
+	cont "LISTY #MONÓW!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Zmiana kolejności"
+	line "#MONÓW w walce"
+	cont "może być"
+	cont "łatwiejsza!"
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "To darmowa usługa!"
+	line "Zacznijmy działać!"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "Tak jak myślałem!"
+	line "Jesteś materiałem"
+	cont "na mistrza"
+	cont "#MON!"
 	done
 
 _PewterGymGuyText::
-	text "All right! Let's"
-	line "get happening!"
+	text "W porządku!"
+	line "Zacznijmy działać!"
 
-	para "It will be tough"
-	line "for your PIKACHU"
-	cont "at this GYM!"
+	para "W tej SALI będzie"
+	line "ciężko dla twojego"
+	cont "PIKACHU!"
 
-	para "Electric attacks"
-	line "are harmless to"
-	cont "BROCK's ground-"
-	cont "type #MON."
+	para "Ataki elektryczne"
+	line "są nieszkodliwe"
+	cont "dla ziemnych"
+	cont "#MONÓW BROCKA."
 	done

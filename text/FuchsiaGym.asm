@@ -1,58 +1,57 @@
 _FuchsiaGymKogaBeforeBattleText::
-	text "KOGA: Fwahahaha!"
+	text "KOGA: Łahahaha!"
 
-	para "A mere child like"
-	line "you dares to"
-	cont "challenge me?"
+	para "Taki dzieciak jak"
+	line "ty śmie rzucać mi"
+	cont "wyzwanie?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "No dobrze, pokażę"
+	line "ci prawdziwy"
+	cont "terror jako mistrz"
+	cont "ninja!"
 
-	para "You shall feel"
-	line "the despair of"
-	cont "poison and sleep"
-	cont "techniques!"
+	para "Poczujesz rozpacz"
+	line "techniki trucizny"
+	cont "i snu!"
 	done
 
 _FuchsiaGymKogaReceivedSoulBadgeText::
 	text "Humph!"
-	line "You have proven"
-	cont "your worth!"
+	line "Udowodniłeś swoją"
+	cont "wartość!"
 
-	para "Here! Take the"
-	line "SOULBADGE!"
+	para "Proszę! Weź tę"
+	line "ODZNAKĘ DUSZY!"
 	prompt
 
 _FuchsiaGymKogaPostBattleAdviceText::
-	text "When afflicted by"
-	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	text "#MON dotknięty"
+	line "TOKSYNAMI cierpi"
+	cont "coraz bardziej"
+	cont "wraz z postępem"
+	cont "walki!"
 
-	para "It will surely"
-	line "terrorize foes!"
+	para "To z pewnością"
+	line "sterroryzuje"
+	cont "wrogów!"
 	done
 
 _FuchsiaGymKogaSoulBadgeInfoText::
-	text "Now that you have"
-	line "the SOULBADGE,"
-	cont "the DEFENSE of"
-	cont "your #MON"
-	cont "increases!"
+	text "Teraz, gdy masz"
+	line "ODZNAKĘ DUSZY,"
+	cont "OBRONA twoich"
+	cont "#MONÓW wzrasta!"
 
-	para "It also lets you"
-	line "SURF outside of"
-	cont "battle!"
+	para "Pozwala także"
+	line "SURFOWAĆ poza"
+	cont "walką!"
 
-	para "Ah! Take this"
-	line "too!"
+	para "Ach! Weź jeszcze"
+	line "to!"
 	done
 
 _FuchsiaGymKogaReceivedTM06Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -60,162 +59,161 @@ _FuchsiaGymKogaReceivedTM06Text::
 
 _FuchsiaGymKogaTM06ExplanationText::
 	text_start
-	para "TM06 contains"
-	line "TOXIC!"
+	para "TM06 zawiera ruch"
+	line "TOKSYNY!"
 
-	para "It is a secret"
-	line "technique over"
-	cont "400 years old!"
+	para "Jest to sekretna"
+	line "technika licząca"
+	cont "ponad 400 lat!"
 	done
 
 _FuchsiaGymKogaTM06NoRoomText::
-	text "Make space for"
-	line "this, child!"
+	text "Zrób na to"
+	line "miejsce, dziecko!"
 	done
 
 _FuchsiaGymRocker1BattleText::
-	text "Strength isn't"
-	line "the key for"
-	cont "#MON!"
+	text "Siła nie jest"
+	line "kluczem dla"
+	cont "#MONÓW!"
 
-	para "It's strategy!"
+	para "To strategia!"
 
-	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	para "Pokażę ci, jak"
+	line "strategia pokonuje"
+	cont "brutalną siłę!"
 	done
 
 _FuchsiaGymRocker1EndBattleText::
-	text "What?"
-	line "Extraordinary!"
+	text "Co?"
+	line "Nadzwyczajne!"
 	prompt
 
 _FuchsiaGymRocker1AfterBattleText::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "Więc łączysz siłę"
+	line "z rozumem?"
+	cont "Dobra strategia!"
 	done
 
 _FuchsiaGymRocker2BattleText::
-	text "I wanted to become"
-	line "a ninja, so I"
-	cont "joined this GYM!"
+	text "Chciałem zostać"
+	line "ninja, więc"
+	cont "wstąpiłem do tej"
+	cont "SALI!"
 	done
 
 _FuchsiaGymRocker2EndBattleText::
-	text "I'm done"
-	line "for!"
+	text "Już po mnie!"
 	prompt
 
 _FuchsiaGymRocker2AfterBattleText::
-	text "I will keep on"
-	line "training under"
-	cont "KOGA, my ninja"
-	cont "master!"
+	text "Będę kontynuował"
+	line "trening pod wodzą"
+	cont "KOGI, mojego"
+	cont "mistrza ninja!"
 	done
 
 _FuchsiaGymRocker3BattleText::
-	text "Let's see you"
-	line "beat my special"
-	cont "techniques!"
+	text "Zobaczmy, jak"
+	line "pokonujesz moje"
+	cont "specjalne"
+	cont "techniki!"
 	done
 
 _FuchsiaGymRocker3EndBattleText::
-	text "You"
-	line "had me fooled!"
+	text "Nabrałem się!"
 	prompt
 
 _FuchsiaGymRocker3AfterBattleText::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "Lubię techniki"
+	line "trucizny i snu,"
+	cont "ponieważ utrzymują"
+	cont "się po walce!"
 	done
 
 _FuchsiaGymRocker4BattleText::
-	text "Stop right there!"
+	text "Zatrzymaj się!"
 
-	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	para "Nasze niewidzialne"
+	line "ściany frustrują"
+	cont "cię?"
 	done
 
 _FuchsiaGymRocker4EndBattleText::
-	text "Whoa!"
-	line "He's got it!"
+	text "Łoł!"
+	line "On to ma!"
 	prompt
 
 _FuchsiaGymRocker4AfterBattleText::
-	text "You impressed me!"
-	line "Here's a hint!"
+	text "Zaimponowałeś mi!"
+	line "Oto podpowiedź!"
 
-	para "Look very closely"
-	line "for gaps in the"
-	cont "invisible walls!"
+	para "Przyjrzyj się"
+	line "szczelinom w"
+	cont "niewidzialnych"
+	cont "ścianach!"
 	done
 
 _FuchsiaGymRocker5BattleText::
-	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	text "Ja także uczę się"
+	line "drogi ninja z"
+	cont "mistrzem KOGĄ!"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "Ninja od dawna"
+	line "wykorzystują"
+	cont "zwierzęta!"
 	done
 
 _FuchsiaGymRocker5EndBattleText::
-	text "Awoo!"
+	text "Ału!"
 	prompt
 
 _FuchsiaGymRocker5AfterBattleText::
-	text "I still have much"
-	line "to learn!"
+	text "Wciąż muszę się"
+	line "wiele nauczyć!"
 	done
 
 _FuchsiaGymRocker6BattleText::
-	text "Master KOGA comes"
-	line "from a long line"
-	cont "of ninjas!"
+	text "Mistrz KOGA"
+	line "pochodzi z dawnego"
+	cont "rodu ninja!"
 
-	para "What did you"
-	line "descend from?"
+	para "Z czego ty się"
+	line "wywodzisz?"
 	done
 
 _FuchsiaGymRocker6EndBattleText::
-	text "Dropped"
-	line "my balls!"
+	text "Upuściłem kule!"
 	prompt
 
 _FuchsiaGymRocker6AfterBattleText::
-	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
+	text "Gdzie jest"
+	line "światło, tam jest"
+	cont "cień!"
 
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	para "Światło i cień!"
+	line "Co wybierasz?"
 	done
 
 _FuchsiaGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Joł! Przyszły"
+	line "mistrzu!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
-	cont "invisible walls!"
+	para "SALA PARMANII jest"
+	line "pełna niewidzial-"
+	cont "nych ścian!"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
+	para "KOGA może wydawać"
+	line "się blisko, ale"
+	cont "jest zablokowany!"
 
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "Znajdź luki w"
+	line "ścianach, aby go"
+	cont "odnaleźć!"
 	done
 
 _FuchsiaGymGymGuideBeatKogaText::
-	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	text "To niesamowite,"
+	line "jak ninja może"
+	cont "przerażać!"
 	done

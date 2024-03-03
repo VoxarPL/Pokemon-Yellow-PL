@@ -1,22 +1,22 @@
 _Route16Gate1FGuardNoPedestriansAllowedText::
-	text "No pedestrians"
-	line "are allowed on"
-	cont "CYCLING ROAD!"
+	text "Piesi nie mogą"
+	line "poruszać się po"
+	cont "DRODZE ROWEROWEJ!"
 	done
 
 _Route16Gate1FGuardCyclingRoadExplanationText::
-	text "CYCLING ROAD is a"
-	line "downhill course"
-	cont "by the sea. It's"
-	cont "a great ride."
+	text "DROGA ROWEROWA to"
+	line "trasa zjazdowa nad"
+	cont "morzem. To świetna"
+	cont "przejażdżka."
 	done
 
 _Route16Gate1FGuardWaitUpText::
-	text "Excuse me! Wait"
-	line "up please!"
+	text "Przepraszam!"
+	line "Zaczekaj, proszę!"
 	done
 
 _Route16Gate1FGamblerText::
-	text "How'd you get in?"
-	line "Good effort!"
+	text "Jak się dostałeś?"
+	line "Dobry wysiłek!"
 	done

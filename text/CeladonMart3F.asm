@@ -1,99 +1,102 @@
 _CeladonMart3FGameBoyKid1Text::
-	text "Captured #MON"
-	line "are registered"
-	cont "with an ID No."
-	cont "and OT, the name"
-	cont "of the Original"
-	cont "Trainer that"
-	cont "caught it!"
+	text "Złapany #MON"
+	line "rejestrowany jest"
+	cont "z numerem ID oraz"
+	cont "OT, czyli imieniem"
+	cont "Oryginalnego"
+	cont "Trenera, który go"
+	cont "złapał!"
 	done
 
 _CeladonMart3FGameBoyKid2Text::
-	text "All right!"
+	text "W porządku!"
 
-	para "My buddy's going"
-	line "to trade me his"
-	cont "KANGASKHAN for my"
-	cont "GRAVELER!"
+	para "Mój kumpel wymieni"
+	line "mi swojego"
+	cont "KANGASKHANA na"
+	cont "mojego GRAVELERA!"
 	done
 
 _CeladonMart3FGameBoyKid3Text::
-	text "Come on GRAVELER!"
+	text "Dalej, GRAVELER!"
 
-	para "I love GRAVELER!"
-	line "I collect them!"
+	para "Kocham GRAVELERY!"
+	line "Zbieram je!"
 
-	para "Huh?"
+	para "Hę?"
 
-	para "GRAVELER turned"
-	line "into a different"
-	cont "#MON!"
+	para "GRAVELER zmienił"
+	line "się w innnego"
+	cont "#MONA!"
 	done
 
 _CeladonMart3FLittleBoyText::
-	text "You can identify"
-	line "#MON you got"
-	cont "in trades by"
-	cont "their ID Numbers!"
+	text "Możesz rozpoznać"
+	line "#MONY z wymiany"
+	cont "po ich numerach"
+	cont "ID!"
 	done
 
 _CeladonMart3FSNESText::
-	text "It's an SNES!"
+	text "To SNES!"
 	done
 
 _CeladonMart3FRPGText::
-	text "An RPG! There's"
-	line "no time for that!"
+	text "RPG! Nie ma na to"
+	line "czasu!"
 	done
 
 _CeladonMart3FSportsGameText::
-	text "A sports game!"
-	line "Dad'll like that!"
+	text "Gra sportowa!"
+	line "Tacie się spodoba!"
 	done
 
 _CeladonMart3FPuzzleGameText::
-	text "A puzzle game!"
-	line "Looks addictive!"
+	text "Gra logiczna!"
+	line "Bardzo wciągająca!"
 	done
 
 _CeladonMart3FFightingGameText::
-	text "A fighting game!"
-	line "Looks tough!"
+	text "Bijatyka! Wygląda"
+	line "na trudną!"
 	done
 
 _CeladonMart3FCurrentFloorSignText::
-	text "3F: TV GAME SHOP"
+	text "3P: SKLEP Z GRAMI"
 	done
 
 _CeladonMart3FPokemonPosterText::
-	text "Red and Blue!"
-	line "Both are #MON!"
+	text "Wersja Czerwona i"
+	line "Niebieska!"
+
+	para "Złap je wszystkie!"
 	done
 
 _CeladonMart3FClerkTM18PreReceiveText::
-	text "Oh, hi! I finally"
-	line "finished #MON!"
+	text "Och, cześć! W"
+	line "końcu przeszedłem"
+	cont "#MONY!"
 
-	para "Not done yet?"
-	line "This might be"
-	cont "useful!"
+	para "Jeszcze nie?"
+	line "To może być"
+	cont "przydatne!"
 	prompt
 
 _CeladonMart3FClerkReceivedTM18Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonMart3FClerkTM18ExplanationText::
-	text "TM18 is COUNTER!"
-	line "Not like the one"
-	cont "I'm leaning on,"
-	cont "mind you!"
+	text "TM18 to KONTRA!"
+	line "Nie tak jak ten,"
+	cont "na którym się"
+	cont "opieram!"
 	done
 
 _CeladonMart3FClerkTM18NoRoomText::
-	text "Your pack is full"
-	line "of items!"
+	text "Twój plecak jest"
+	line "pełen przedmiotów!"
 	done

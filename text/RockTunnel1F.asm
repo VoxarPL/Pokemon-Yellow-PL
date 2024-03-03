@@ -1,115 +1,112 @@
 _RockTunnel1FHiker1BattleText::
-	text "This tunnel goes"
-	line "a long way, kid!"
+	text "Ten tunel jest"
+	line "długi, młody!"
 	done
 
 _RockTunnel1FHiker1EndBattleText::
-	text "Doh!"
-	line "You win!"
+	text "Och!"
+	line "Wygrałeś!"
 	prompt
 
 _RockTunnel1FHiker1AfterBattleText::
-	text "Watch for ONIX!"
-	line "It can put the"
-	cont "squeeze on you!"
+	text "Uważaj na ONIXY!"
+	line "Mogą cię ścisnąć!"
 	done
 
 _RockTunnel1FHiker2BattleText::
-	text "Hmm. Maybe I'm"
-	line "lost in here..."
+	text "Hmm. Może się tu"
+	line "zgubiłem..."
 	done
 
 _RockTunnel1FHiker2EndBattleText::
-	text "Ease up!"
-	line "What am I doing?"
-	cont "Which way is out?"
+	text "Spokojnie! Co ja"
+	line "robię? Którędy do"
+	cont "wyjścia?"
 	prompt
 
 _RockTunnel1FHiker2AfterBattleText::
-	text "That sleeping"
-	line "#MON on ROUTE"
-	cont "12 forced me to"
-	cont "take this detour."
+	text "Ten śpiący"
+	line "#MON na DRODZE"
+	cont "12 zmusił mnie do"
+	cont "obrania tej drogi."
 	done
 
 _RockTunnel1FHiker3BattleText::
-	text "Outsiders like"
-	line "you need to show"
-	cont "me some respect!"
+	text "Tacy jak ty"
+	line "powinni okazać mi"
+	cont "trochę szacunku!"
 	done
 
 _RockTunnel1FHiker3EndBattleText::
-	text "I give!"
+	text "Oddaję!"
 	prompt
 
 _RockTunnel1FHiker3AfterBattleText::
-	text "You're talented"
-	line "enough to hike!"
+	text "Jesteś na tyle"
+	line "utalentowany, by"
+	cont "wędrować!"
 	done
 
 _RockTunnel1FSuperNerdBattleText::
-	text "#MON fight!"
-	line "Ready, go!"
+	text "Walka #MON!"
+	line "Gotowy, start!"
 	done
 
 _RockTunnel1FSuperNerdEndBattleText::
-	text "Game"
-	line "over!"
+	text "Koniec gry!"
 	prompt
 
 _RockTunnel1FSuperNerdAfterBattleText::
-	text "Oh well, I'll get"
-	line "a ZUBAT as I go!"
+	text "No cóż, złapię"
+	line "ZUBATA po drodze!"
 	done
 
 _RockTunnel1FCooltrainerF1BattleText::
-	text "Eek! Don't try"
-	line "anything funny in"
-	cont "the dark!"
+	text "Eek! Nie próbuj"
+	line "niczego śmiesznego"
+	cont "w ciemności!"
 	done
 
 _RockTunnel1FCooltrainerF1EndBattleText::
-	text "It"
-	line "was too dark!"
+	text "Było za ciemno!"
 	prompt
 
 _RockTunnel1FCooltrainerF1AfterBattleText::
-	text "I saw a MACHOP"
-	line "in this tunnel!"
+	text "Widziałam MACHOPA"
+	line "w tym tunelu!"
 	done
 
 _RockTunnel1FCooltrainerF2BattleText::
-	text "I came this far"
-	line "for #MON!"
+	text "Dotarłam tak"
+	line "daleko dla"
+	cont "#MONÓW!"
 	done
 
 _RockTunnel1FCooltrainerF2EndBattleText::
-	text "I'm"
-	line "out of #MON!"
+	text "Skończyły mi się"
+	line "#MONY!"
 	prompt
 
 _RockTunnel1FCooltrainerF2AfterBattleText::
-	text "You looked cute"
-	line "and harmless!"
+	text "Wyglądałeś uroczo"
+	line "i nieszkodliwie!"
 	done
 
 _RockTunnel1FCooltrainerF3BattleText::
-	text "You have #MON!"
-	line "Let's start!"
+	text "Masz #MONY!"
+	line "Zaczynajmy!"
 	done
 
 _RockTunnel1FCooltrainerF3EndBattleText::
-	text "You"
-	line "play hard!"
+	text "Grasz ostro!"
 	prompt
 
 _RockTunnel1FCooltrainerF3AfterBattleText::
-	text "Whew! I'm all"
-	line "sweaty now!"
+	text "Uff! Jestem cała"
+	line "Jestem cały spocony!!"
 	done
 
 _RockTunnel1FSignText::
-	text "ROCK TUNNEL"
-	line "CERULEAN CITY -"
-	cont "LAVENDER TOWN"
+	text "KAMIENNY TUNEL"
+	line "AZURIA - LAWANDIA"
 	done

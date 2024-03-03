@@ -1,64 +1,65 @@
 _LancesRoomLanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you, <PLAYER>!"
+	text "Ach! Słyszałem o"
+	line "tobie, <PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Przewodzę ELITARNĄ"
+	line "CZWÓRKĄ! Możesz mi"
+	cont "mówić LANCE,"
+	cont "trener smoków!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Wiesz, że smoki to"
+	line "mityczne #MONY!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "Trudno je złapać i"
+	line "trenować, ale ich"
+	cont "siła jest"
+	cont "ponadprzeciętna!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "Są praktycznie"
+	line "niezniszczalne!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Cóż, jesteś gotowy"
+	line "na przegraną?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "Twoje wyzwanie"
+	line "LIGI kończy się na"
+	cont "mnie, <PLAYER>!"
 	done
 
 _LancesRoomLanceEndBattleText::
-	text "That's it!"
+	text "Otóż to!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "Muszę przyznać, że"
+	line "jesteś mistrzem"
+	cont "#MON!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "Wciąż nie mogę"
+	line "uwierzyć, że moje"
+	cont "smoki przegrały z"
+	cont "tobą, <PLAYER>!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "Jesteś teraz"
+	line "Mistrzem LIGI"
+	cont "#MON!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...Albo byłbyś, ale"
+	line "masz przed sobą"
+	cont "jeszcze jedno"
+	cont "wyzwanie."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "Musisz stawić"
+	line "czoła jeszcze"
+	cont "jednemu Trenerowi!"
+	cont "Nazywa się..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Pokonał ELITARNĄ"
+	cont "CZWÓRKĘ przed"
+	cont "tobą!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "On jest prawdziwym"
+	line "Mistrzem LIGI"
+	cont "#MON!@"
 	text_end

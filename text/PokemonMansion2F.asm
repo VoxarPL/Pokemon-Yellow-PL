@@ -1,47 +1,48 @@
 _PokemonMansion2FSuperNerdBattleText::
-	text "I can't get out!"
-	line "This old place is"
-	cont "one big puzzle!"
+	text "Nie mogę wyjść!"
+	line "To stare miejsce"
+	cont "to wielka zagadka!"
 	done
 
 _PokemonMansion2FSuperNerdEndBattleText::
-	text "Oh no!"
-	line "My bag of loot!"
+	text "O nie!"
+	line "Mój torba łupów!"
 	prompt
 
 _PokemonMansion2FSuperNerdAfterBattleText::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "Przełączniki ot-"
+	line "wierają i zamykają"
+	cont "naprzemiennie"
+	cont "zestawy drzwi!"
 	done
 
 _PokemonMansion2FDiary1Text::
-	text "Diary: July 5"
-	line "Guyana,"
-	cont "South America"
+	text "Dziennik: 5 lipca"
+	line "Gujana, Ameryka"
+	cont "Południowa"
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "Głęboko w dżungli"
+	line "odkryto nowego"
+	cont "#MONA."
 	done
 
 _PokemonMansion2FDiary2Text::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "Dziennik: 10 lipca"
+	line "Ochrzciliśmy nowo"
+	cont "odkrytego"
+	cont "#MONA, MEW."
 	done
 
 _PokemonMansion2FSwitchText::
-	text "A secret switch!"
+	text "Tajny przełącznik!"
 
-	para "Press it?"
+	para "Nacisnąć?"
 	done
 
 _PokemonMansion2FSwitchPressedText::
-	text "Who wouldn't?"
+	text "Kto by nie chciał?"
 	prompt
 
 _PokemonMansion2FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Jeszcze nie!"
 	done

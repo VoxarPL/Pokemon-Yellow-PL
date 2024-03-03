@@ -1,71 +1,71 @@
 _BikeShopClerkWelcomeText::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "Witamy w naszym"
+	line "SKLEPIE ROWEROWYM."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "Mamy dla ciebie"
+	line "odpowiedni ROWER!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "Fajny ROWER!"
+	line "Chcesz go?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "Wybacz! Nie stać"
+	line "cię na niego!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, that's..."
+	text "Och, to..."
 
-	para "A BIKE VOUCHER!"
+	para "KUPON NA ROWER!"
 
-	para "OK! Here you go!"
+	para "OK! Proszę bardzo!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "<PLAYER> wymienia"
+	line "KUPON NA ROWER na"
+	cont "ROWER.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "sometime!"
+	text "Wpadnij jeszcze"
+	line "kiedyś!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "Jak ci się podoba"
+	line "twój nowy ROWER?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "Możesz go zabrać"
+	line "na DROGĘ ROWEROWĄ"
+	cont "i do jaskiń!"
 	done
 
 _BikeShopBagFullText::
-	text "You better make"
-	line "room for this!"
+	text "Lepiej zrób na"
+	line "niego miejsce!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "Zwykły ROWER "
+	line "miejski mi"
+	cont "wystarczy!"
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	para "Nie możesz nosić"
+	line "zakupów na ROWERZE"
+	cont "górskim!"
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "Te ROWERY są"
+	line "fajne, ale bardzo"
+	cont "drogie!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "Łał. Twój ROWER"
+	line "jest fajny!"
 	done

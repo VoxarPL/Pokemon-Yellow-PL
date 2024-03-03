@@ -1283,7 +1283,7 @@ _BoostedText:: ; sprawdzić
 
 _ExpPointsText::
 	text_decimal wExpAmountGained, 2, 4
-	text " Punktów EXP.!"
+	text " Pkt Dośw.!"
 	prompt
 
 _GrewLevelText:: ; poprawić

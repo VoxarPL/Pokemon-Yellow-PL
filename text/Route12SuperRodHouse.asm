@@ -1,62 +1,58 @@
 _Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "Jestem bratem"
+	line "RYBACKIEGO GURU!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Po prostu kooocham"
+	line "łowić ryby!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Też lubisz łowić"
+	line "ryby?"
 	done
 
 _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "Wspaniale! Podoba"
+	line "mi się twój styl!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Weź to i łów,"
+	line "młodzieńcze!"
 
-	para "<PLAYER> received"
-	line "a @"
-	text_ram wStringBuffer
-	text "!@"
+	para "<PLAYER> otrzymuje"
+	line "SUPER WĘDKĘ!@"
 	text_end
 
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "Wędkarstwo to"
+	line "sposób na życie!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "Od mórz po rzeki,"
+	line "wypłyń i złap"
+	cont "największą!"
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Och... To takie"
+	line "rozczarowujące..."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::
-	text "Hello there,"
-	line "<PLAYER>!"
+	text "Cześć, <PLAYER>!"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "Użyj SUPER WĘDKI w"
+	line "każdej wodzie!"
+	cont "Możesz łowić różne"
+	cont "gatunki #MONÓW!"
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "Spróbuj łowić,"
+	line "gdzie tylko można!"
 	done
 
 _Route12SuperRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "O nie!"
 
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	para "Miałem dla ciebie"
+	line "prezent, ale nie"
+	cont "masz na niego"
+	cont "miejsca!"
 	done

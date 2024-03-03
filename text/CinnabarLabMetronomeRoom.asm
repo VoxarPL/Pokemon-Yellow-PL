@@ -1,13 +1,13 @@
 _CinnabarLabMetronomeRoomScientist1Text::
 	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	line "Zrobiłem fajny TM!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "Może sprawić wiele"
+	line "zabawy!"
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -15,50 +15,50 @@ _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
 	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	line "To jest dźwięk"
+	cont "METRONOMU!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "Podkręca mózg"
+	line "#MONA do"
+	cont "używania ruchów,"
+	cont "których nie zna!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "Twój plecak jest"
+	line "przepełniony!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "EEVEE może"
+	line "ewoluować w 1 z 3"
+	cont "gatunków #MON."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "There's an e-mail"
-	line "message!"
+	text "Przyszła wiadomość"
+	line "e-mail!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
-	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	para "3 legendarne"
+	line "#MONY to"
+	cont "ARTICUNO, ZAPDOS i"
+	cont "MOLTRES."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "Ich miejsce pobytu"
+	line "jest nieznane."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "Planujemy zbadać"
+	line "jaskinię w pobliżu"
+	cont "AZURII."
 
-	para "From: #MON"
-	line "RESEARCH TEAM"
+	para "Od: ZESPÓŁ"
+	line "BADAWCZY #MONÓW"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "An amber pipe!"
+	text "Bursztynowa fajka!"
 	done

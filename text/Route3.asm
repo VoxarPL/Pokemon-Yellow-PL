@@ -1,145 +1,145 @@
 _Route3Text1::
-	text "Whew... I better"
-	line "take a rest..."
-	cont "Groan..."
+	text "Uff... Lepiej sobie"
+	line "odpocznę..."
+	cont "Jęk..."
 
-	para "That tunnel from"
-	line "CERULEAN takes a"
-	cont "lot out of you!"
+	para "Ten tunel z AZURII"
+	line "wymaga sporo"
+	cont "wysiłku!"
 	done
 
 _Route3Youngster1BattleText::
-	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	text "Hej! Spotkałem cię"
+	line "w LESIE"
+	cont "WERTAŃSKIM!"
 	done
 
 _Route3Youngster1EndBattleText::
-	text "You"
-	line "beat me again!"
+	text "Znowu mnie"
+	line "pokonałeś!"
 	prompt
 
 _Route3Youngster1AfterBattleText::
-	text "There are other"
-	line "kinds of #MON"
-	cont "than those found"
-	cont "in the forest!"
+	text "Istnieją inne"
+	line "gatunki #MONÓW"
+	cont "niż te, które"
+	cont "znajdziesz lesie!"
 	done
 
 _Route3Youngster2BattleText::
-	text "Hi! I like shorts!"
-	line "They're comfy and"
-	cont "easy to wear!"
+	text "Cześć! Lubię"
+	line "szorty! Są wygodne"
+	cont "i łatwo się je"
+	cont "nosi!"
 	done
 
 _Route3Youngster2EndBattleText::
-	text "I don't"
-	line "believe it!"
+	text "Nie wierzę!"
 	prompt
 
 _Route3Youngster2AfterBattleText::
-	text "Are you storing"
-	line "your #MON on"
-	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
+	text "Przechowujesz"
+	line "swoje #MONY w"
+	cont "PC? Każdy BOX może"
+	cont "pomieścić do 20"
+	cont "#MONÓW!"
 	done
 
 _Route3CooltrainerF1BattleText::
-	text "You looked at me,"
-	line "didn't you?"
+	text "Spojrzałeś na"
+	line "mnie, prawda?"
 	done
 
 _Route3CooltrainerF1EndBattleText::
-	text "You're"
-	line "mean!"
+	text "Jesteś podły!"
 	prompt
 
 _Route3CooltrainerF1AfterBattleText::
-	text "Quit staring if"
-	line "you don't want to"
-	cont "fight!"
+	text "Przestań się"
+	line "gapić, skoro nie"
+	cont "chcesz walczyć!"
 	done
 
 _Route3Youngster3BattleText::
-	text "Are you a trainer?"
-	line "Let's fight!"
+	text "Jesteś trenerem?"
+	line "Walczmy!"
 	done
 
 _Route3Youngster3EndBattleText::
-	text "If I"
-	line "had new #MON,"
-	cont "I would've won!"
+	text "Gdybym miał nowe"
+	line "#MONY, to bym"
+	cont "wygrał!"
 	prompt
 
 _Route3Youngster3AfterBattleText::
-	text "If a #MON BOX"
-	line "on the PC gets"
-	cont "full, just switch"
-	cont "to another BOX!"
+	text "Jeśli BOX #MON"
+	line "zapełni się,"
+	cont "przełącz się na"
+	cont "inny BOX!"
 	done
 
 _Route3CooltrainerF2BattleText::
-	text "That look you"
-	line "gave me, it's so"
-	cont "intriguing!"
+	text "To spojrzenie jest"
+	line "takie intrygujące!"
 	done
 
 _Route3CooltrainerF2EndBattleText::
-	text "Be nice!"
+	text "Bądź miły!"
 	prompt
 
 _Route3CooltrainerF2AfterBattleText::
-	text "Avoid fights by"
-	line "not letting"
-	cont "people see you!"
+	text "Unikaj walk, nie"
+	line "pozwalając ludziom"
+	cont "cię zobaczyć!"
 	done
 
 _Route3Youngster4BattleText::
-	text "Hey! You're not"
-	line "wearing shorts!"
+	text "Hej! Ty nie nosisz"
+	line "szortów!"
 	done
 
 _Route3Youngster4EndBattleText::
-	text "Lost!"
-	line "Lost! Lost!"
+	text "Porażka! Porażka!"
+	line "Porażka! Porażka!"
 	prompt
 
 _Route3Youngster4AfterBattleText::
-	text "I always wear"
-	line "shorts, even in"
-	cont "winter!"
+	text "Zawsze noszę"
+	line "szorty, nawet"
+	cont "zimą!"
 	done
 
 _Route3Youngster5BattleText::
-	text "You can fight my"
-	line "new #MON!"
+	text "Powalcz z moim"
+	line "nowym #MONEM!"
 	done
 
 _Route3Youngster5EndBattleText::
-	text "Done"
-	line "like dinner!"
+	text "Gotowe jak obiad!"
 	prompt
 
 _Route3Youngster5AfterBattleText::
-	text "Trained #MON"
-	line "are stronger than"
-	cont "the wild ones!"
+	text "Trenowane #MONY"
+	line "są silniejsze od"
+	cont "dzikich!"
 	done
 
 _Route3CooltrainerF3BattleText::
-	text "Eek! Did you"
-	line "touch me?"
+	text "Eek! Dotknąłeś"
+	line "mnie?"
 	done
 
 _Route3CooltrainerF3EndBattleText::
-	text "That's it?"
+	text "I to tyle?"
 	prompt
 
 _Route3CooltrainerF3AfterBattleText::
-	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
+	text "DROGA 4 u podnóża"
+	line "KSIĘŻYCOWEJ GÓRA."
 	done
 
 _Route3SignText::
-	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	text "DROGA 3"
+	line "PRZED TOBĄ"
+	cont "KSIĘŻYCOWA GÓRA"
 	done

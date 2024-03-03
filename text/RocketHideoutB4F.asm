@@ -1,67 +1,67 @@
 _RocketHideoutJessieJamesText1::
-	text "Not another step,"
-	line "brat!@"
+	text "Ani kroku dalej,"
+	line "głąbie!@"
 	text_end
 
 _RocketHideoutJessieJamesText2::
-	text "How dare you"
-	line "humiliate us at"
-	cont "MT.MOON!"
+	text "Jak śmiałeś"
+	line "upokarzać nas na"
+	cont "KSIĘŻYCOWEJ GÓRZE!"
 
-	para "It's payback time,"
-	line "you brat!"
+	para "Czas na zemstę,"
+	line "głąbie!"
 	done
 
 _RocketHideoutJessieJamesText3::
-	text "Such"
-	line "a dreadful twerp!"
+	text "Co za okropny"
+	line "dureń!"
 	prompt
 
 _RocketHideoutJessieJamesText4::
-	text "Looks like TEAM"
-	line "ROCKET's blasting"
-	cont "off again!@"
+	text "ZESPÓŁ R znowu"
+	line "błysnął!@"
 	text_end
 
 _RocketHideoutB4FGiovanniImpressedYouGotHereText::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "Muszę przyznać, że"
+	line "zaimponowałeś mi,"
+	cont "że tu dotarłeś!"
 	done
 
 _RocketHideoutB4FGiovanniWhatCannotBeText::
-	text "WHAT!"
-	line "This cannot be!"
+	text "CO?!"
+	line "To niemożliwe!"
 	prompt
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "Trenujesz swoje"
+	line "#MONY z dużą"
+	cont "starannością."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "Dziecko takie jak"
+	line "ty nigdy nie"
+	cont "pojmie, co mam"
+	cont "zamiar osiągnąć."
 
-	para "I shall step"
-	line "aside this time!"
+	para "Tym razem się"
+	line "wycofam!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Mam nadzieję, że"
+	line "jeszcze się"
+	cont "spotkamy..."
 	done
 
 _RocketHideoutB4FRocket2BattleText::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "Winda nie działa?"
+	line "Kto ma KLCUZ DO"
+	cont "WINDY?"
 	done
 
 _RocketHideoutB4FRocket2EndBattleText::
-	text "No!"
+	text "Nie!"
 	prompt
 
 _RocketHideoutB4FRocket2AfterBattleText::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "O nie! Upuściłem"
+	line "KLCUZ DO WINDY!"
 	done

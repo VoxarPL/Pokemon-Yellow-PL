@@ -1,9 +1,10 @@
 _CinnabarLabTradeRoomSuperNerdText::
-	text "I found this very"
-	line "strange fossil in"
-	cont "MT.MOON!"
+	text "Znalazłem tę"
+	line "bardzo dziwną"
+	cont "skamielinę na"
+	cont "KSIĘŻYCOWEJ GÓRZE!"
 
-	para "I think it's a"
-	line "rare, prehistoric"
+	para "Myślę, że to"
+	line "rzadki, pradawny"
 	cont "#MON!"
 	done

@@ -1,55 +1,51 @@
 _VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
+	text "Jestem RYBACKIM"
 	line "GURU!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Po prostu kooocham"
+	line "łowić ryby!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Też lubisz łowić"
+	line "ryby?"
 	done
 
 _VermilionOldRodHouseFishingGuruTakeThisText::
-	text "Grand! I like"
-	line "your style!"
+	text "Wspaniale! Podoba"
+	line "mi się twój styl!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Weź to i łów,"
+	line "młodzieńcze!"
 
-	para "<PLAYER> received"
-	line "an @"
-	text_ram wStringBuffer
-	text "!@"
+	para "<PLAYER> otrzymuje"
+	line "STARĄ WĘDKĘ!@"
 	text_end
 
 _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "Wędkarstwo to"
+	line "sposób na życie!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "Od mórz po rzeki,"
+	line "wypłyń i złap"
+	cont "największą,"
+	cont "młodzieńcze!"
 	done
 
 _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Och... To takie"
+	line "rozczarowujące..."
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
-	text "Hello there,"
-	line "<PLAYER>!"
+	text "Cześć, <PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Jak biorą ryby?"
 	done
 
 _VermilionOldRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "O nie!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Nie masz miejsca"
+	line "na mój prezent!"
 	done

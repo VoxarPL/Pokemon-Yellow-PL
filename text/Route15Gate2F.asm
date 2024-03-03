@@ -1,24 +1,25 @@
 _Route15Gate2FOaksAideExpAllText::
-	text "EXP.ALL gives"
-	line "EXP points to all"
-	cont "the #MON with"
-	cont "you, even if they"
-	cont "don't fight."
+	text "ROZDZIELACZ daje"
+	line "punkty doświadcze-"
+	cont "nia wszystkim"
+	cont "twoim #MONOM,"
+	cont "nawet jeśli nie"
+	cont "walczyły."
 
-	para "It does, however,"
-	line "reduce the amount"
-	cont "of EXP for each"
-	cont "#MON."
+	para "Zmniejsza jednak"
+	line "ilość doświadcze-"
+	cont "nia dla każdego"
+	cont "#MONA."
 
-	para "If you don't need"
-	line "it, you should "
-	cont "store it via PC."
+	para "Jeśli go nie"
+	line "chcesz, schowaj go"
+	cont "do PC."
 	done
 
 _Route15Gate2FBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Spojrzałeś w."
+	line "lornetkę."
 
-	para "It looks like a"
-	line "small island!"
+	para "Wygląda jak mała"
+	line "wyspa!"
 	done
