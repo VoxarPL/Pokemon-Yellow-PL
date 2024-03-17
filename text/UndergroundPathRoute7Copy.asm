@@ -1,35 +1,36 @@
 _UndergroundPathRoute7CopyUnusedGirlText::
-	text "I want to shop at"
-	line "the dept. store"
-	cont "in CELADON but..."
+	text "Chcę zrobić zakupy"
+	line "w sklepie w"
+	cont "PRYZMANII, ale..."
 
-	para "There are so many"
-	line "rough looking"
-	cont "people there."
+	para "Jest tam tak wielu"
+	line "nieokrzesanych"
+	cont "ludzi."
 	done
 
 _UndergroundPathRoute7CopyUnusedTeamRocketHadAHideoutText::
-	text "TEAM ROCKET had a"
-	line "secret hideout in"
-	cont "CELADON CITY?"
+	text "ZESPÓŁ R miał"
+	line "tajną kryjówkę w"
+	cont "PRYZMANII?"
 	done
 
 _UndergroundPathRoute7CopyUnusedMiddleAgedManText::
-	text "You're here to"
-	line "shop in CELADON?"
+	text "Jesteś tutaj, by"
+	line "zrobić zakupy w"
+	cont "PRYZMANII?"
 
-	para "Just step outside"
-	line "and head west!"
+	para "Wystarczy wyjść i"
+	line "pójść na zachód!"
 	done
 
 _UndergroundPathRoute7CopyUnusedGoesUnderSaffronText::
-	text "The UNDERGROUND"
-	line "PATH goes beneath"
-	cont "SAFFRON and leads"
-	cont "to LAVENDER."
+	text "PODZIEMNY TUNEL"
+	line "idzie pod SAFRANIĄ"
+	cont "i prowadzi do"
+	cont "LAWANDII."
 
-	para "If you're heading"
-	line "to CERULEAN, go"
-	cont "to the building"
-	cont "across the road."
+	para "Jeśli zmierzasz do"
+	line "AZURII, idź do"
+	cont "budynku po drugiej"
+	cont "stronie ulicy."
 	done

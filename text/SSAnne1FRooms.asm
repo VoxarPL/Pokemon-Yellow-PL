@@ -4,102 +4,104 @@ _SSAnne1FRoomsWigglytuffText::
 	text_end
 
 _SSAnne1FRoomsGentleman1BattleText::
-	text "I travel alone"
-	line "on my journeys!"
+	text "Zawsze podróżuję"
+	line "samotnie!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "Moje #MONY to"
+	line "moi jedyni"
+	cont "przyjaciele!"
 	done
 
 _SSAnne1FRoomsGentleman1EndBattleText::
-	text "My, my"
-	line "friends..."
+	text "Moi, moi"
+	line "przyjaciele..."
 	prompt
 
 _SSAnne1FRoomsGentleman1AfterBattleText::
-	text "You should be"
-	line "nice to friends!"
+	text "Warto być miłym"
+	line "dla przyjaciół!"
 	done
 
 _SSAnne1FRoomsGentleman2BattleText::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "Ty szczeniaku!"
+	line "Jak śmiesz się tu"
+	cont "wpraszać!"
 	done
 
 _SSAnne1FRoomsGentleman2EndBattleText::
-	text "Humph!"
-	line "You rude child!"
+	text "Humph! Niegrzeczne"
+	line "dziecko!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "Chcę zostać sam!"
+	line "Wynocha!"
 	done
 
 _SSAnne1FRoomsYoungsterBattleText::
-	text "I love #MON!"
-	line "Do you?"
+	text "Kocham #MONY!"
+	line "A ty?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
-	text "Wow! "
-	line "You're great!"
+	text "Łał! "
+	line "Świetny jesteś!"
 	prompt
 
 _SSAnne1FRoomsYoungsterAfterBattleText::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Zaprzyjaźnijmy"
+	line "się, dobra?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "Wtedy wymienimy"
+	line "się #MONAMI!"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Zebrałam te"
+	line "#MONY z całego"
+	cont "świata!"
 	done
 
 _SSAnne1FRoomsCooltrainerFEndBattleText::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "O nie! Przebyłam"
+	line "cały świat, żeby"
+	cont "je zdobyć!"
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "Zraniłeś mojego"
+	line "biednego #MONY!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "Żądam, abyś"
+	line "wyleczył je w"
+	cont "CENTRUM #MON!"
 	done
 
 _SSAnne1FRoomsGirl1Text::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "Kelner, poproszę"
+	line "ciasto wiśniowe!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "Rejs jest taki"
+	line "elegancki, a"
+	cont "zarazem przytulny!"
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "Zawsze podróżuję"
+	line "WIGGLYTUFF!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
-	text "We are cruising"
-	line "around the world."
+	text "Płyniemy dookoła"
+	line "świata."
 	done
 
 _SSAnne1FRoomsGentleman3Text::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "Ci! Jestem agentem"
+	line "GLOBALNEJ POLICJI!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "Jestem na tropie"
+	line "ZESPOŁU R!"
 	done

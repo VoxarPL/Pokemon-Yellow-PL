@@ -1,69 +1,70 @@
 _SSAnneKitchenCook1Text::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "Ty, mon petit!"
+	line "Jesteśmy zajęci!"
+	cont "Z drogi!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "Widziałem dziwną"
+	line "kulę w koszu."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "Jestem tak zajęty,"
+	line "że mam zawroty"
+	cont "głowy!"
 	done
 
 _SSAnneKitchenCook4Text::
 	text "Hum-de-hum-de-"
 	line "ho..."
 
-	para "I peel spuds"
-	line "every day!"
+	para "Codziennie obieram"
+	line "kartofle!"
 	cont "Hum-hum..."
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Did you hear about"
-	line "SNORLAX?"
+	text "Słyszałeś o"
+	line "SNORLAXIE?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Jedyne, co robi,"
+	line "to śpi i je!"
 	done
 
 _SSAnneKitchenCook6Text::
 	text "Snivel...Sniff..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Mogę tylko obierać"
+	line "cebulę... Snivel..."
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "Er-hem! W rzeczy"
+	line "samej, jestem le"
+	cont "SZEF!"
 
-	para "Le main course is"
+	para "Danie główne to..."
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salade de Salmon!"
+	text "Sałatka z łososia!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "Les goście mogą"
+	line "jednak narzekać,"
+	cont "że to znowu ryba!"
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Eels au Barbecue!"
+	text "Węgorz z grilla!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "Les goście będą"
+	line "się buntować."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Prime Beef Steak!"
+	text "Stek z wołowiny!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "Ale czy mam dość"
+	line "filetów?"
 	done

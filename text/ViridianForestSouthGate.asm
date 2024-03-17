@@ -1,16 +1,17 @@
 _ViridianForestSouthGateGirlText::
-	text "Are you going to"
-	line "VIRIDIAN FOREST?"
-	cont "Be careful, it's"
-	cont "a natural maze!"
+	text "Wybierasz się do"
+	line "LASU WERTAŃSKIEGO?"
+	cont "Uważaj, to istny"
+	cont "labirynt!"
 	done
 
 _ViridianForestSouthGateLittleGirlText::
-	text "You have to roam"
-	line "far to get new"
-	cont "kinds of #MON."
+	text "Musisz wędrować"
+	line "daleko, aby złapać"
+	cont "nowe gatunki"
+	cont "#MONÓW."
 
-	para "Look for other"
-	line "types outside of"
-	cont "VIRIDIAN FOREST."
+	para "Poszukaj innych"
+	line "typów poza LASEM"
+	cont "WERTAŃSKIM."
 	done

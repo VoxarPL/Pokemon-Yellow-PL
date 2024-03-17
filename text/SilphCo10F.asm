@@ -1,68 +1,65 @@
 _SilphCo10FSilphWorkerFImScaredText::
-	text "Waaaaa!"
-	line "I'm scared!"
+	text "Łaaaaa!"
+	line "Boję się!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "Proszę, przemilcz"
+	line "mój płacz!"
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Witamy na 10P!"
+	line "Miło, że do mnie"
+	cont "dołączyłeś!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text "Jestem oniemiały!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "Niezła próba, ale"
+	line "sala konferencyjna"
+	cont "jest piętro wyżej!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Enough of your"
-	line "silly games!"
+	text "Dość tych głupich"
+	line "gierek!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "No"
-	line "continues left!"
+	text "Nie pozostało już"
+	line "nic!"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "Jesteś zadowolony"
+	line "z pokonania mnie?"
+	cont "Idź do domu!"
 	done
 
 _SilphCoJessieJamesText1::
-	text "Hold it right"
-	line "there, brat!@"
+	text "Zatrzymaj się,"
+	line "głąbie!@"
 	text_end
 
 _SilphCoJessieJamesText2::
-	text "Our BOSS is in a"
-	line "meeting!"
+	text "Nasz SZEF jest na"
+	line "spotkaniu!"
 
-	para "You better not"
-	line "disturb him!"
+	para "Lepiej mu nie"
+	line "przeszkadzaj!"
 	done
 
 _SilphCoJessieJamesText3::
-	text "Like"
-	line "always..."
+	text "Jak zwykle..."
 	prompt
 
 _SilphCoJessieJamesText4::
-	text "TEAM ROCKET, blast"
-	line "off at the speed"
-	cont "of light!"
+	text "ZESPÓŁ R znowu"
+	line "błysnął!"
 
-	para "Again...@"
+	para "Ponownie...@"
 	text_end

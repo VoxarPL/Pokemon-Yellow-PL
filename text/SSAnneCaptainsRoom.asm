@@ -1,64 +1,64 @@
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "KAPITAN: Ooarch..."
+	line "Czuję się ohydnie..."
+	cont "Urrp! Choroba..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "<PLAYER> poklepał"
+	line "KAPITANA po"
+	cont "plecach!"
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "Klep-klep..."
+	line "Klep-klep...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "KAPITAN: Uff!"
+	line "Dziękuję! Od razu"
+	cont "mi lepiej!"
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "Chcesz zobaczyć"
+	line "mój ruch CIĘCIE?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "Pokazałbym, gdybym"
+	line "nie był chory..."
 
-	para "I know! You can"
-	line "have this!"
+	para "Już wiem! Możesz"
+	line "to mieć!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "anytime!"
+	para "Naucz tego swojego"
+	line "#MONA, a"
+	cont "będziesz mógł"
+	cont "używać CIĘCIA!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> got"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "CAPTAIN: Whew!"
+	text "KAPITAN: Uff!"
 
-	para "Now that I'm not"
-	line "sick anymore, I"
-	cont "guess it's time."
+	para "Teraz, gdy nie"
+	line "jestem już chory,"
+	cont "chyba nadszedł"
+	cont "czas."
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "O nie! Nie masz na"
+	line "to miejsca!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "Fuj! Po co tam"
+	line "zerkałeś?!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "Jak Zwalczyć"
+	line "Chorobę Morską..."
+	cont "KAPITAN to czyta!"
 	done

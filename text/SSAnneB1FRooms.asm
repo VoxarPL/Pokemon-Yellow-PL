@@ -4,111 +4,113 @@ _SSAnneB1FRoomsMachokeText::
 	text_end
 
 _SSAnneB1FRoomsSailor1BattleText::
-	text "You know what they"
-	line "say about sailors"
-	cont "and fighting!"
+	text "Wiesz, co mówią o"
+	line "żeglarzach i"
+	cont "walce!"
 	done
 
 _SSAnneB1FRoomsSailor1EndBattleText::
-	text "Right!"
-	line "Good fight, mate!"
+	text "Racja! Dobra"
+	line "walka, majtku!"
 	prompt
 
 _SSAnneB1FRoomsSailor1AfterBattleText::
-	text "Haha! Want to be"
-	line "a sailor, mate?"
+	text "Haha! Chcesz"
+	line "zostać żeglarzem?"
 	done
 
 _SSAnneB1FRoomsSailor2BattleText::
-	text "My sailor's pride"
-	line "is at stake!"
+	text "Moja żeglarska"
+	line "duma jest"
+	cont "zagrożona!"
 	done
 
 _SSAnneB1FRoomsSailor2EndBattleText::
-	text "Your"
-	line "spirit sank me!"
+	text "Twój duch mnie"
+	line "zatopił!"
 	prompt
 
 _SSAnneB1FRoomsSailor2AfterBattleText::
-	text "Did you see the"
-	line "FISHING GURU in"
-	cont "VERMILION CITY?"
+	text "Czy idziałeś"
+	line "RYBACKIEGO GURU w"
+	cont "ORANII?"
 	done
 
 _SSAnneB1FRoomsSailor3BattleText::
-	text "Us sailors have"
-	line "#MON too!"
+	text "My, żeglarze, też"
+	line "mamy #MONY!"
 	done
 
 _SSAnneB1FRoomsSailor3EndBattleText::
-	text "OK, "
-	line "you're not bad."
+	text "OK, nie jesteś zły."
 	prompt
 
 _SSAnneB1FRoomsSailor3AfterBattleText::
-	text "We caught all our"
-	line "#MON while"
-	cont "out at sea!"
+	text "Złapaliśmy"
+	line "wszystkie #MONY"
+	cont "na morzu!"
 	done
 
 _SSAnneB1FRoomsSailor4BattleText::
-	text "I like feisty"
-	line "kids like you!@"
+	text "Lubię takie"
+	line "zadziorne dzieci"
+	cont "jak ty!@"
 	text_end
 
 _SSAnneB1FRoomsSailor4EndBattleText::
 	text "Argh!"
-	line "Lost it!"
+	line "Porażka!"
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::
-	text "Sea #MON live"
-	line "in deep water."
-	cont "You'll need a ROD!"
+	text "Morskie #MONY"
+	line "żyją w głębokiej"
+	cont "wodzie. Będziesz"
+	cont "potrzebował WĘDKI!"
 	done
 
 _SSAnneB1FRoomsSailor5BattleText::
-	text "Matey, you're"
-	line "walking the plank"
-	cont "if you lose!"
+	text "Majtku, jeśli"
+	line "przegrasz, to"
+	cont "będziesz na desce!"
 	done
 
 _SSAnneB1FRoomsSailor5EndBattleText::
-	text "Argh!"
-	line "Beaten by a kid!"
+	text "Argh! Pobity przez"
+	line "dzieciaka!"
 	prompt
 
 _SSAnneB1FRoomsSailor5AfterBattleText::
-	text "Jellyfish some-"
-	line "times drift into"
-	cont "the ship."
+	text "Meduzy czasami"
+	line "dryfują w stronę"
+	cont "statku."
 	done
 
 _SSAnneB1FRoomsFisherBattleText::
-	text "Hello stranger!"
-	line "Stop and chat!"
+	text "Witaj nieznajomy!"
+	line "Chodź pogadać!"
 
-	para "All my #MON"
-	line "are from the sea!"
+	para "Wszystkie moje"
+	line "#MONY są z"
+	cont "morza!"
 	done
 
 _SSAnneB1FRoomsFisherEndBattleText::
-	text "Darn!"
-	line "I let that one"
-	cont "get away!"
+	text "Kurczę! Pozwoliłem"
+	line "mu uciec!"
 	prompt
 
 _SSAnneB1FRoomsFisherAfterBattleText::
-	text "I was going to"
-	line "make you my"
-	cont "assistant too!"
+	text "Ciebie też"
+	line "chciałem uczynić"
+	cont "moim asystentem!"
 	done
 
 _SSAnneB1FRoomsSuperNerdText::
-	text "My buddy, MACHOKE,"
-	line "is super strong!"
+	text "Mój MACHOKE jest"
+	line "super silny!"
 
-	para "He has enough"
-	line "STRENGTH to move"
-	cont "big rocks!"
+	para "Ma wystarczającą"
+	line "SIŁĘ, by poruszyć"
+	cont "wielkie skały!"
 	done

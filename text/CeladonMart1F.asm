@@ -22,7 +22,7 @@ _CeladonMart1FDirectorySignText::
 	para "5P: APTEKA"
 
 	para "PLAC NA DACHU:"
-	LINE "AUTOMAT Z NAPOJAMI"
+	line "AUTOMAT Z NAPOJAMI"
 	done
 
 _CeladonMart1FCurrentFloorSignText::

@@ -1,63 +1,67 @@
 _SSAnne2FWaiterText::
-	text "This ship, she is"
-	line "a luxury liner"
-	cont "for trainers!"
+	text "Ten statek jest"
+	line "luksusowym"
+	cont "liniowiec dla"
+	cont "trenerów!"
 
-	para "At every port, we"
-	line "hold parties with"
-	cont "invited trainers!"
+	para "W każdym porcie"
+	line "robimy imprezy z"
+	cont "zaproszonymi"
+	cont "trenerami!"
 	done
 
 _SSAnne2FRivalText::
 	text "<RIVAL>: Bonjour!"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
-	line "you here!"
+	para "Wyobraź sobie, że"
+	line "cię tu widzę!"
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "<PLAYER>, naprawdę"
+	line "byłeś zaproszony?"
 
-	para "So how's your"
-	line "#DEX coming?"
+	para "Jak tam twój"
+	line "#DEX?"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "Złapałem już 40"
+	line "gatunków, kolego!"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "Różne gatunki są"
+	line "wszędzie!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "Czołgaj się po"
+	line "trawach!"
 	done
 
 _SSAnne2FRivalDefeatedText::
 	text "Humph!"
 
-	para "At least you're"
-	line "raising your"
+	para "Przynajmniej"
+	line "trenujesz swoje"
 	cont "#MON!"
 	prompt
 
 _SSAnne2FRivalVictoryText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! Masz"
+	line "chorobę morską?"
 
-	para "You should shape"
-	line "up, pal!"
+	para "Powinieneś nabrać"
+	line "formy, kolego!"
 	prompt
 
 _SSAnne2FRivalCutMasterText::
-	text "<RIVAL>: I heard"
-	line "there was a CUT"
-	cont "master on board."
+	text "<RIVAL>: Podobno"
+	line "na pokładzie jest"
+	cont "mistrz CIĘCIA."
 
-	para "But, he was just a"
-	line "seasick, old man!"
+	para "Ale to tylko"
+	line "starzec z chorobą"
+	cont "morską!"
 
-	para "But, CUT itself is"
-	line "really useful!"
+	para "Ale samo CIĘCIE"
+	line "jest naprawdę"
+	cont "przydatne!"
 
-	para "You should go see"
-	line "him! Smell ya!"
+	para "Powinieneś iść do"
+	line "niego! Na razie!"
 	done

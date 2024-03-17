@@ -1,52 +1,48 @@
 _SSAnneBowSuperNerdText::
-	text "The party's over."
-	line "The ship will be"
-	cont "departing soon."
+	text "Koniec imprezy."
+	line "Statek wkrótce"
+	cont "odpłynie."
 	done
 
 _SSAnneBowSailor1Text::
-	text "Scrubbing decks"
-	line "is hard work!"
+	text "Szorowanie pokładu"
+	line "to ciężka praca!"
 	done
 
 _SSAnneBowCooltrainerMText::
-	text "Urf. I feel ill."
+	text "Urf. Niedobrze mi."
 
-	para "I stepped out to"
-	line "get some air."
+	para "Wyszedłem trochę."
+	line "odetchnąć."
 	done
 
 _SSAnneBowSailor2BattleText::
-	text "Hey matey!"
-
-	para "Let's do a little"
-	line "jig!"
+	text "Hej, majtku!"
+	line "Sprawdźmy się!"
 	done
 
 _SSAnneBowSailor2EndBattleText::
-	text "You're"
-	line "impressive!"
+	text "Robisz wrażenie!"
 	prompt
 
 _SSAnneBowSailor2AfterBattleText::
-	text "How many kinds of"
-	line "#MON do you"
-	cont "think there are?"
+	text "Jak myślisz, ile"
+	line "istnieje gatunków"
+	cont "#MONÓW?"
 	done
 
 _SSAnneBowSailor3BattleText::
-	text "Ahoy there!"
-	line "Are you seasick?"
+	text "Ahoj! Masz chorobę"
+	line "morską?"
 	done
 
 _SSAnneBowSailor3EndBattleText::
-	text "I was"
-	line "just careless!"
+	text "Byłem nieostrożny!"
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "My Pa said there"
-	line "are 100 kinds of"
-	cont "#MON. I think"
-	cont "there are more."
+	text "Mój tata mówił, że"
+	line "jest 100 gatunków"
+	cont "#MONÓW. Myślę,"
+	cont "że jest więcej."
 	done

@@ -1,113 +1,114 @@
 _SSAnne2FRoomsGentleman3Text::
-	text "In all my travels,"
-	line "I've never seen"
-	cont "any #MON sleep"
-	cont "like this one!"
+	text "Jeszcze nigdy nie"
+	line "widziałem żadnego"
+	cont "#MONA śpiącego"
+	cont "tak jak ten!"
 
-	para "It was something"
-	line "like this!"
+	para "Wyglądał mniej"
+	line "więcej tak!"
 	prompt
 
 _SSAnne2FRoomsGentleman4Text::
-	text "Ah yes, I have"
-	line "seen some #MON"
-	cont "ferry people"
-	cont "across the water!"
+	text "Ach tak, widziałem"
+	line "jakiegoś #MONA,"
+	cont "który przewoził"
+	cont "ludzi przez wodę!"
 	done
 
 _SSAnne2FRoomsGrampsText::
-	text "#MON can CUT"
-	line "down small bushes."
+	text "#MON może CIĄĆ"
+	line "małe krzaki."
 	done
 
 _SSAnne2FRoomsGentleman1BattleText::
-	text "Competing against"
-	line "the young keeps"
-	cont "me youthful."
+	text "Rywalizacja z"
+	line "młodymi pozwala mi"
+	cont "zachować młodość."
 	done
 
 _SSAnne2FRoomsGentleman1EndBattleText::
-	text "Good"
-	line "fight! Ah, I feel"
-	cont "young again!"
+	text "Dobra walka!"
+	line "Ach, znów czuję"
+	cont "się młodo!"
 	prompt
 
 _SSAnne2FRoomsGentleman1AfterBattleText::
-	text "15 years ago, I"
-	line "would have won!"
+	text "15 lat temu bym"
+	line "wygrał!"
 	done
 
 _SSAnne2FRoomsFisherBattleText::
-	text "Check out what I"
-	line "fished up!"
+	text "Zobacz, co udało"
+	line "mi się wyłowić!"
 	done
 
 _SSAnne2FRoomsFisherEndBattleText::
-	text "I'm"
-	line "all out!"
+	text "Nie mam już sił!"
 	prompt
 
 _SSAnne2FRoomsFisherAfterBattleText::
-	text "Party?"
+	text "Impreza?"
 
-	para "The cruise ship's"
-	line "party should be"
-	cont "over by now."
+	para "Impreza na statku"
+	line "powinna się już"
+	cont "skończyć."
 	done
 
 _SSAnne2FRoomsGentleman2BattleText::
-	text "Which do you like,"
-	line "a strong or a"
-	cont "rare #MON?"
+	text "Co wolisz, silne"
+	line "czy rzadkie"
+	cont "#MONY?"
 	done
 
 _SSAnne2FRoomsGentleman2EndBattleText::
-	text "I must"
-	line "salute you!"
+	text "Muszę ci"
+	line "salutować!"
 	prompt
 
 _SSAnne2FRoomsGentleman2AfterBattleText::
-	text "I prefer strong"
-	line "and rare #MON."
+	text "Preferuję silne i"
+	line "rzadkie #MONY."
 	done
 
 _SSAnne2FRoomsCooltrainerFBattleText::
-	text "I never saw you"
-	line "at the party."
+	text "Nie widziałam cię"
+	line "na imprezie."
 	done
 
 _SSAnne2FRoomsCooltrainerFEndBattleText::
-	text "Take"
-	line "it easy!"
+	text "Wyluzuj!"
 	prompt
 
 _SSAnne2FRoomsCooltrainerFAfterBattleText::
-	text "Oh, I adore your"
-	line "strong #MON!"
+	text "Och, uwielbiam"
+	line "twoje silne"
+	cont "#MONY!"
 	done
 
 _SSAnne2FRoomsGentleman5Text::
-	text "Have you gone to"
-	line "the SAFARI ZONE"
-	cont "in FUCHSIA CITY?"
+	text "Czy byłeś w"
+	line "STREFIE SAFARI w"
+	cont "PARMANII?"
 
-	para "It had many rare"
-	line "kinds of #MON!!"
+	para "Jest tam wiele"
+	line "rzadkich gatunków"
+	cont "#MONÓW!"
 	done
 
 _SSAnne2FRoomsLittleBoyText::
-	text "Me and my Daddy"
-	line "think the SAFARI"
-	cont "ZONE is awesome!"
+	text "Ja i mój tata"
+	line "uważamy, że STREFA"
+	cont "SAFARI jest super!"
 	done
 
 _SSAnne2FRoomsBrunetteGirlText::
-	text "The CAPTAIN looked"
-	line "really sick and"
-	cont "pale!"
+	text "KAPITAN wyglądał"
+	line "na bardzo chorego"
+	cont "i bladego!"
 	done
 
 _SSAnne2FRoomsBeautyText::
-	text "I hear many people"
-	line "get seasick!"
+	text "Słyszałam, że"
+	line "wiele osób ma"
+	cont "chorobę morską!"
 	done

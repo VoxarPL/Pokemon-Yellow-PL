@@ -1,45 +1,47 @@
 _SafariZoneSecretHouseFishingGuruYouHaveWonText::
-	text "Ah! Finally!"
+	text "Ach! Nareszcie!"
 
-	para "You're the first"
-	line "person to reach"
-	cont "the SECRET HOUSE!"
+	para "Pierwsza osoba,"
+	line "która dotarła do"
+	cont "TAJNEGO DOMU!"
 
-	para "I was getting"
-	line "worried that no"
-	cont "one would win our"
-	cont "campaign prize."
+	para "Zaczynałem się"
+	line "martwić, że nikt"
+	cont "nie wygra naszej"
+	cont "nagrody."
 
-	para "Congratulations!"
-	line "You have won!"
+	para "Gratulacje!"
+	line "Wygrałeś!"
 	prompt
 
 _SafariZoneSecretHouseFishingGuruReceivedHM03Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SafariZoneSecretHouseFishingGuruHM03ExplanationText::
-	text "HM03 is SURF!"
+	text "HM03 to"
+	line "SURFOWANIE!"
 
-	para "#MON will be"
-	line "able to ferry you"
-	cont "across water!"
+	para "#MON będzie"
+	line "mógł przenosić cię"
+	cont "przez wodę!"
 
-	para "And, this HM isn't"
-	line "disposable! You"
-	cont "can use it over"
-	cont "and over!"
+	para "I ten HM nie jest"
+	line "jednorazowy!"
+	cont "Możesz go używać"
+	cont "wielokrotnie!"
 
-	para "You're super lucky"
-	line "for winning this"
-	cont "fabulous prize!"
+	para "Masz super"
+	line "szczęście, że"
+	cont "wygrałeś tę"
+	cont "wspaniałą nagrodę!"
 	done
 
 _SafariZoneSecretHouseFishingGuruHM03NoRoomText::
-	text "You don't have"
-	line "room for this"
-	cont "fabulous prize!"
+	text "Nie masz miejsca"
+	line "na tę wspaniałą"
+	cont "nagrodę!"
 	done

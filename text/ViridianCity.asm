@@ -1,195 +1,197 @@
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Najpierw musisz"
+	line "osłabić swój cel."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Ach, wypiłem już"
+	line "kawę i czuję się"
+	cont "świetnie!"
 
-	para "Sure, you can go"
-	line "through!"
+	para "Jasne, możesz"
+	line "przejść!"
 
-	para "I'm sorry I was"
-	line "so rude to you!"
+	para "Wybacz, że byłem"
+	line "taki nieuprzejmy!"
 
-	para "I see you're using"
-	line "a #DEX."
+	para "Widzę, że używasz"
+	line "#DEXU."
 
-	para "I'll show you how"
-	line "to catch #MON"
-	cont "as my apology."
+	para "Jako przeprosiny"
+	line "pokażę ci, jak"
+	cont "łapać #MONY."
 	done
 
 _ViridianCityOldManLosingMyTouchText::
-	text "That didn't work!"
-	line "I must be losing"
-	cont "my touch."
+	text "To nie zadziałało!"
+	line "Muszę tracić"
+	cont "wyczucie."
 
-	para "I've run out of"
-	line "# BALLs too."
+	para "Skończyły mi się"
+	line "też # BALLE."
 
-	para "I have to get some"
-	line "at #MON MART."
+	para "Muszę kupić kilka"
+	line "w SKLEPIE #MON."
 	done
 
 _ViridianCityYoungster1Text::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "Te # BALLE u"
+	line "twojego pasa!"
+	cont "Masz #MONY!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any-"
-	cont "time, anywhere!"
+	para "To wspaniałe, że"
+	line "możesz nosić i"
+	cont "używać #MONÓW"
+	cont "zawsze i wszędzie!"
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
-	line "is always closed."
+	text "Ta SALA #MON"
+	line "jest zawsze"
+	cont "zamknięta."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Ciekawe, kto jest"
+	line "LIDEREM?"
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "LIDER SALI"
+	line "WERTANII powrócił!"
 	done
 
 _ViridianCityYoungster2YouWantToKnowAboutText::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
+	text "Chcesz poznać 2"
+	line "gatunki gąsienic"
 	cont "#MON?"
 	done
 
 ViridianCityYoungster2OkThenText::
-	text "Oh, OK then!"
+	text "Och, no dobra!"
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "CATERPIE nie ma"
+	line "trucizny, ale"
+	cont "WEEDLE już ma."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "Uważaj na jego"
+	line "TRUJĄCE ŻĄDŁO!"
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "Och, dziadku! Nie"
+	line "bądź taki podły!"
+	cont "Nie wypił jeszcze"
+	cont "kawy."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
-	cont "VIRIDIAN FOREST."
+	text "Gdy idę na zakupy"
+	line "do MARMORII, muszę"
+	cont "iść krętą ścieżką"
+	cont "w LESIE"
+	cont "WERTAŃSKIM."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "You can't go"
-	line "through here!"
+	text "Nie możesz tędy"
+	line "przechodzić!"
 
-	para "This is private"
-	line "property!"
+	para "To teren prywatny!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "Ziew!"
+	line "Musiałem zasnąć na"
+	cont "słońcu."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "Miałem sen o"
+	line "DROWZEE zjadającym"
+	cont "mój sen."
+	cont "Co to jest?"
+	cont "Skąd się wziął ten"
+	cont "TM?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "To jest straszne!"
+	line "Proszę, możesz"
+	cont "wziąć ten TM."
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
-	text "<PLAYER> received"
+	text "<PLAYER> otrzymuje"
 	line "TM42!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "TM42 contains"
-	line "DREAM EATER..."
-	cont "...Snore..."
+	text "TM42 zawiera ruch"
+	line "ZJADACZ SNÓW..."
+	cont "...Chrap..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Masz już za dużo"
+	line "rzeczy."
 	done
 
 _ViridianCityOldManWantMeToShowYouAgainText::
-	text "Hmm? You want me"
-	line "to show you how"
-	cont "to catch #MON"
-	cont "again?"
+	text "Hmm? Chcesz, abym"
+	line "znowu pokazał ci,"
+	cont "jak łapać"
+	cont "#MONY?"
 	done
 
 _ViridianCityOldManWatchCloselyText::
-	text "Dandy! Watch what"
-	line "I do closely now!"
+	text "Wybornie! Uważnie"
+	line "obserwuj, co"
+	cont "robię!"
 	done
 
 _ViridianCityOldManNotGoodEnoughForYouText::
-	text "Oh... I'm not good"
-	line "enough for you."
+	text "Och... Nie jestem"
+	line "dla ciebie dość"
+	cont "dobry."
 	done
 
 _ViridianCitySignText::
-	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	text "WERTANIA"
+	line "Wiecznie Zielony"
+	cont "Raj"
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Łap #MONY i"
+	line "powiększaj swoją"
+	cont "kolekcję!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Im więcej masz,"
+	line "tym łatwiej jest"
+	cont "walczyć!"
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Ruchy #MONÓW są"
+	line "ograniczone przez"
+	cont "ich PUNKTY MOCY, w"
+	cont "skrócie, PP."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "Aby uzupełnić PP,"
+	line "daj odpocząć"
+	cont "#MONOM w"
+	cont "CENTRUM #MON!"
 	done
 
 _ViridianCityGymSignText::
-	text "VIRIDIAN CITY"
-	line "#MON GYM"
+	text "SALA #MON w"
+	line "WERTANII"
 	done
 
 _ViridianCityGymLockedText::
-	text "The GYM's doors"
-	line "are locked..."
+	text "Drzwi SALI są"
+	line "zamknięte..."
 	done

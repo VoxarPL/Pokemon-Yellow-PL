@@ -1,67 +1,69 @@
 _SaffronCityRocket1Text::
-	text "What do you want?"
-	line "Get lost!"
+	text "Czego chcesz?"
+	line "Spadaj!"
 	done
 
 _SaffronCityRocket2Text::
-	text "BOSS said he'll"
-	line "take this town!"
+	text "SZEF powiedział,"
+	line "że przejmie to"
+	cont "miasto!"
 	done
 
 _SaffronCityRocket3Text::
-	text "Get out of the"
-	line "way!"
+	text "Zejdź mi z drogi!"
 	done
 
 _SaffronCityRocket4Text::
-	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	text "SAFRANIA należy do"
+	line "ZESPOŁU R!"
 	done
 
 _SaffronCityRocket5Text::
-	text "Being evil makes"
-	line "me feel so alive!"
+	text "Bycie złym bardzo"
+	line "mnie ożywia!"
 	done
 
 _SaffronCityRocket6Text::
-	text "Ow! Watch where"
-	line "you're walking!"
+	text "Ał! Uważaj, gdzie"
+	line "leziesz!"
 	done
 
 _SaffronCityRocket7Text::
-	text "With SILPH under"
-	line "control, we can"
-	cont "exploit #MON"
-	cont "around the world!"
+	text "Mając SILPH pod"
+	line "kontrolą, możemy"
+	cont "wykorzystywać"
+	cont "#MONY na całym"
+	cont "świecie!"
 	done
 
 _SaffronCityScientistText::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
-	cont "That's amazing!"
+	text "Pokonałeś ZESPÓŁ R"
+	line "w pojedynkę?"
+	cont "To niesamowite!"
 	done
 
 _SaffronCitySilphWorkerMText::
-	text "Yeah! TEAM ROCKET"
-	line "is gone!"
-	cont "It's safe to go"
-	cont "out again!"
+	text "Tak! ZESPÓŁ R"
+	line "znowu błysnął!"
+	cont "Można bezpiecznie"
+	cont "wyjść na zewnątrz!"
 	done
 
 _SaffronCitySilphWorkerFText::
-	text "People should be"
-	line "flocking back to"
-	cont "SAFFRON now."
+	text "Ludzie powinni"
+	line "teraz wracać do"
+	cont "SAFRANII."
 	done
 
 _SaffronCityGentlemanText::
-	text "I flew here on my"
-	line "PIDGEOT when I"
-	cont "read about SILPH."
+	text "Przyleciałem tu na"
+	line "moim PIDGEOCIE,"
+	cont "kiedy przeczytałem"
+	cont "o SILPH."
 
-	para "It's already over?"
-	line "I missed the"
-	cont "media action."
+	para "Już po wszystkim?"
+	line "Przegapiłem akcję"
+	cont "medialną."
 	done
 
 _SaffronCityPidgeotText::
@@ -69,84 +71,91 @@ _SaffronCityPidgeotText::
 	text_end
 
 _SaffronCityRockerText::
-	text "I saw ROCKET"
-	line "BOSS escaping"
-	cont "SILPH's building."
+	text "Widziałem SZEFA"
+	line "ROCKETÓW"
+	cont "uciekającego z"
+	cont "budynku SILPH."
 	done
 
 _SaffronCityRocket8Text::
-	text "I'm a security"
-	line "guard."
+	text "Jestem"
+	line "ochroniarzem."
 
-	para "Suspicious kids I"
-	line "don't allow in!"
+	para "Podejrzanych"
+	line "dzieci nie"
+	cont "wpuszczam!"
 	done
 
 _SaffronCityRocket9Text::
 	text "..."
-	line "Snore..."
+	line "Chrap..."
 
-	para "Hah! He's taking"
-	line "a snooze!"
+	para "Hah! Drzemie"
+	line "sobie!"
 	done
 
 _SaffronCitySignText::
-	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	text "SAFRANIA"
+	line "Lśniąca, Złota"
+	cont "Ziemia Handlu"
 	done
 
 _SaffronCityFightingDojoSignText::
-	text "FIGHTING DOJO"
+	text "WALCZĄCE DOJO"
 	done
 
 _SaffronCityGymSignText::
-	text "SAFFRON CITY"
-	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	text "SAFRANIA"
+	line "SALA #MON"
+	cont "LIDER: SABRINA"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "Mistrzyni"
+	line "Psychicznych"
+	cont "#MONÓW!"
 	done
 
 _SaffronCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "FULL HEAL cures"
-	line "all ailments like"
-	cont "sleep and burns."
+	para "UZDROWIENIE leczy"
+	line "każdą dolegliwość,"
+	cont "taką jak sen lub"
+	cont "oparzenia."
 
-	para "It costs a bit"
-	line "more, but it's"
-	cont "more convenient."
+	para "Kosztuje nieco"
+	line "więcej, ale jest"
+	cont "wygodniejsze."
 	done
 
 _SaffronCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "PORADY DLA"
+	line "TRENERÓW!"
 
-	para "New GREAT BALL"
-	line "offers improved"
-	cont "capture rates."
+	para "Nowy GREAT BALL"
+	line "oferuje większą"
+	cont "szansę na"
+	cont "złapanie."
 
-	para "Try it on those"
-	line "hard-to-catch"
-	cont "#MON."
+	para "Wypróbuj go na"
+	line "tych trudnych do"
+	cont "złapania"
+	cont "#MONACH."
 	done
 
 _SaffronCitySilphCoSignText::
-	text "SILPH CO."
-	line "OFFICE BUILDING"
+	text "BIUROWIEC"
+	line "SILPH CO."
 	done
 
 _SaffronCityMrPsychicsHouseSignText::
-	text "MR.PSYCHIC's"
-	line "HOUSE"
+	text "DOM PANA PSIONIKA"
 	done
 
 _SaffronCitySilphCoLatestProductSignText::
-	text "SILPH's latest"
-	line "product!"
+	text "Najnowszy produkt"
+	line "SILPH!"
 
-	para "Release to be"
-	line "determined..."
+	para "Wydanie do"
+	line "ustalenia..."
 	done

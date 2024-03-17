@@ -69,7 +69,7 @@ _CopycatsHouse2FDoduoText::
 	line "POWIEDZ PRZECIE,"
 	cont "KTO JEST"
 	cont "NAJPIĘKNIEJSZY W"
-	comt "ŚWIECIE?"
+	cont "ŚWIECIE?"
 	done
 
 _CopycatsHouse2FRareDollText::

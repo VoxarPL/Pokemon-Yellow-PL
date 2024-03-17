@@ -4,7 +4,7 @@ _Route1Youngster1MartSampleText::
 
 	para "Jest to wygodny"
 	line "sklep, proszę,"
-	cont "odwiedź naw w"
+	cont "odwiedź nas w"
 	cont "WERTANII."
 
 	para "Wiem, dam ci"

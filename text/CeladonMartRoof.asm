@@ -123,7 +123,7 @@ _CeladonMartRoofLittleGirlGiveHerADrinkText::
 
 _CeladonMartRoofCurrentFloorSignText::
 	text "PLAC NA DACHU:"
-	LINE "AUTOMAT Z NAPOJAMI"
+	line "AUTOMAT Z NAPOJAMI"
 	done
 
 _VendingMachineText1::

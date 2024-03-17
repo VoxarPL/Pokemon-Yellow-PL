@@ -1,16 +1,16 @@
 _SilphCo4FSilphWorkerMImHidingText::
-	text "Sssh! Can't you"
-	line "see I'm hiding?"
+	text "Ciii! Nie widzisz,"
+	line "że się ukrywam?"
 	done
 
 _SilphCo4FSilphWorkerMTeamRocketIsGoneText::
-	text "Huh? TEAM ROCKET"
-	line "is gone?"
+	text "Hę? ZESPÓŁ R"
+	line "zniknął?"
 	done
 
 _SilphCo4FRocket1BattleText::
-	text "TEAM ROCKET has"
-	line "taken command of"
+	text "ZESPÓŁ R przejął"
+	line "dowodzenie w"
 	cont "SILPH CO.!"
 	done
 
@@ -19,38 +19,39 @@ _SilphCo4FRocket1EndBattleText::
 	prompt
 
 _SilphCo4FRocket1AfterBattleText::
-	text "Fwahahaha!"
-	line "My BOSS has been"
-	cont "after this place!"
+	text "Fłahahaha!"
+	line "Mój SZEF szukał"
+	cont "tego miejsca!"
 	done
 
 _SilphCo4FScientistBattleText::
-	text "My #MON are my"
-	line "loyal soldiers!"
+	text "Moje #MONY to"
+	line "moi lojalni"
+	cont "żołnierze!"
 	done
 
 _SilphCo4FScientistEndBattleText::
-	text "Darn!"
-	line "You weak #MON!"
+	text "Cholera!"
+	line "Wy słabe #MONY!"
 	prompt
 
 _SilphCo4FScientistAfterBattleText::
-	text "The doors are"
-	line "electronically"
-	cont "locked! A CARD"
-	cont "KEY opens them!"
+	text "Drzwi są"
+	line "zablokowane"
+	cont "elektronicznie!"
+	cont "Otworzy je KARTA"
+	cont "DOSTĘPU!"
 	done
 
 _SilphCo4FRocket2BattleText::
-	text "Intruder spotted!"
+	text "Wykryto intruza!"
 	done
 
 _SilphCo4FRocket2EndBattleText::
-	text "Who"
-	line "are you?"
+	text "Kim jesteś?"
 	prompt
 
 _SilphCo4FRocket2AfterBattleText::
-	text "I better tell the"
-	line "BOSS on 11F!"
+	text "Lepiej powiem"
+	line "SZEFOWI na 11P!"
 	done

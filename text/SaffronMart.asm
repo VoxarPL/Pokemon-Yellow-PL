@@ -1,13 +1,14 @@
 _SaffronMartSuperNerdText::
-	text "MAX REPEL lasts"
-	line "longer than SUPER"
-	cont "REPEL for keeping"
-	cont "weaker #MON"
-	cont "away!"
+	text "MAKS.ODGANIACZ"
+	line "działa dłużej niż"
+	cont "SUPER ODGANIACZ"
+	cont "trzymając słabsze"
+	cont "#MONY z daleka!"
 	done
 
 _SaffronMartCooltrainerFText::
-	text "REVIVE is costly,"
-	line "but it revives"
-	cont "fainted #MON!"
+	text "OCUCACZ jest"
+	line "kosztowny, ale"
+	cont "ocuci omdlałego"
+	cont "#MONA!"
 	done
