@@ -37,7 +37,7 @@ Route25Name:         db "DROGA 25@"
 ViridianForestName:  db "LAS WERTAŃSKI@"
 MountMoonName:       db "KSIĘŻYCOWA GÓRA@"
 RockTunnelName:      db "KAMIENNY TUNEL@"
-SeaCottageName:      db "MORSKI DOM@" ; jakaś lepsza nazwa?
+SeaCottageName:      db "MORSKI DOM@"
 SSAnneName:          db "S.S.ANNA@"
 PokemonLeagueName:   db "LIGA #MON@"
 UndergroundPathName: db "PODZIEMNY TUNEL@"

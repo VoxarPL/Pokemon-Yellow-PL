@@ -12,30 +12,30 @@ PrintStatusAilment::
 	ret z
 	ld a, "S"
 	ld [hli], a
-	ld a, "L"
+	ld a, "E"
 	ld [hli], a
-	ld [hl], "P"
+	ld [hl], "N"
 	ret
 .psn
-	ld a, "P"
+	ld a, "T"
 	ld [hli], a
-	ld a, "S"
+	ld a, "R"
 	ld [hli], a
-	ld [hl], "N"
+	ld [hl], "U"
 	ret
 .brn
-	ld a, "B"
+	ld a, "O"
 	ld [hli], a
-	ld a, "R"
+	ld a, "G"
 	ld [hli], a
-	ld [hl], "N"
+	ld [hl], "Ń"
 	ret
 .frz
-	ld a, "F"
+	ld a, "L"
 	ld [hli], a
-	ld a, "R"
+	ld a, "Ó"
 	ld [hli], a
-	ld [hl], "Z"
+	ld [hl], "D"
 	ret
 .par
 	ld a, "P"

@@ -75,8 +75,9 @@
 ; Actual characters (from other graphics files)
 
 	; needed for ShowPokedexDataInternal (see engine/menus/pokedex.asm)
-	charmap "′",         $60 ; gfx/pokedex/pokedex.png
-	charmap "″",         $61 ; gfx/pokedex/pokedex.png
+	charmap "<M>",       $60 ; gfx/pokedex/pokedex.png
+	charmap "<K>",       $61 ; gfx/pokedex/pokedex.png
+	charmap "<G>",       $62 ; gfx/pokedex/pokedex.png
 
 	; needed for StatusScreen (see engine/pokemon/status_screen.asm)
 	charmap "<BOLD_P>",  $72 ; gfx/font/P.1bpp
@@ -151,11 +152,12 @@
 	charmap "z",         $b9
 
 	charmap "é",         $ba
-	charmap "'d",        $bb
-	charmap "'l",        $bc
-	charmap "'s",        $bd
-	charmap "'t",        $be
-	charmap "'v",        $bf
+
+	charmap "<WZ>",        $bb
+	charmap "<RO>",        $bc
+	charmap "<ST>",        $bd
+	charmap "<WA>",        $be
+	charmap "<GA>",        $bf
 
 	charmap "Ą",         $c0
 	charmap "Ć",         $c1

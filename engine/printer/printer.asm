@@ -580,7 +580,7 @@ GBPrinter_UpdateStatusMessage:
 	ret
 
 .PressBToCancel:
-	db "Press B to Cancel@"
+	db "Guzik B - Anuluj@"
 
 .PrinterStatusMessages:
 	dw .Blank
