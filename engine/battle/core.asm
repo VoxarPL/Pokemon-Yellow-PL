@@ -1172,16 +1172,17 @@ HandlePlayerBlackOut:
 	ld a, [wLinkState]
 	cp LINK_STATE_BATTLING
 	jr z, .notRival1Battle
-	ld a, [wIsInBattle] ; are we in a battle?
-	dec a ; is the battle a wild battle (without a trainer?)?
-	jr z, .notRival1Battle ;if yes, don't print our message.
+	ld a, [wCurOpponent] ; who's the current opponent?
+	cp OPP_RIVAL1 ; is it Rival1?
+	jr nz, .notRival1Battle ; if no, don't print our message.
 	hlcoord 0, 0  ; rival 1 battle
 	lb bc, 8, 21
 	call ClearScreenArea
 	call ScrollTrainerPicAfterBattle
 	ld c, 40
 	call DelayFrames
-	call PrintEndBattleText
+	ld hl, Rival1WinText
+	call PrintText
 	ld a, [wCurMap]
 	cp OAKS_LAB
 	ret z            ; starter battle in oak's lab: don't black out
@@ -2117,12 +2118,12 @@ DisplayBattleMenu::
 	ld bc, NAME_LENGTH
 	call CopyData
 ; the following simulates the keystrokes by drawing menus on screen
-	hlcoord 9, 14
+	hlcoord 8, 14
 	ld [hl], "▶"
 	ld c, 20
 	call DelayFrames
 	ld [hl], " "
-	hlcoord 9, 16
+	hlcoord 8, 16
 	ld [hl], "▶"
 	ld c, 20
 	call DelayFrames
@@ -3053,7 +3054,7 @@ PrintMenuItem:
 	call PlaceString
 	hlcoord 7, 11
 	ld [hl], "/"
-	hlcoord 5, 9
+	hlcoord 4, 9
 	ld [hl], "/"
 	hlcoord 5, 11
 	ld de, wcd6d
