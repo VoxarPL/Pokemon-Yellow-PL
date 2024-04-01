@@ -13,7 +13,7 @@ _CardKeyFailText::
 	line "KARTA DOSTĘPU!"
 	done
 
-_TrainerNameText:: ; usunąć?
+_TrainerNameText::
 	text_ram wcd6d
 	text ": @"
 	text_end
@@ -49,13 +49,15 @@ _BoulderText::
 _MartSignText::
 	text "U nas możesz kupić"
 	line "wszystko!"
-	cont "#MON MART"
+
+	para "#MON MART"
 	done
 
 _PokeCenterSignText::
 	text "Leczymy twoje"
 	line "#MONY!"
-	cont "CENTRUM #MON"
+
+	para "CENTRUM #MON"
 	done
 
 _FoundItemText::

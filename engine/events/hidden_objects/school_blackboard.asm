@@ -110,7 +110,7 @@ ViridianSchoolBlackboard::
 	ld hl, wd730
 	set 6, [hl]
 	hlcoord 0, 0
-	lb bc, 6, 10
+	lb bc, 6, 11
 	call TextBoxBorder
 	hlcoord 1, 2
 	ld de, StatusAilmentText1
@@ -184,13 +184,13 @@ ViridianSchoolBlackboardText2:
 	text_end
 
 StatusAilmentText1:
-	db   " SLP"
-	next " PSN"
+	db   " SEN"
+	next " TRU"
 	next " PAR@"
 
 StatusAilmentText2:
-	db   " BRN"
-	next " FRZ"
+	db   " OGŃ"
+	next " LÓD"
 	next " WYJDŹ@"
 
 	db "@" ; unused

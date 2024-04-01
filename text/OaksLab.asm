@@ -3,9 +3,9 @@ _OaksLabRivalGrampsIsntAroundText::
 	line "<PLAYER>! Dziadka"
 	cont "tu nie ma!"
 
-	para "Przybiegłem tu,"
-	line "bo mówił, że ma"
-	cont "dla mnie #MONA."
+	para "Przybiegłem tu, bo"
+	line "mówił, że ma dla"
+	cont "mnie #MONA."
 	done
 
 _OaksLabRivalIllGetABetterPokemonThanYou::
@@ -36,10 +36,6 @@ _OaksLabOak1YourPokemonCanFightText::
 	line "się dziki #MON,"
 	cont "twój #MON może"
 	cont "z nim walczyć!"
-
-	para "Następnie udaj się" ; zdanie do usunięcia?
-	line "do kolejnego"
-	cont "miasta."
 	done
 
 _OaksLabOak1YouShouldTalkToIt::
@@ -395,8 +391,8 @@ _OaksLabRivalLeaveItAllToMeText::
 	line "MAPĘ REGIONU od"
 	cont "mojej siostry!"
 
-	para "Powiem jej, by"
-	line "ci nie pożyczała,"
+	para "Powiem jej, by ci"
+	line "nie pożyczała,"
 	cont "<PLAYER>! Hahaha!"
 	done
 

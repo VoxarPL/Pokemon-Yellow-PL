@@ -84,7 +84,7 @@ DisplayPCMainMenu::
 
 SomeonesPCText:   db "CZYJŚ PC@"
 BillsPCText:      db "PC BILL@"
-PlayersPCText:    db "- PC@"
+PlayersPCText:    db " - PC@"
 OaksPCText:       db "PC PROF.OAKA@"
 PKMNLeaguePCText: db "LIGA <PKMN>@"
 LogOffPCText:     db "WYLOGUJ@"
@@ -388,7 +388,7 @@ BillsPCMenuText:
 	db "@"
 
 BoxNoPCText:
-	db "BOX Nr @"
+	db "BOX Nr:@"
 
 KnowsHMMove::
 ; returns whether mon with party index [wWhichPokemon] knows an HM move

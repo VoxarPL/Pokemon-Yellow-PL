@@ -1172,17 +1172,16 @@ HandlePlayerBlackOut:
 	ld a, [wLinkState]
 	cp LINK_STATE_BATTLING
 	jr z, .notRival1Battle
-	ld a, [wCurOpponent]
-	cp OPP_RIVAL1
-	jr nz, .notRival1Battle
+	ld a, [wIsInBattle] ; are we in a battle?
+	dec a ; is the battle a wild battle (without a trainer?)?
+	jr z, .notRival1Battle ;if yes, don't print our message.
 	hlcoord 0, 0  ; rival 1 battle
 	lb bc, 8, 21
 	call ClearScreenArea
 	call ScrollTrainerPicAfterBattle
 	ld c, 40
 	call DelayFrames
-	ld hl, Rival1WinText
-	call PrintText
+	call PrintEndBattleText
 	ld a, [wCurMap]
 	cp OAKS_LAB
 	ret z            ; starter battle in oak's lab: don't black out
@@ -2150,9 +2149,9 @@ DisplayBattleMenu::
 	ld a, " "
 	jr z, .safariLeftColumn
 ; put cursor in left column for normal battle menu (i.e. when it's not a Safari battle)
-	ldcoord_a 15, 14 ; clear upper cursor position in right column
-	ldcoord_a 15, 16 ; clear lower cursor position in right column
-	ld b, $9 ; top menu item X
+	ldcoord_a 14, 14 ; clear upper cursor position in right column
+	ldcoord_a 14, 16 ; clear lower cursor position in right column
+	ld b, $8 ; top menu item X
 	jr .leftColumn_WaitForInput
 .safariLeftColumn
 	ldcoord_a 13, 14
@@ -2183,9 +2182,9 @@ DisplayBattleMenu::
 	ld a, " "
 	jr z, .safariRightColumn
 ; put cursor in right column for normal battle menu (i.e. when it's not a Safari battle)
-	ldcoord_a 9, 14 ; clear upper cursor position in left column
-	ldcoord_a 9, 16 ; clear lower cursor position in left column
-	ld b, $f ; top menu item X
+	ldcoord_a 8, 14 ; clear upper cursor position in left column
+	ldcoord_a 8, 16 ; clear lower cursor position in left column
+	ld b, $e ; top menu item X
 	jr .rightColumn_WaitForInput
 .safariRightColumn
 	ldcoord_a 1, 14 ; clear upper cursor position in left column

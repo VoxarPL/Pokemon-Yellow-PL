@@ -32,8 +32,8 @@ _WhenYouChangeBoxText::
 	done
 
 _ChooseABoxText::
-	text "Wybierz"
-	line "<PKMN> BOX.@"
+	text "Wybierz BOX"
+	line "#MONÓW.@"
 	text_end
 
 _EvolvedText::

@@ -43,7 +43,7 @@ BuySellQuitText:
 
 	db "@" ; unused
 
-UseTossText: ; zmienić położenie kursora o 2 w lewo
+UseTossText:
 	db   "UŻYJ"
 	next "WYRZUĆ@"
 
@@ -65,7 +65,7 @@ JapaneseMainMenuText:
 	db   "つづきから"
 	next "さいしょから@"
 
-BattleMenuText: ; zmienić położenie kursora o 1 w lewo
+BattleMenuText:
 	db   "WALCZ <PK><MN>"
 	next "TORBA WIEJ@"
 

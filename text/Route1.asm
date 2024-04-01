@@ -3,7 +3,7 @@ _Route1Youngster1MartSampleText::
 	line "#MON MART."
 
 	para "Jest to wygodny"
-	line "sklep, proszę,"
+	line "sklep. Proszę,"
 	cont "odwiedź nas w"
 	cont "WERTANII."
 
@@ -44,6 +44,7 @@ _Route1Youngster2Text::
 
 _Route1SignText::
 	text "DROGA 1"
-	line "ALABASTIA -"
-	cont "WERTANIA"
+
+	para "ALABASTIA -"
+	line "WERTANIA"
 	done

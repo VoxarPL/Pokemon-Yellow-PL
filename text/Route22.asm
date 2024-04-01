@@ -5,12 +5,12 @@ _Route22Rival1DefeatedText::
 	prompt
 
 _Route22Rival1VictoryText::
-	text "<RIVAL>: Co?"
+	text "Co?"
 	line "Skąd mam drugiego"
 	cont "#MONA?"
 
 	para "Też powinieneś"
-	cont "złapać więcej!"
+	line "złapać więcej!"
 	prompt
 
 _Route22Rival2DefeatedText::
@@ -21,7 +21,7 @@ _Route22Rival2DefeatedText::
 	prompt
 
 _Route22Rival2VictoryText::
-	text "<RIVAL>: Hahaha!"
+	text "Hahaha!"
 	line "<PLAYER>! I kto"
 	cont "jest najlepszy?"
 	cont "Nigdzie nie jesteś"

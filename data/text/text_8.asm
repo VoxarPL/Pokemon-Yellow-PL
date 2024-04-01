@@ -31,7 +31,7 @@ _CableClubNPCPleaseComeAgainText::
 _CableClubNPCMakingPreparationsText::
 	text "Jesteśmy w trakcie"
 	line "przygotowań."
-	cont "Proszę czekać."
+	cont "Proszę poczekać."
 	done
 
 _FlashLightsAreaText::

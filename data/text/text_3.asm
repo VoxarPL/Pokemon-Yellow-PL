@@ -117,7 +117,7 @@ _PotionText::
 	text_start
 	line "odzyskuje @"
 	text_decimal wHPBarHPDifference, 2, 3
-	text "!"
+	text " HP!"
 	done
 
 _AntidoteText::
@@ -180,7 +180,7 @@ _AccessedBillsPCText::
 
 	para "Włączono System"
 	line "Przechowywania"
-	cont "#MON."
+	cont "#MONÓW."
 	prompt
 
 _AccessedSomeonesPCText::
@@ -188,7 +188,7 @@ _AccessedSomeonesPCText::
 
 	para "Włączono System"
 	line "Przechowywania"
-	cont "#MON."
+	cont "#MONÓW."
 	prompt
 
 _AccessedMyPCText::
