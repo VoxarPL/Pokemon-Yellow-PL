@@ -34,9 +34,8 @@ _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "Serio?"
-	line "Koniecznie musisz"
-	cont "tam iść!"
+	text "Serio? Koniecznie"
+	line "musisz tam iść!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
@@ -115,6 +114,7 @@ _PewterCityGymSignText::
 
 _PewterCitySignText::
 	text "MARMORIA"
-	line "Szare Miasto z"
-	cont "Kamienia"
+
+	para "Szare Miasto z"
+	line "Kamienia"
 	done

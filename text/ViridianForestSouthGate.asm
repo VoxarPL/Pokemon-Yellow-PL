@@ -1,8 +1,9 @@
 _ViridianForestSouthGateGirlText::
 	text "Wybierasz się do"
 	line "LASU WERTAŃSKIEGO?"
-	cont "Uważaj, to istny"
-	cont "labirynt!"
+
+	para "Uważaj, to istny"
+	line "labirynt!"
 	done
 
 _ViridianForestSouthGateLittleGirlText::

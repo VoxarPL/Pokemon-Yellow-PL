@@ -1,7 +1,8 @@
 _Route2SignText::
 	text "DROGA 2"
-	line "WERTANIA -"
-	cont "MARMORIA"
+
+	para "WERTANIA -"
+	line "MARMORIA"
 	done
 
 _Route2DiglettsCaveSignText::

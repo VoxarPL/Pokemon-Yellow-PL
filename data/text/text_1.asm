@@ -15,7 +15,7 @@ _CardKeyFailText::
 
 _TrainerNameText::
 	text_ram wcd6d
-	text ": @"
+	text "@"
 	text_end
 
 _NoNibbleText::

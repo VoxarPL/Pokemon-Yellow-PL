@@ -263,16 +263,14 @@ _OaksLabRivalIllTakeYouOnText::
 	done
 
 _OaksLabRivalIPickedTheWrongPokemonText::
-	text "Co?"
-	line "Niewiarygodne!"
+	text "Co? Niewiarygodne!"
 	cont "Wybrałem nie tego"
 	cont "#MONA!"
 	prompt
 
 _OaksLabRivalAmIGreatOrWhatText::
-	text "<RIVAL>: Tak!"
-	line "Czy nie jestem"
-	cont "świetny?"
+	text "Tak! Czy nie"
+	cont "jestem świetny?"
 	prompt
 
 _OaksLabRivalSmellYouLaterText::

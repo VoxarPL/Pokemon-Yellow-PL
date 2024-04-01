@@ -130,7 +130,7 @@ _PewterGymCooltrainerMAfterBattleText::
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hejka! Masz, to,"
+	text "Hejka! Masz to,"
 	line "czego potrzeba,"
 	cont "aby zostać"
 	cont "mistrzem #MON!"
@@ -152,8 +152,8 @@ _PewterGymGuideBeginAdviceText::
 _PewterGymGuideAdviceText::
 	text "Pierwszy #MON w"
 	line "walce jest na"
-	cont "szczycie listy"
-	cont "LISTY #MONÓW!"
+	cont "szczycie LISTY"
+	cont "#MONÓW!"
 
 	para "Zmiana kolejności"
 	line "#MONÓW w walce"

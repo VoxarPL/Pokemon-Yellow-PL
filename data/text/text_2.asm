@@ -920,7 +920,7 @@ _EnemyMonFaintedText::
 	line "mdleje!"
 	prompt
 
-_MoneyForWinningText:: ; poprawić
+_MoneyForWinningText::
 	text "<PLAYER> ma ¥@"
 	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text_start

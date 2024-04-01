@@ -1,7 +1,7 @@
 _PewterMartYoungsterText::
 	text "Podejrzany starzec"
 	line "namówił mnie do"
-	cont "kupca dziwnego"
+	cont "kupna dziwnego"
 	cont "#MONA ryby!"
 
 	para "Jest bardzo słaby"
