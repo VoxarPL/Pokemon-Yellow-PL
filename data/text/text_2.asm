@@ -921,7 +921,7 @@ _EnemyMonFaintedText::
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> ma ¥@"
+	text "Otrzymujesz ¥@"
 	text_bcd wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
 	line "za wygraną!"
@@ -946,8 +946,8 @@ _UseNextMonText::
 	done
 
 _Rival1WinText::
-	text "<RIVAL>: Tak! Czy"
-	line "nie jestem super?"
+	text "Tak! Czy nie"
+	line "jestem super?"
 	prompt
 
 _PlayerBlackedOutText2::

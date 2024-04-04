@@ -7,7 +7,7 @@ _Route24CooltrainerM1YouBeatOurContestText::
 _Route24CooltrainerM1YouJustEarnedAPrizeText::
 	text_start
 
-	para "Właśnie wygrałem"
+	para "Właśnie wygrałeś"
 	line "wspaniałą nagrodę!"
 	prompt
 

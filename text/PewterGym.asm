@@ -53,7 +53,7 @@ _TM34ExplanationText::
 	text_start
 
 	para "TM zawiera ruch,"
-	line "której można"
+	line "którego można"
 	cont "nauczyć #MONA!"
 
 	para "TM można użyć"

@@ -2,7 +2,7 @@ _CeruleanBadgeHouseMiddleAgedManText::
 	text "ODZNAKI SAL są"
 	line "własnością tylko"
 	cont "doświadczonych"
-	cont "Trenerów."
+	cont "trenerów."
 
 	para "Widzę, że już coś"
 	line "masz."

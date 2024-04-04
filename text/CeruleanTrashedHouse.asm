@@ -1,6 +1,6 @@
 _CeruleanTrashedHouseFishingGuruTheyStoleATMText::
 	text "Ci nieznośni"
-	line "ROCKECi!"
+	line "ROCKECI!"
 
 	para "Zobacz, co tu"
 	line "narobili!"

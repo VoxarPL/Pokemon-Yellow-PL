@@ -1,7 +1,6 @@
 _Route3Text1::
 	text "Uff... Lepiej sobie"
-	line "odpocznę..."
-	cont "Jęk..."
+	line "odpocznę... Jęk..."
 
 	para "Ten tunel z AZURII"
 	line "wymaga sporo"
@@ -27,10 +26,11 @@ _Route3Youngster1AfterBattleText::
 	done
 
 _Route3Youngster2BattleText::
-	text "Cześć! Lubię"
-	line "szorty! Są wygodne"
-	cont "i łatwo się je"
-	cont "nosi!"
+	text "Cześć!"
+	line "Lubię szorty!"
+
+	para "Są wygodne i łatwo"
+	line "się je nosi!"
 	done
 
 _Route3Youngster2EndBattleText::
@@ -110,8 +110,8 @@ _Route3Youngster4AfterBattleText::
 	done
 
 _Route3Youngster5BattleText::
-	text "Powalcz z moim"
-	line "nowym #MONEM!"
+	text "Powalcz z moimi"
+	line "nowymi #MONAMI!"
 	done
 
 _Route3Youngster5EndBattleText::
@@ -135,11 +135,12 @@ _Route3CooltrainerF3EndBattleText::
 
 _Route3CooltrainerF3AfterBattleText::
 	text "DROGA 4 u podnóża"
-	line "KSIĘŻYCOWEJ GÓRA."
+	line "KSIĘŻYCOWEJ GÓRY."
 	done
 
 _Route3SignText::
 	text "DROGA 3"
-	line "PRZED TOBĄ"
-	cont "KSIĘŻYCOWA GÓRA"
+
+	para "PRZED TOBĄ"
+	line "KSIĘŻYCOWA GÓRA"
 	done

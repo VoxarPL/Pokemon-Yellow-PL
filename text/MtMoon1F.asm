@@ -37,8 +37,7 @@ _MtMoon1FCooltrainerF1BattleText::
 	done
 
 _MtMoon1FCooltrainerF1EndBattleText::
-	text "Och!"
-	line "Zgubiłam to!"
+	text "Och! Zgubiłam to!"
 	prompt
 
 _MtMoon1FCooltrainerF1AfterBattleText::

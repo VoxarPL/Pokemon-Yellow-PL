@@ -27,7 +27,7 @@ _Route25Youngster2EndBattleText::
 	prompt
 
 _Route25Youngster2AfterBattleText::
-	text "Na S.S.ANNE"
+	text "Na S.S.ANNA"
 	line "widziałem trenerów"
 	cont "z całego świata."
 	done

@@ -9,7 +9,7 @@ _CeruleanGymMistyPreBattleText::
 	para "Moje podejście to"
 	line "całkowita ofensywa"
 	cont "#MONAMI typu"
-	cont "Wodnego!"
+	cont "wodnego!"
 
 	para "MISTY, światowej"
 	line "sławy piękność,"
@@ -24,7 +24,7 @@ _CeruleanGymMistyTM11ExplanationText::
 	text "TM11 uczy ruchu"
 	line "BĄBLOPROMIEŃ!"
 
-	para "Użyj go na Wodnym"
+	para "Użyj go na wodnym"
 	line "#MONIE!"
 	done
 
@@ -85,7 +85,7 @@ _CeruleanGymEndBattleText1::
 
 _CeruleanGymAfterBattleText1::
 	text "Zmierz się z"
-	line "innymi Trenerami,"
+	line "innymi trenerami,"
 	cont "a dowiesz się, jak"
 	cont "dobry naprawdę"
 	cont "jesteś."
@@ -119,11 +119,11 @@ _CeruleanGymGymGuideChampInMakingText::
 	para "LIDERKA MISTY jest"
 	line "profesjonalistką,"
 	cont "która używa"
-	cont "Wodnych #MONÓW!"
+	cont "wodnych #MONÓW!"
 
 	para "Możesz wyssać całą"
-	line "ich wodę Trawia-"
-	cont "stymi #MONAMI!"
+	line "wodę trawiastymi"
+	cont "#MONAMI!"
 
 	para "Albo porazić ich"
 	line "prądem!"

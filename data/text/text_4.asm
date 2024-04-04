@@ -8,9 +8,9 @@ _WouldYouLikeToSaveText::
 	line "grę?"
 	done
 
-_SavingText::
-	text "Zapisywanie..."
-	done
+;_SavingText::
+;	text "Zapisywanie..."
+;	done
 
 _GameSavedText::
 	text "<PLAYER> zapisuje"

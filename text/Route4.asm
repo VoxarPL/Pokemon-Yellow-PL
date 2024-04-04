@@ -32,6 +32,7 @@ _Route4MtMoonSignText::
 
 _Route4SignText::
 	text "DROGA 4"
-	line "KSIĘŻYCOWA GÓRA -"
-	cont "AZURIA"
+
+	para "KSIĘŻYCOWA GÓRA -"
+	line "AZURIA"
 	done
