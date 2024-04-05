@@ -262,13 +262,13 @@ _GotOnBicycleText2::
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> wysiada@"
+	text "<PLAYER> wysiada z@"
 	text_end
 
 _GotOffBicycleText2::
-	text "z @"
+	text "@"
 	text_ram wStringBuffer
-	text "."
+	text "U."
 	prompt
 
 _ThrewAwayItemText::

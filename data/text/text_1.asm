@@ -28,8 +28,7 @@ _NothingHereText::
 	prompt
 
 _ItsABiteText::
-	text "Och!"
-	line "Złapało!"
+	text "Och! Złapało!"
 	prompt
 
 _ExclamationText::

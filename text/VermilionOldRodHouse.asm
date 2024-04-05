@@ -27,7 +27,7 @@ _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	line "sposób na życie!"
 
 	para "Od mórz po rzeki,"
-	line "wypłyń i złap"
+	line "wypłyń i złów"
 	cont "największą,"
 	cont "młodzieńcze!"
 	done
@@ -39,8 +39,7 @@ _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
 	text "Cześć, <PLAYER>!"
-
-	para "Jak biorą ryby?"
+	line "Jak biorą ryby?"
 	done
 
 _VermilionOldRodHouseFishingGuruNoRoomText::

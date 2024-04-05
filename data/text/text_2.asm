@@ -233,7 +233,7 @@ _VermilionPokecenterGuyText::
 	cont "potężniejsze..."
 
 	para "Ale #MONY nadal"
-	line "mają swoje słaby"
+	line "mają swoje słabe"
 	cont "punkty przeciwko"
 	cont "konkretnym typom."
 

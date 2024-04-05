@@ -24,7 +24,7 @@ _BillsHouseBillImNotAPokemonText::
 	line "Pomóż mi!"
 	done
 
-_BillsHouseBillUseSeparationSystemText:: ; sprawdź
+_BillsHouseBillUseSeparationSystemText::
 	text "Kiedy będę w"
 	line "TELEPORTERZE, idź"
 	cont "do PC i uruchom"
@@ -75,7 +75,7 @@ _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	line "S.S.ANNA, jest w"
 	cont "ORANII."
 	cont "Jego pasażerami są"
-	cont "Trenerzy!"
+	cont "trenerzy!"
 
 	para "Zaprosili mnie na"
 	line "imprezę, ale nie"
