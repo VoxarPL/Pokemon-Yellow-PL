@@ -68,7 +68,7 @@
 
 	charmap "<to>",      $70 ; narrow "to"
 
-	charmap "『",         $72 ; Japanese opening quote, unused
+	charmap "<BOLD_P>",  $72 ; "『"
 	charmap "<ID>",      $73
 	charmap "№",         $74
 
@@ -78,9 +78,6 @@
 	charmap "<M>",       $60 ; gfx/pokedex/pokedex.png
 	charmap "<K>",       $61 ; gfx/pokedex/pokedex.png
 	charmap "<G>",       $62 ; gfx/pokedex/pokedex.png
-
-	; needed for StatusScreen (see engine/pokemon/status_screen.asm)
-	charmap "<BOLD_P>",  $72 ; gfx/font/P.1bpp
 
 	; needed for LoadTownMap_Fly (see engine/items/town_map.asm)
 	charmap "▲",         $ed ; gfx/town_map/up_arrow.1bpp
@@ -153,11 +150,11 @@
 
 	charmap "é",         $ba
 
-	charmap "<WZ>",        $bb
-	charmap "<RO>",        $bc
-	charmap "<ST>",        $bd
-	charmap "<WA>",        $be
-	charmap "<GA>",        $bf
+	charmap "<WZ>",      $bb
+	charmap "<RO>",      $bc
+	charmap "<ST>",      $bd
+	charmap "<WA>",      $be
+	charmap "<GA>",      $bf
 
 	charmap "Ą",         $c0
 	charmap "Ć",         $c1
