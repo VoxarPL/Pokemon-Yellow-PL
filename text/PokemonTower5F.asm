@@ -1,6 +1,6 @@
 _PokemonTower5FChanneler1Text::
 	text "Chodź, dziecko!"
-	line "Zapieczętowałem to"
+	line "Zapieczętowałam to"
 	cont "miejsce białą"
 	cont "magią!"
 
@@ -8,8 +8,8 @@ _PokemonTower5FChanneler1Text::
 	done
 
 _PokemonTower5FChanneler2BattleText::
-	text "Daj...mi..."
-	line "swoją...duszę..."
+	text "Daj...mi...swoją..."
+	line "duszę..."
 	done
 
 _PokemonTower5FChanneler2EndBattleText::
@@ -21,8 +21,7 @@ _PokemonTower5FChanneler2AfterBattleText::
 	done
 
 _PokemonTower5FChanneler3BattleText::
-	text "Dołącz...do..."
-	line "nas..."
+	text "Dołącz...do...nas..."
 	done
 
 _PokemonTower5FChanneler3EndBattleText::

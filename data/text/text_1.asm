@@ -116,8 +116,8 @@ _OaksAideComeBackText::
 	para "Gdy zdobędziesz @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "gatunków, wróć do"
-	cont "po @"
+	line "gatunków, wróć po"
+	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done

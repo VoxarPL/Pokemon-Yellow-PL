@@ -54,8 +54,7 @@ _Route9CooltrainerF2BattleText::
 	done
 
 _Route9CooltrainerF2EndBattleText::
-	text "Nie!"
-	line "Przesadziłeś!"
+	text "Nie! Przesadziłeś!"
 	prompt
 
 _Route9CooltrainerF2AfterBattleText::

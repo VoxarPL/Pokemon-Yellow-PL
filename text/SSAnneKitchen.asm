@@ -16,12 +16,10 @@ _SSAnneKitchenCook3Text::
 	done
 
 _SSAnneKitchenCook4Text::
-	text "Hum-de-hum-de-"
-	line "ho..."
+	text "Hum-de-hum-de-ho..."
 
 	para "Codziennie obieram"
-	line "kartofle!"
-	cont "Hum-hum..."
+	line "kartofle! Hum-hum..."
 	done
 
 _SSAnneKitchenCook5Text::

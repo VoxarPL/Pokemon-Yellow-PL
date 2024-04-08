@@ -4,8 +4,8 @@ _Route12Gate2FBrunetteGirlYouCanHaveThisText::
 	cont "przechowywane w"
 	cont "WIEŻY #MON."
 
-	para "Możesz mieć ten TM."
-	line "Już go nie"
+	para "Możesz mieć ten"
+	line "TM. Już go nie"
 	cont "potrzebuję..."
 	prompt
 

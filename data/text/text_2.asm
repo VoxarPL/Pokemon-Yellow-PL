@@ -801,8 +801,9 @@ _VermilionGymTrashSuccessText3::
 _VermilionGymTrashFailText::
 	text "Nie, są tu tylko"
 	line "śmieci."
-	cont "Hej! Elektryczne"
-	cont "zamki zresetowane!@"
+
+	para "Hej! Elektryczne"
+	line "zamki zresetowane!@"
 	text_end
 
 _FoundHiddenItemText::

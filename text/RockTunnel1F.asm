@@ -4,8 +4,7 @@ _RockTunnel1FHiker1BattleText::
 	done
 
 _RockTunnel1FHiker1EndBattleText::
-	text "Och!"
-	line "Wygrałeś!"
+	text "Och! Wygrałeś!"
 	prompt
 
 _RockTunnel1FHiker1AfterBattleText::
@@ -103,7 +102,7 @@ _RockTunnel1FCooltrainerF3EndBattleText::
 
 _RockTunnel1FCooltrainerF3AfterBattleText::
 	text "Uff! Jestem cała"
-	line "Jestem cały spocony!!"
+	line "spocona!"
 	done
 
 _RockTunnel1FSignText::

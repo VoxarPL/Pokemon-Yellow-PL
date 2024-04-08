@@ -15,7 +15,7 @@ _PokemonTower3FChanneler1AfterBattleText::
 	done
 
 _PokemonTower3FChanneler2BattleText::
-	text "Kekeke...."
+	text "Kekeke..."
 	line "Kłaaach!"
 	done
 

@@ -76,15 +76,13 @@ InitWildBattle:
 	ld [hli], a   ; write front sprite pointer
 	ld [hl], b
 	ld hl, wEnemyMonNick  ; set name to "GHOST"
-	ld a, "G"
+	ld a, "D"
+	ld [hli], a
+	ld a, "U"
+	ld [hli], a
+	ld a, "C"
 	ld [hli], a
 	ld a, "H"
-	ld [hli], a
-	ld a, "O"
-	ld [hli], a
-	ld a, "S"
-	ld [hli], a
-	ld a, "T"
 	ld [hli], a
 	ld [hl], "@"
 	ld a, [wcf91]

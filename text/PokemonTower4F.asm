@@ -31,12 +31,12 @@ _PokemonTower4FChanneler3BattleText::
 	done
 
 _PokemonTower4FChanneler3EndBattleText::
-	text "Hę?"
-	line "Kto? Co?"
+	text "Hę? Kto? Co?"
 	prompt
 
 _PokemonTower4FChanneler3AfterBattleText::
 	text "Niech zmarłe dusze"
-	line "#MONÓW spoczy-"
-	cont "wają w pokoju..."
+	line "#MONÓW"
+	cont "spoczywają w"
+	cont "pokoju..."
 	done

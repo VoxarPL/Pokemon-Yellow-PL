@@ -11,8 +11,7 @@ _PokemonTower2FRivalWhatBringsYouHereText::
 	done
 
 _PokemonTower2FRivalDefeatedText::
-	text "Co?"
-	line "Ty smrodzie!"
+	text "Co? Ty smrodzie!"
 
 	para "Potraktowałem cię"
 	line "ulgowo!"
@@ -39,15 +38,17 @@ _PokemonTower2FRivalHowsYourDexText::
 	para "Wątpię, by jakieś"
 	line "zostały! Lepiej"
 	cont "już pójdę!"
-	cont "Mam wiele do"
-	cont "zrobienia, kolego!"
+
+	para "Mam wiele do"
+	line "zrobienia, kolego!"
 
 	para "Do zobaczenia!"
 	done
 
 _PokemonTower2FChannelerText::
-	text "Nawet my nie możemy"
-	line "odkryć tożsamości"
+	text "Nawet my nie"
+	line "możemy odkryć"
+	cont "tożsamości"
 	cont "zbłąkanych DUCHÓW!"
 
 	para "SKANER SILPH może"

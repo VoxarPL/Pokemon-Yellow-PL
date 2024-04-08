@@ -1,7 +1,7 @@
 _Route23YouDontHaveTheBadgeYetText::
-	text "Możesz przejść"
-	line "tylko wtedy, gdy"
-	cont "masz @"
+	text "Przejdziesz tylko"
+	line "wtedy, gdy masz"
+	cont "@"
 	text_ram wcd6d
 	text "!"
 
@@ -16,9 +16,9 @@ _Route23YouDontHaveTheBadgeYetText::
 	text_end
 
 _Route23OhThatIsTheBadgeText::
-	text "Możesz przejść"
-	line "tylko wtedy, gdy"
-	cont "masz @"
+	text "Przejdziesz tylko"
+	line "wtedy, gdy masz"
+	cont "@"
 	text_ram wcd6d
 	text "!"
 

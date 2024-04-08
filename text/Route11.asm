@@ -24,8 +24,8 @@ _Route11Gambler2EndBattleText::
 
 _Route11Gambler2AfterBattleText::
 	text "Nie możesz być"
-	line "tchórzem w"
-	cont "świecie #MON!"
+	line "tchórzem w świecie"
+	cont "#MON!"
 	done
 
 _Route11Youngster1BattleText::
@@ -34,8 +34,8 @@ _Route11Youngster1BattleText::
 	done
 
 _Route11Youngster1EndBattleText::
-	text "Hę?"
-	line "To nie w porządku!"
+	text "Hę? To nie w"
+	line "porządku!"
 	prompt
 
 _Route11Youngster1AfterBattleText::

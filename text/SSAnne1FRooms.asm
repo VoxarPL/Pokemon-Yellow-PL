@@ -69,8 +69,8 @@ _SSAnne1FRoomsCooltrainerFEndBattleText::
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "Zraniłeś mojego"
-	line "biednego #MONY!"
+	text "Zraniłeś moje"
+	line "biedne #MONY!"
 
 	para "Żądam, abyś"
 	line "wyleczył je w"
@@ -89,7 +89,7 @@ _SSAnne1FRoomsMiddleAgedManText::
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "Zawsze podróżuję"
+	text "Zawsze podróżuję z"
 	line "WIGGLYTUFF!"
 	done
 

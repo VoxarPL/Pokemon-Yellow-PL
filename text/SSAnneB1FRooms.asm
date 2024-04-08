@@ -31,7 +31,7 @@ _SSAnneB1FRoomsSailor2EndBattleText::
 	prompt
 
 _SSAnneB1FRoomsSailor2AfterBattleText::
-	text "Czy idziałeś"
+	text "Czy widziałeś"
 	line "RYBACKIEGO GURU w"
 	cont "ORANII?"
 	done
@@ -42,7 +42,8 @@ _SSAnneB1FRoomsSailor3BattleText::
 	done
 
 _SSAnneB1FRoomsSailor3EndBattleText::
-	text "OK, nie jesteś zły."
+	text "OK, nie jesteś"
+	line "zły."
 	prompt
 
 _SSAnneB1FRoomsSailor3AfterBattleText::
@@ -58,8 +59,7 @@ _SSAnneB1FRoomsSailor4BattleText::
 	text_end
 
 _SSAnneB1FRoomsSailor4EndBattleText::
-	text "Argh!"
-	line "Porażka!"
+	text "Arch! Porażka!"
 	prompt
 
 _SSAnneB1FRoomsSailor4AfterBattleText::

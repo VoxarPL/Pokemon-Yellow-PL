@@ -40,8 +40,9 @@ _LavenderTownSuperNerdText::
 
 _LavenderTownSignText::
 	text "LAWANDIA"
-	line "Szlachetne"
-	cont "Purpurowe Miasto"
+
+	para "Szlachetne"
+	line "Purpurowe Miasto"
 	done
 
 _LavenderTownSilphScopeSignText::
@@ -61,8 +62,9 @@ _LavenderTownPokemonHouseSignText::
 	done
 
 _LavenderTownPokemonTowerSignText::
-	text "Niech Dusze #-"
-	line "MONÓW Spoczywają w"
+	text "Niech Dusze"
+	line "#MONÓW"
+	cont "Spoczywają w"
 	cont "Pokoju"
 
 	para "WIEŻA #MON"

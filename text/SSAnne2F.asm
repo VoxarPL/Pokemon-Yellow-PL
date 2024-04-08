@@ -11,7 +11,7 @@ _SSAnne2FWaiterText::
 	done
 
 _SSAnne2FRivalText::
-	text "<RIVAL>: Bonjour!"
+	text "<RIVAL>: Bonjour,"
 	line "<PLAYER>!"
 
 	para "Wyobraź sobie, że"
@@ -38,7 +38,7 @@ _SSAnne2FRivalDefeatedText::
 
 	para "Przynajmniej"
 	line "trenujesz swoje"
-	cont "#MON!"
+	cont "#MONY!"
 	prompt
 
 _SSAnne2FRivalVictoryText::

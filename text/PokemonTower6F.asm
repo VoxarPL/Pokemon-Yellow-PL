@@ -39,8 +39,8 @@ _PokemonTower6FChanneler2AfterBattleText::
 	done
 
 _PokemonTower6FChanneler3BattleText::
-	text "Ke..ke...ke..."
-	line "ke..ke...ke!!"
+	text "Ke...ke...ke..."
+	line "ke...ke...ke!!"
 	done
 
 _PokemonTower6FChanneler3EndBattleText::

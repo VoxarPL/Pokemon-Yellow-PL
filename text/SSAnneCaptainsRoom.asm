@@ -3,7 +3,7 @@ _SSAnneCaptainsRoomRubCaptainsBackText::
 	line "Czuję się ohydnie..."
 	cont "Urrp! Choroba..."
 
-	para "<PLAYER> poklepał"
+	para "<PLAYER> klepie"
 	line "KAPITANA po"
 	cont "plecach!"
 

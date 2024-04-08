@@ -5,8 +5,7 @@ _Route8SuperNerd1BattleText::
 	done
 
 _Route8SuperNerd1EndBattleText::
-	text "Ał!"
-	line "Stopiony!"
+	text "Ał! Stopiony!"
 	prompt
 
 _Route8SuperNerd1AfterBattleText::
@@ -20,7 +19,7 @@ _Route8Gambler1BattleText::
 	done
 
 _Route8Gambler1EndBattleText::
-	text "Cholera!!"
+	text "Cholera!"
 	line "Wyszło krótko!"
 	prompt
 
@@ -40,8 +39,8 @@ _Route8SuperNerd2EndBattleText::
 
 _Route8SuperNerd2AfterBattleText::
 	text "Najpierw idzie"
-	line "GRIMER...a..."
-	cont "...a...potem..."
+	line "GRIMER...a...a..."
+	cont "...potem..."
 	done
 
 _Route8CooltrainerF1BattleText::
@@ -55,8 +54,8 @@ _Route8CooltrainerF21EndBattleText::
 	prompt
 
 _Route8CooltrainerF1AfterBattleText::
-	text "Gdy #MON rosną,"
-	line "stają się"
+	text "Kiedy #MONY"
+	line "rosną, stają się"
 	cont "brzydkie! Nie"
 	cont "powinny ewoluować!"
 	done
@@ -107,7 +106,8 @@ _Route8CooltrainerF3AfterBattleText::
 	text "Strażnik nie chce"
 	line "nas przepuścić do"
 	cont "SAFRANII."
-	cont "Jest taki wredny!"
+
+	para "Jest taki wredny!"
 	done
 
 _Route8Gambler2BattleText::
@@ -137,7 +137,7 @@ _Route8CooltrainerF4EndBattleText::
 	text "Przestań!"
 
 	para "Nie bądź taki"
-	line "złośliwy dla mojej"
+	line "złośliwy dla moich"
 	cont "CLEFAIRY!"
 	prompt
 
@@ -151,6 +151,7 @@ _Route8CooltrainerF4AfterBattleText::
 
 _Route8UndergroundSignText::
 	text "PODZIEMNY TUNEL"
-	line "PRYZMANIA -"
-	cont "LAWANDIA"
+
+	para "PRYZMANIA -"
+	line "LAWANDIA"
 	done
