@@ -58,8 +58,8 @@ _SilphCo5FRockerEndBattleText::
 
 _SilphCo5FRockerAfterBattleText::
 	text "Jesteś dopiero na"
-	line "5P. Długa droga"
-	cont "do mojego SZEFA!"
+	line "5P. Długa droga do"
+	cont "mojego SZEFA!"
 	done
 
 _SilphCo5FRocket2BattleText::
@@ -92,7 +92,7 @@ _SilphCo5FPokemonReport2Text::
 	text "To RAPORT #MON!"
 
 	para "Potwierdzono ponad"
-	line "160 technik"
+	line "160 ruchów"
 	cont "#MONÓW."
 	done
 

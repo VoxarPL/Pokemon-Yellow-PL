@@ -1,7 +1,7 @@
 _CeladonMansionRoofHouseHikerText::
-	text "Wiem wszystko w"
+	text "Wiem wszystko o"
 	line "całym świecie"
-	cont "#MONÓW w twoim"
+	cont "#MON w twoim"
 	cont "GAME BOYU!"
 
 	para "Spotkaj się z"

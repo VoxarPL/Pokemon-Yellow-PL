@@ -3,9 +3,8 @@ _CeladonGymErikaPreBattleText::
 	line "pogoda, prawda?"
 	cont "Taka przyjemna."
 
-	para "...Ojej..."
-	line "Musiałam przysnąć."
-	cont "Witaj."
+	para "...Ojej... Musiałam"
+	line "przysnąć. Witaj."
 
 	para "Nazywam się ERIKA."
 	line "Jestem LIDERKĄ"
@@ -14,7 +13,7 @@ _CeladonGymErikaPreBattleText::
 	para "Uczę sztuki"
 	line "aranżacji kwiatów."
 	cont "Moje #MONY są"
-	cont "typu Trawiastego."
+	cont "typu trawiastego."
 
 	para "Och, wybacz, nie"
 	line "miałam pojęcia, że"
@@ -50,8 +49,8 @@ _CeladonGymErikaPostBattleAdviceText::
 _CeladonGymRainbowBadgeInfoText::
 	text "ODZNAKA TĘCZY"
 	line "sprawia, że"
-	cont "#MONY P50 będą"
-	cont "posłuszne."
+	cont "#MONY do P50"
+	cont "będą posłuszne."
 
 	para "Pozwala także na"
 	line "używanie SIŁY poza"
@@ -86,7 +85,7 @@ _CeladonGymTM21NoRoomText::
 	done
 
 _CeladonGymBattleText2::
-	text "HeJ!"
+	text "Hej!"
 
 	para "Nie wolno ci tu"
 	line "wchodzić!"
@@ -114,12 +113,12 @@ _CeladonGymEndBattleText3::
 _CeladonGymAfterBattleText3::
 	text "Trawiaste #MONY"
 	line "są silne przeciw"
-	cont "typom Wodnym!"
+	cont "typom wodnym!"
 
 	para "Mają też przewagę"
 	line "nad #MONAMI"
-	cont "typu Kamiennego i"
-	cont "Ziemnego!"
+	cont "typu kamiennego i"
+	cont "ziemnego!"
 	done
 
 _CeladonGymBattleText4::
@@ -151,7 +150,7 @@ _CeladonGymEndBattleText5::
 
 _CeladonGymAfterBattleText5::
 	text "Używamy tylko"
-	line "Trawiastych"
+	line "trawiastych"
 	cont "#MONÓW w naszej"
 	cont "SALI!"
 
@@ -186,8 +185,7 @@ _CeladonGymBattleText7::
 	done
 
 _CeladonGymEndBattleText7::
-	text "Och!"
-	line "Doskonale!"
+	text "Och! Doskonale!"
 	prompt
 
 _CeladonGymAfterBattleText7::
@@ -207,14 +205,13 @@ _CeladonGymBattleText8::
 	done
 
 _CeladonGymEndBattleText8::
-	text "Och!"
-	line "Pokonana!"
+	text "Och! Pokonana!"
 	prompt
 
 _CeladonGymAfterBattleText8::
 	text "Nie wybrałam"
-	line "mojego najlepszego"
-	cont "#MONA!"
+	line "moich najlepszych"
+	cont "#MONÓW!"
 
 	para "Do następnego"
 	line "razu!"

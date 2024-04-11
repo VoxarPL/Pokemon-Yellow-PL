@@ -1,10 +1,10 @@
 _CeladonCityLittleGirlText::
-	text "Dostałem KOFFINGA"
+	text "Dostałam KOFFINGA"
 	line "od przyjaciela!"
 
 	para "Dogadujemy się, bo"
-	line "byłem dla niego"
-	cont "bardzo miły!"
+	line "byłam dla niego"
+	cont "bardzo miła!"
 	done
 
 _CeladonCityGramps1Text::
@@ -91,8 +91,9 @@ _CeladonCityRocket2Text::
 
 _CeladonCitySignText::
 	text "PRYZMANIA"
-	line "Miasto Tęczowych"
-	cont "Snów"
+
+	para "Miasto Tęczowych"
+	line "Snów"
 	done
 
 _CeladonCityGymSignText::
@@ -134,7 +135,8 @@ _CeladonCityTrainerTips2Text::
 _CeladonCityPrizeExchangeSignText::
 	text "Wymiana żetonów na"
 	line "nagrody!"
-	cont "WYMIANA NAGRÓD"
+
+	para "WYMIANA NAGRÓD"
 	done
 
 _CeladonCityGameCornerSignText::

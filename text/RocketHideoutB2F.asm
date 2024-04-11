@@ -12,6 +12,7 @@ _RocketHideoutB1FRocketEndBattleText::
 _RocketHideoutB1FRocketAfterBattleText::
 	text "KRYJÓWKA ZESPOŁU R"
 	line "ma cztery piętra."
-	cont "Zdołasz dotrzeć do"
-	cont "SZEFA?"
+
+	para "Zdołasz dotrzeć do"
+	line "SZEFA?"
 	done

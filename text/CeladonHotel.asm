@@ -1,7 +1,6 @@
 _CeladonHotelGrannyText::
 	text "#MONY? Nie, to"
-	line "jest hotel dla"
-	cont "ludzi."
+	line "hotel dla ludzi."
 
 	para "Nie mamy miejsc."
 	done

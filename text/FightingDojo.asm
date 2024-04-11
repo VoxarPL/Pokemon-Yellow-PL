@@ -13,8 +13,8 @@ _FightingDojoKarateMasterText::
 	done
 
 _FightingDojoKarateMasterDefeatedText::
-	text "Hła!"
-	line "Arrgh! Pokonany!"
+	text "Hła! Arrch!"
+	line "Pokonany!"
 	prompt
 
 _FightingDojoKarateMasterIWillGiveYouAPokemonText::

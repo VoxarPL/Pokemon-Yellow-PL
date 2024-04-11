@@ -1,7 +1,7 @@
 _CeladonMart4FSuperNerdText::
 	text "Kupuję prezent dla"
 	line "mojej dziewczyny,"
-	cont "KOPIARY z AZURII."
+	cont "KOPIARY."
 
 	para "To musi być"
 	line "# LALKA."

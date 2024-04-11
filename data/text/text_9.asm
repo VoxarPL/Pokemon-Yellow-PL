@@ -116,8 +116,7 @@ _PlayedFluteHadEffectText::
 	text_end
 
 _CoinCaseNumCoinsText::
-	text "Żetony"
-	line "@"
+	text "Żetony: @"
 	text_bcd wPlayerCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " "
 	prompt

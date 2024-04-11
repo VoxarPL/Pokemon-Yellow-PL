@@ -7,7 +7,7 @@ _CeladonMart5FGentlemanText::
 	line "podnieść zdolności"
 	cont "SPECJALNE."
 
-	para "Użyj Węglowodany,"
+	para "Użyj WĘGLOWODANY,"
 	line "aby zwiększyć"
 	cont "SZYBKOŚĆ."
 	done

@@ -1,8 +1,9 @@
 _CopycatsHouse1FMiddleAgedWomanText::
 	text "Moja córka jest"
 	line "egocentryczna."
-	cont "Ma tylko kilku"
-	cont "przyjaciół."
+
+	para "Ma tylko kilku"
+	line "przyjaciół."
 	done
 
 _CopycatsHouse1FMiddleAgedManText::

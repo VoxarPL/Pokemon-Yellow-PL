@@ -22,7 +22,7 @@ _PokemonTowerJessieJamesText4::
 	text_end
 
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Che?"
+	text "PAN FUJI: Che?"
 	line "Przyszedłeś mnie"
 	cont "uratować?"
 

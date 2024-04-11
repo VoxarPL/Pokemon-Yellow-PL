@@ -87,8 +87,7 @@ _SaffronCityRocket8Text::
 	done
 
 _SaffronCityRocket9Text::
-	text "..."
-	line "Chrap..."
+	text "...Chrap..."
 
 	para "Hah! Drzemie"
 	line "sobie!"
@@ -96,8 +95,9 @@ _SaffronCityRocket9Text::
 
 _SaffronCitySignText::
 	text "SAFRANIA"
-	line "Lśniąca, Złota"
-	cont "Ziemia Handlu"
+
+	para "Lśniąca, Złota"
+	line "Ziemia Handlu"
 	done
 
 _SaffronCityFightingDojoSignText::

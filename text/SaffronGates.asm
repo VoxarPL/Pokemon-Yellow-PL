@@ -19,15 +19,14 @@ _SaffronGateGuardImParchedText::
 _SaffronGateGuardYouCanGoOnThroughText::
 	text_start
 
-	para "..."
-	line "Glug, glug..."
-	cont "..."
-	cont "Gulp..."
-	cont "Jeśli chcesz iść"
-	cont "do SAFRANII..."
-	cont "..."
-	cont "Możesz przejść"
-	cont "dalej. Podzielę"
+	para "...Glug, glug..."
+	cont "...Glug, glug..."
+
+	para "Jeśli chcesz iść"
+	line "do SAFRANII..."
+
+	para "Możesz przejść"
+	line "dalej. Podzielę"
 	cont "się tym z innymi"
 	cont "strażnikami!"
 	done

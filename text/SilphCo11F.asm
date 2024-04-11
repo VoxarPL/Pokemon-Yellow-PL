@@ -36,7 +36,7 @@ _SilphCo11FSilphPresidentMasterBallDescriptionText::
 	para "Bezbłędnie złapie"
 	line "każdego #MONA!"
 
-	para "Zachować jednak"
+	para "Zachowaj jednak"
 	line "spokój podczas"
 	cont "używania go."
 	done

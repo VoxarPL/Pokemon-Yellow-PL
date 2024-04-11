@@ -5,8 +5,7 @@ _RocketHideoutB3FRocket1BattleText::
 	done
 
 _RocketHideoutB3FRocket1EndBattleText::
-	text "Oof!"
-	line "Powalony!"
+	text "Oof! Powalony!"
 	prompt
 
 _RocketHideoutB3FRocket1AfterBattleText::
@@ -23,8 +22,8 @@ _RocketHideout3BattleTxt::
 	done
 
 _RocketHideout3EndBattleText3::
-	text "Co?"
-	line "Przegrałem? Nie!"
+	text "Co? Przegrałem?"
+	line "Nie!"
 	prompt
 
 _RocketHide3AfterBattleText3::

@@ -1,7 +1,5 @@
 _CeladonDinerCookText::
-	text "Cześć!"
-
-	para "Mamy teraz"
+	text "Cześć! Mamy teraz"
 	line "przerwę."
 	done
 
@@ -34,8 +32,8 @@ _CeladonDinerGymGuideImFlatOutBustedText::
 	line "rozwalony!"
 
 	para "Skończyłem z"
-	line "automatami! Idę na"
-	cont "prostą!"
+	line "automatami!"
+	cont "Idę na prostą!"
 
 	para "Proszę! Nie będę"
 	line "już tego więcej"
@@ -44,9 +42,7 @@ _CeladonDinerGymGuideImFlatOutBustedText::
 
 _CeladonDinerGymGuideReceivedCoinCaseText::
 	text "<PLAYER> otrzymuje"
-	line "@"
-	text_ram wStringBuffer
-	text "!@"
+	line "ETUI NA ŻETONY!@"
 	text_end
 
 _CeladonDinerGymGuideCoinCaseNoRoomText::

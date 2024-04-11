@@ -94,8 +94,8 @@ _OutOfCoinsSlotMachineText::
 	done
 
 _BetHowManySlotMachineText::
-	text "Ile obstawiasz"
-	line "żetonów?"
+	text "Ile żetonów"
+	line "obstawiasz?"
 	done
 
 _StartSlotMachineText::
@@ -153,7 +153,7 @@ _GymStatueText1::
 _GymStatueText2::
 	text_ram wGymCityName
 	text_start
-	line "#SALA #MON"
+	line "SALA #MON"
 	cont "LIDER: @"
 	text_ram wGymLeaderName
 	text_start

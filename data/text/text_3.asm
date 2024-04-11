@@ -12,8 +12,8 @@ _TrainerWantsToFightText::
 
 _UnveiledGhostText::
 	text "SKANER SILPH"
-	line "ujawnił tożsamość"
-	cont "tożsamość DUCHA!"
+	line "ujawnia tożsamość"
+	cont "DUCHA!"
 	prompt
 
 _GhostCantBeIDdText::

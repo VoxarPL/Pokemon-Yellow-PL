@@ -38,7 +38,7 @@ _MrFujisHouseNidorinoText::
 	text_end
 
 _MrFujisHouseMrFujiIThinkThisMayHelpYourQuestText::
-	text "MR.FUJI: <PLAYER>."
+	text "PAN FUJI: <PLAYER>."
 
 	para "Twoja #DEXOWA"
 	line "misja nie"

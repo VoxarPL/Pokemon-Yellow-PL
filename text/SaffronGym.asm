@@ -174,7 +174,7 @@ _SaffronGymYoungster2EndBattleText::
 _SaffronGymYoungster2AfterBattleText::
 	text "SABRINA właśnie"
 	line "zmiotła MISTRZA"
-	cont "KARATE obok!"
+	cont "KARATE obok nas!"
 	done
 
 _SaffronGymChanneler3BattleText::

@@ -17,7 +17,7 @@ _CopycatsHouse2FCopycatDoYouLikePokemonText::
 
 _CopycatsHouse2FCopycatTM31PreReceiveText::
 	text "Och, łał!"
-	line "# DOLL!"
+	line "# LALKA!"
 
 	para "Dla mnie?"
 	line "Dziękuję!"

@@ -99,7 +99,7 @@ _CeladonMartRoofLittleGirlImNotThirstyText::
 
 _CeladonMartRoofSuperNerdText::
 	text "Moja siostra jest"
-	line "Trenerką, wierz"
+	line "trenerką, wierz"
 	cont "lub nie."
 
 	para "Jest niedojrzała,"

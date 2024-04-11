@@ -1,5 +1,5 @@
 _SilphCo4FSilphWorkerMImHidingText::
-	text "Ciii! Nie widzisz,"
+	text "Cii! Nie widzisz,"
 	line "że się ukrywam?"
 	done
 
@@ -15,7 +15,7 @@ _SilphCo4FRocket1BattleText::
 	done
 
 _SilphCo4FRocket1EndBattleText::
-	text "Arrgh!"
+	text "Arrch!"
 	prompt
 
 _SilphCo4FRocket1AfterBattleText::
@@ -25,9 +25,8 @@ _SilphCo4FRocket1AfterBattleText::
 	done
 
 _SilphCo4FScientistBattleText::
-	text "Moje #MONY to"
-	line "moi lojalni"
-	cont "żołnierze!"
+	text "Mój #MON to"
+	line "lojalny żołnierz!"
 	done
 
 _SilphCo4FScientistEndBattleText::
