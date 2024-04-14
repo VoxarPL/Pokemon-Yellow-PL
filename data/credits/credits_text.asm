@@ -72,8 +72,8 @@ CreditsTextPointers:
 	dw CreditsText_Nakamura2
 	dw CreditsText_Shoemake
 	dw CreditsText_Osborne
-	dw CreditsText_Translation
-	dw CreditsText_Ogasawara
+	dw CreditsText_PLVersion
+	dw CreditsText_Voxar
 	dw CreditsText_Iwata
 	dw CreditsText_Izushi2
 	dw CreditsText_Harada2
@@ -90,8 +90,8 @@ CreditsTextPointers:
 	assert_table_length NUM_CRED_STRINGS
 
 CreditsText_Version:
-	db -6, "YELLOW VERSION"
-	next   "    STAFF@"
+	db -5, "WERSJA ŻÓŁTA"
+	next   "  AUTORZY@"
 CreditsText_Tajiri:
 	db -6, "SATOSHI TAJIRI@"
 CreditsText_Oota:
@@ -149,35 +149,35 @@ CreditsText_Yuda:
 CreditsText_Pokemon:
 	db -3, "#MON@"
 CreditsText_Director:
-	db -3, "DIRECTOR@"
+	db -3, "DYREKTOR@"
 CreditsText_Programmers:
-	db -5, "PROGRAMMERS@"
+	db -5, "PROGRAMIŚCI@"
 CreditsText_CharacterDesign:
-	db -7, "CHARACTER DESIGN@"
+	db -7, "PROJEKT POSTACI@"
 CreditsText_Music:
-	db -2, "MUSIC@"
+	db -2, "MUZYKA@"
 CreditsText_SoundEffects:
-	db -6, "SOUND EFFECTS@"
+	db -7, "EFEKTY DŹWIĘKOWE@"
 CreditsText_GameDesign:
-	db -5, "GAME DESIGN@"
+	db -5, "PROJEKT GRY@"
 CreditsText_MonsterDesign:
-	db -6, "MONSTER DESIGN@"
+	db -7, "PROJEKT STWORKÓW@"
 CreditsText_GameScenario:
-	db -6, "GAME SCENARIO@"
+	db -6, "SCENARIUSZ GRY@"
 CreditsText_ParametricDesign:
-	db -7, "PARAMETRIC DESIGN@"
+	db -7, "PROJEKT PARAMETRÓW@"
 CreditsText_MapDesign:
-	db -4, "MAP DESIGN@"
+	db -5, "PROJEKT MAPY@"
 CreditsText_Testing:
-	db -6, "PRODUCT TESTING@"
+	db -9, "TESTOWANIE PRODUKTU@"
 CreditsText_SpecialThanks:
-	db -6, "SPECIAL THANKS@"
+	db -6, "PODZIĘKOWANIA@"
 CreditsText_Producers:
-	db -4, "PRODUCERS@"
+	db -4, "PRODUCENCI@"
 CreditsText_Producer:
-	db -3, "PRODUCER@"
+	db -3, "PRODUCENT@"
 CreditsText_ExecutiveProducer:
-	db -8, "EXECUTIVE PRODUCER@"
+	db -9, "PRODUCENT WYKONAWCZY@"
 CreditsText_Tamada:
 	db -6, "SOUSUKE TAMADA@"
 CreditsText_Oota2:
@@ -220,13 +220,13 @@ CreditsText_Shogakukan:
 CreditsText_Ootani:
 	db -5, "IKUE OOTANI@"
 CreditsText_PikachuVoice:
-	db -6, "PIKACHU VOICE@"
+	db -5, "GŁOS PIKACHU@"
 
 	db -3, "××××××××@"
 CreditsText_USStaff:
-	db -7, "US VERSION STAFF@"
+	db -8, "AUTORZY WERSJI@"
 CreditsText_USCoord:
-	db -7, "US COORDINATION@"
+	db -6, "KOORDYNACJA US@"
 CreditsText_Tilden:
 	db -5, "GAIL TILDEN@"
 CreditsText_Kawakami:
@@ -237,10 +237,10 @@ CreditsText_Shoemake:
 	db -6, "RANDY SHOEMAKE@"
 CreditsText_Osborne:
 	db -5, "SARA OSBORNE@"
-CreditsText_Translation:
-	db -7, "TEXT TRANSLATION@"
-CreditsText_Ogasawara:
-	db -6, "NOB OGASAWARA@"
+CreditsText_PLVersion:
+	db -6, "WERSJA POLSKA@"
+CreditsText_Voxar:
+	db -2, "VOXAR@"
 CreditsText_Iwata:
 	db -5, "SATORU IWATA@"
 CreditsText_Izushi2:
