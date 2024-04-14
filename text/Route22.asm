@@ -83,9 +83,9 @@ _Route22RivalBeforeBattleText2::
 	done
 
 _Route22RivalAfterBattleText2::
-	text "To mnie rozluźniło!"
-	line "Jestem gotowy na"
-	cont "LIGĘ #MON!"
+	text "Rozluźniło mnie"
+	line "to! Jestem gotowy"
+	cont "na LIGĘ #MON!"
 
 	para "<PLAYER>, potrzeba"
 	line "ci więcej ćwiczeń!"

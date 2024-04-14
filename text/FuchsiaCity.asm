@@ -34,8 +34,9 @@ _FuchsiaCityPokemonText::
 
 _FuchsiaCitySignText::
 	text "PARMANIA"
-	line "Ujrzyj Ten"
-	cont "Namiętny Róż!"
+
+	para "Ujrzyj Ten"
+	line "Namiętny Róż!"
 	done
 
 _FuchsiaCitySafariGameSignText::
@@ -105,7 +106,7 @@ _FuchsiaCityFossilSignOmanyteText::
 
 	para "#MON, który"
 	line "został wskrzeszony"
-	cont "ze Skamieliny."
+	cont "ze skamieliny."
 	prompt
 
 _FuchsiaCityFossilSignKabutoText::
@@ -113,7 +114,7 @@ _FuchsiaCityFossilSignKabutoText::
 
 	para "#MON, który"
 	line "został wskrzeszony"
-	cont "ze Skamieliny."
+	cont "ze skamieliny."
 	prompt
 
 _FuchsiaCityFossilSignUndeterminedText::

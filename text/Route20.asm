@@ -118,13 +118,13 @@ _Route20Swimmer7AfterBattleText::
 	done
 
 _Route20Swimmer8BattleText::
-	text "Przypłynąłem tu z"
+	text "Przypłynęłam tu z"
 	line "WYSPY CINNABAR!"
 	done
 
 _Route20Swimmer8EndBattleText::
 	text "Jestem taki"
-	line "rozczarowany!"
+	line "rozczarowana!"
 	prompt
 
 _Route20Swimmer8AfterBattleText::
@@ -152,5 +152,5 @@ _Route20Swimmer9AfterBattleText::
 
 _Route20SeafoamIslandsSignText::
 	text "WYSPY MORSKIEJ"
-	cont "PIANY"
+	line "PIANY"
 	done

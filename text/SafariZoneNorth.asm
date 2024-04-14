@@ -4,7 +4,7 @@ _SafariZoneNorthRestHouseSignText::
 
 _SafariZoneNorthTrainerTips1Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "TAJNY DOM jest"
 	line "wciąż przed tobą!"
@@ -16,7 +16,7 @@ _SafariZoneNorthSignText::
 
 _SafariZoneNorthTrainerTips2Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "#MONY kryją się"
 	line "w wysokiej trawie!"
@@ -27,7 +27,7 @@ _SafariZoneNorthTrainerTips2Text::
 
 _SafariZoneNorthTrainerTips3Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Wygraj darmowy HM"
 	line "za odnalezienie"

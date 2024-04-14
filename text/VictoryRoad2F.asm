@@ -39,7 +39,7 @@ _VictoryRoad2FCooltrainerMBattleText::
 	done
 
 _VictoryRoad2FCooltrainerMEndBattleText::
-	text "Dostałem baty!"
+	text "Ja dostałem baty!"
 	prompt
 
 _VictoryRoad2FCooltrainerMAfterBattleText::

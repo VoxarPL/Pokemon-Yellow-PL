@@ -22,27 +22,26 @@ _ChampionsRoomRivalIntroText::
 
 	para "A teraz!"
 
-	para "Jestem Mistrzem"
+	para "Jestem mistrzem"
 	line "LIGI #MON!"
 
-	para "<PLAYER>! Wiesz,"
-	line "co to oznacza?"
+	para "<PLAYER>! Wiesz, co"
+	line "to oznacza?"
 
 	para "Powiem ci!"
 
 	para "Jestem"
 	line "najpotężniejszym"
-	cont "Trenerem świata!"
+	cont "trenerem świata!"
 	done
 
 _RivalDefeatedText::
-	text "NIE!"
-	line "To niemożliwe!"
-	cont "Pokonałeś mnie!"
+	text "NIE! Niemożliwe!"
+	line "Pokonałeś mnie!"
 
 	para "Po całej tej"
 	line "pracy, aby zostać"
-	cont "Mistrzem LIGI?"
+	cont "mistrzem LIGI?"
 
 	para "Moje panowanie już"
 	line "się skończyło?"
@@ -66,15 +65,15 @@ _RivalVictoryText::
 	prompt
 
 _ChampionsRoomRivalAfterBattleText::
-	text "Czemu?"
-	line "Czemu przegrałem?"
+	text "Czemu? Czemu"
+	line "przegrałem?"
 
 	para "Nigdy nie"
 	line "popełniałem błędów"
 	cont "trenując #MONY..."
 
 	para "A niech to! Jesteś"
-	line "nowym Mistrzem"
+	line "nowym mistrzem"
 	cont "LIGI #MON!"
 
 	para "Chociaż nie lubię"
@@ -90,7 +89,7 @@ _ChampionsRoomOakCongratulatesPlayerText::
 	text "OAK: Wygrałeś!"
 	line "Moje gratulacje!"
 	cont "Jesteś teraz"
-	cont "nowym Mistrzem"
+	cont "nowym mistrzem"
 	cont "LIGI #MON!"
 
 	para "Bardzo dorosłeś od"
@@ -127,9 +126,9 @@ _ChampionsRoomOakDisappointedWithRivalText::
 	cont "zaufaniem i"
 	cont "miłością!"
 
-	para "Bez nich nigdy nie"
+	para "Bez tego nigdy nie"
 	line "odzyskasz tytułu"
-	cont "Mistrza!"
+	cont "mistrza!"
 	done
 
 _ChampionsRoomOakComeWithMeText::

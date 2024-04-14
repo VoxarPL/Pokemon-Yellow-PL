@@ -90,7 +90,7 @@ _Route19Swimmer5BattleText::
 	done
 
 _Route19Swimmer5EndBattleText::
-	text "Och! Przegrałem!"
+	text "Och! Przegrałam!"
 	prompt
 
 _Route19Swimmer5AfterBattleText::
@@ -131,13 +131,13 @@ _Route19Swimmer7AfterBattleText::
 	done
 
 _Route19Swimmer8BattleText::
-	text "Pływałem tu, ale"
-	line "jestem zmęczony."
+	text "Pływałam tu, ale"
+	line "jestem zmęczona."
 	done
 
 _Route19Swimmer8EndBattleText::
 	text "Jestem"
-	line "wykończony..."
+	line "wykończona..."
 	prompt
 
 _Route19Swimmer8AfterBattleText::
@@ -148,6 +148,7 @@ _Route19Swimmer8AfterBattleText::
 
 _Route19SignText::
 	text "DROGA 19"
-	line "PARMANIA - WYSPY"
-	cont "MORSKIEJ PIANY"
+
+	para "PARMANIA - WYSPY"
+	line "MORSKIEJ PIANY"
 	done

@@ -21,6 +21,6 @@ _IndigoPlateauLobbyCooltrainerFText::
 	para "Jeśli wygrasz,"
 	line "otworzą się drzwi"
 	cont "do następnego"
-	cont "Trenera!"
+	cont "trenera!"
 	cont "Powodzenia!"
 	done

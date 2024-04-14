@@ -5,10 +5,10 @@ _CinnabarLabFossilRoomScientist1Text::
 	line "doktorem!"
 
 	para "Badam tu rzadkie"
-	line "Skamieliny!"
+	line "skamieliny!"
 
 	para "Ty! Masz dla mnie"
-	line "jakąś Skamielinę?"
+	line "jakąś skamielinę?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
@@ -26,7 +26,7 @@ _CinnabarLabFossilRoomScientist1GoForAWalkText::
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
 	text "Gdzie byłeś?"
 
-	para "Twoja Skamielina"
+	para "Twoja skamielina"
 	line "wróciła do życia!"
 
 	para "To był @"
@@ -41,12 +41,12 @@ _CinnabarLabFossilRoomScientist1SeesFossilText::
 	text_ram wcd6d
 	text "!"
 
-	para "To Skamielina"
+	para "To skamielina"
 	line "@"
 	text_ram wStringBuffer
 	text ","
-	cont "#MON, który już"
-	cont "dawno wymarł!"
+	cont "#MONA, który"
+	cont "już dawno wymarł!"
 
 	para "Moja maszyna"
 	line "sprawi, że ten"

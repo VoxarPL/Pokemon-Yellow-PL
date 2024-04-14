@@ -46,8 +46,9 @@ _Route13CooltrainerF2AfterBattleText::
 	done
 
 _Route13CooltrainerF3BattleText::
-	text "Mój słodki #MON"
-	line "chce cię poznać."
+	text "Moje słodkie"
+	line "#MONY chcą cię"
+	cont "poznać."
 	done
 
 _Route13CooltrainerF3EndBattleText::
@@ -162,11 +163,11 @@ _Route13TrainerTips1Text::
 
 _Route13TrainerTips2Text::
 	text "PORADY DLA"
-	line "TRENERÓW"
+	line "TRENERÓW!"
 
 	para "Użyć SELECT, aby"
-	line "przesuwać przed-"
-	cont "mioty w oknie"
+	line "przesuwać"
+	cont "przedmioty w oknie"
 	cont "TORBA!"
 	done
 

@@ -3,7 +3,7 @@ _HallOfFameOakText::
 	line "Moje gratulacje,"
 	cont "<PLAYER>!"
 
-	para "To miejsce jest"
+	para "To miejsce to"
 	line "HALA SŁAWY!"
 
 	para "Mistrzowie LIGI"
@@ -18,7 +18,7 @@ _HallOfFameOakText::
 	para "<PLAYER>! Ciężko"
 	line "pracowałeś, aby"
 	cont "zostać nowym"
-	cont "Mistrzem LIGI!"
+	cont "mistrzem LIGI!"
 
 	para "Gratulacje,"
 	line "<PLAYER>, ty oraz"

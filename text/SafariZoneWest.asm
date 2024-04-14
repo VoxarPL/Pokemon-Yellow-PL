@@ -8,8 +8,9 @@ _SafariZoneWestFindWardensTeethSignText::
 	para "Prosimy znaleźć"
 	line "ZŁOTE ZĘBY"
 	cont "NACZELNIKA SAFARI."
-	cont "Są gdzieś w"
-	cont "pobliżu."
+
+	para "Są gdzieś w"
+	line "pobliżu."
 
 	para "Oferujemy nagrodę!"
 	line "Kontakt: NACZELNIK"
@@ -17,7 +18,7 @@ _SafariZoneWestFindWardensTeethSignText::
 
 _SafariZoneWestTrainerTipsText::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Kampania"
 	line "Odkrywania Strefy!"
@@ -28,6 +29,7 @@ _SafariZoneWestTrainerTipsText::
 
 _SafariZoneWestSignText::
 	text "OBSZAR 3"
-	line "WSCHÓD: OBSZAR"
-	cont "CENTRALNY"
+
+	para "WSCHÓD: OBSZAR"
+	line "CENTRALNY"
 	done

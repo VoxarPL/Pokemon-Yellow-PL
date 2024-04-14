@@ -5,7 +5,7 @@ _CinnabarGymBlainePreBattleText::
 	line "LIDER SALI"
 	cont "CINNABAR!"
 
-	para "Moje Ogniste"
+	para "Moje ogniste"
 	line "#MONY spopielą"
 	cont "wszystkich rywali!"
 
@@ -26,7 +26,7 @@ _CinnabarGymBlainePostBattleAdviceText::
 	cont "ruch!"
 
 	para "Nie marnuj go na"
-	line "Wodne #MON!"
+	line "wodne #MON!"
 	done
 
 _CinnabarGymBlaineVolcanoBadgeInfoText::
@@ -55,7 +55,7 @@ _CinnabarGymBlaineTM38ExplanationText::
 	line "PODMUCH OGNIA!"
 
 	para "Naucz go #MONA"
-	line "typu Ognistego!"
+	line "typu ognistego!"
 
 	para "CHARMELEON lub"
 	line "PONYTA to dobry"
@@ -88,7 +88,7 @@ _CinnabarGymSuperNerd1AfterBattleText::
 _CinnabarGymSuperNerd2BattleText::
 	text "Byłem złodziejem,"
 	line "ale stałem się"
-	cont "Trenerem!"
+	cont "trenerem!"
 	done
 
 _CinnabarGymSuperNerd2EndBattleText::
@@ -109,8 +109,7 @@ _CinnabarGymSuperNerd3BattleText::
 	done
 
 _CinnabarGymSuperNerd3EndBattleText::
-	text "Łach!"
-	line "Moja nauka!"
+	text "Łach! Moja nauka!"
 	prompt
 
 _CinnabarGymSuperNerd3AfterBattleText::
@@ -121,7 +120,7 @@ _CinnabarGymSuperNerd3AfterBattleText::
 
 _CinnabarGymSuperNerd4BattleText::
 	text "Po prostu lubię"
-	line "używać Ognistych"
+	line "używać ognistych"
 	cont "#MONÓW!"
 	done
 
@@ -137,7 +136,7 @@ _CinnabarGymSuperNerd4AfterBattleText::
 
 _CinnabarGymSuperNerd5BattleText::
 	text "Wiem, czemu BLAINE"
-	line "został Trenerem!"
+	line "został trenerem!"
 	done
 
 _CinnabarGymSuperNerd5EndBattleText::
@@ -163,12 +162,11 @@ _CinnabarGymSuperNerd6BattleText::
 	done
 
 _CinnabarGymSuperNerd6EndBattleText::
-	text "Jał!"
-	line "Za gorąca!"
+	text "Jał! Za gorąca!"
 	prompt
 
 _CinnabarGymSuperNerd6AfterBattleText::
-	text "My, fani Ognistych"
+	text "My, fani ognistych"
 	line "#MONÓW, lubimy"
 	cont "PONYTĘ oraz"
 	cont "NINETALESA!"
@@ -187,17 +185,17 @@ _CinnabarGymSuperNerd7EndBattleText::
 _CinnabarGymSuperNerd7AfterBattleText::
 	text "Woda gasi ogień!"
 	line "Ale ogień topi"
-	cont "Lodowe #MONY!"
+	cont "lodowe #MONY!"
 	done
 
 _CinnabarGymGymGuideChampInMakingText::
 	text "Joł! Przyszły"
-	line "Mistrzu!"
+	line "mistrzu!"
 
 	para "Gorący BLAINE to"
 	line "profesjonalista"
 	cont "#MONÓW typu"
-	cont "Ognistego!"
+	cont "ognistego!"
 
 	para "Oblej jego ducha"
 	line "wodą!"

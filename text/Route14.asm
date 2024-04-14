@@ -18,7 +18,7 @@ _Route14CooltrainerM1AfterBattleText::
 _Route14CooltrainerM2BattleText::
 	text "Moje #MONY"
 	line "ptaki powinny być"
-	cont "gotowy do walk."
+	cont "gotowe do walk."
 	done
 
 _Route14CooltrainerM2EndBattleText::
@@ -100,7 +100,7 @@ _Route14CooltrainerM6AfterBattleText::
 
 _Route14Biker1BattleText::
 	text "Dalej, dalej."
-	line "Jedziemy, jedziemy,"
+	line "Jedziemy,"
 	cont "jedziemy!"
 	done
 
@@ -142,7 +142,7 @@ _Route14Biker3EndBattleText::
 _Route14Biker3AfterBattleText::
 	text "Fajnie, że twoje"
 	line "#MONY są takie"
-	cont "takie!"
+	cont "silne!"
 
 	para "Potęga ma rację!"
 	line "I ty to wiesz!"

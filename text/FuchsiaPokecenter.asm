@@ -5,7 +5,7 @@ _FuchsiaPokecenterRockerText::
 
 	para "To trudne, ale"
 	line "musisz trenować"
-	cont "wszystkich."
+	cont "wszystkie."
 	done
 
 _FuchsiaPokecenterCooltrainerFText::
@@ -16,5 +16,5 @@ _FuchsiaPokecenterCooltrainerFText::
 	para "Prowadzi do LIGI"
 	line "#MON."
 	cont "Kwatery wszystkich"
-	cont "Trenerów."
+	cont "trenerów."
 	done

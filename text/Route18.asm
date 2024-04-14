@@ -15,7 +15,7 @@ _Route18CooltrainerM1AfterBattleText::
 	done
 
 _Route18CooltrainerM2BattleText::
-	text "Kurukkoo!"
+	text "Kuruko!"
 	line "Jak ci się podoba"
 	cont "mój ptasi zew?"
 	done
@@ -48,12 +48,14 @@ _Route18CooltrainerM3AfterBattleText::
 
 _Route18SignText::
 	text "DROGA 18"
-	line "PRYZMANIA -"
-	cont "PARMANIA"
+
+	para "PRYZMANIA -"
+	line "PARMANIA"
 	done
 
 _Route18CyclingRoadSignText::
 	text "DROGA ROWEROWA"
-	line "Pieszym wstęp"
-	cont "wzbroniony!"
+
+	para "Pieszym wstęp"
+	line "wzbroniony!"
 	done

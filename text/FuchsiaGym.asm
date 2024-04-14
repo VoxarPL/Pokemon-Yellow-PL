@@ -85,8 +85,7 @@ _FuchsiaGymRocker1BattleText::
 	done
 
 _FuchsiaGymRocker1EndBattleText::
-	text "Co?"
-	line "Nadzwyczajne!"
+	text "Co? Nadzwyczajne!"
 	prompt
 
 _FuchsiaGymRocker1AfterBattleText::
@@ -140,8 +139,7 @@ _FuchsiaGymRocker4BattleText::
 	done
 
 _FuchsiaGymRocker4EndBattleText::
-	text "Łoł!"
-	line "On to ma!"
+	text "Łoł! On to ma!"
 	prompt
 
 _FuchsiaGymRocker4AfterBattleText::

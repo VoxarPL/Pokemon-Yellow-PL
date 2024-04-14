@@ -39,8 +39,9 @@ _WardensHouseWardenThanksText::
 	para "Nie mógłbym"
 	line "pracować w ten"
 	cont "sposób."
-	cont "Pozwól, że dam ci"
-	cont "coś w zamian."
+
+	para "Pozwól, że dam ci"
+	line "coś w zamian."
 	prompt
 
 _WardensHouseWardenReceivedHM04Text::

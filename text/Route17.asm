@@ -55,8 +55,8 @@ _Route17Biker4AfterBattleText::
 	done
 
 _Route17Biker5BattleText::
-	text "Niech VOLTORB cię"
-	line "zelektryzuje!"
+	text "Niech VOLTORBY cię"
+	line "zelektryzują!"
 	done
 
 _Route17Biker5EndBattleText::
@@ -64,13 +64,13 @@ _Route17Biker5EndBattleText::
 	prompt
 
 _Route17Biker5AfterBattleText::
-	text "Złapałem VOLTORBA"
+	text "Złapałem VOLTORBY"
 	line "w opuszczonej"
 	cont "ELEKTROWNI."
 	done
 
 _Route17Biker6BattleText::
-	text "Mon #MON nie"
+	text "Mój #MON nie"
 	line "ewoluuje! Czemu?"
 	done
 
@@ -151,7 +151,7 @@ _Route17NoticeSign1Text::
 
 _Route17TrainerTips1Text::
 	text "PORADY DLA"
-	cont "TRENERÓW!"
+	line "TRENERÓW!"
 
 	para "Wszystkie #MONY"
 	line "są unikalne."
@@ -164,9 +164,9 @@ _Route17TrainerTips1Text::
 
 _Route17TrainerTips2Text::
 	text "PORADY DLA"
-	cont "TRENERÓW"
+	line "TRENERÓW!"
 
-	para "Naciśnij Przycisk"
+	para "Naciśnij przycisk"
 	line "A lub B, aby"
 	cont "zatrzymać się"
 	cont "podczas jazdy po"
@@ -175,8 +175,9 @@ _Route17TrainerTips2Text::
 
 _Route17SignText::
 	text "DROGA 17"
-	line "PRYZMANIA -"
-	cont "PARMANIA"
+
+	para "PRYZMANIA -"
+	line "PARMANIA"
 	done
 
 _Route17NoticeSign2Text::
@@ -190,6 +191,7 @@ _Route17NoticeSign2Text::
 
 _Route17CyclingRoadEndsSignText::
 	text "DROGA ROWEROWA"
-	line "Zbocze kończy się"
-	cont "tutaj!"
+
+	para "Zbocze kończy się"
+	line "tutaj!"
 	done

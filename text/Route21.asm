@@ -18,8 +18,8 @@ _Route21Fisher2BattleText::
 	done
 
 _Route21Fisher2EndBattleText::
-	text "Przeklęty"
-	line "MAGIKARP!"
+	text "Przeklęte"
+	line "MAGIKARPIE!"
 	prompt
 
 _Route21Fisher2AfterBattleText::
@@ -29,8 +29,8 @@ _Route21Fisher2AfterBattleText::
 	done
 
 _Route21Swimmer1BattleText::
-	text "Morze oczyszcza"
-	line "mi ciało i duszę!"
+	text "Morze oczyszcza mi"
+	line "ciało i duszę!"
 	done
 
 _Route21Swimmer1EndBattleText::
@@ -53,7 +53,7 @@ _Route21Swimmer2EndBattleText::
 _Route21Swimmer2AfterBattleText::
 	text "Jak wyglądam?"
 	line "Dętka z kolcami?"
-	cont "tube? Spadaj!"
+	cont "Spadaj!"
 	done
 
 _Route21Swimmer3BattleText::
@@ -77,8 +77,7 @@ _Route21Swimmer4BattleText::
 	done
 
 _Route21Swimmer4EndBattleText::
-	text "Pant..."
-	line "pant...pant..."
+	text "Pant...pant...pant..."
 	prompt
 
 _Route21Swimmer4AfterBattleText::

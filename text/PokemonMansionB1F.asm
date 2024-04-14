@@ -4,7 +4,7 @@ _PokemonMansionB1FBurglarBattleText::
 	done
 
 _PokemonMansionB1FBurglarEndBattleText::
-	text "Awooh!"
+	text "Ałuch!"
 	prompt
 
 _PokemonMansionB1FBurglarAfterBattleText::

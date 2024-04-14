@@ -15,14 +15,14 @@ _CinnabarLabPhotoText::
 
 _CinnabarLabMeetingRoomSignText::
 	text "LABORATORIUM"
-	cont "#MON"
+	line "#MON"
 
 	para "Pokój spotkań"
 	done
 
 _CinnabarLabRAndDSignText::
 	text "LABORATORIUM"
-	cont "#MON"
+	line "#MON"
 
 	para "Pokój badań i"
 	line "rozwoju"
@@ -30,7 +30,7 @@ _CinnabarLabRAndDSignText::
 
 _CinnabarLabTestingRoomSignText::
 	text "#LABORATORIUM"
-	cont "#MON"
+	line "#MON"
 
 	para "Pokój testów"
 	done

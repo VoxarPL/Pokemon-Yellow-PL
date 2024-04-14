@@ -38,8 +38,8 @@ _Route15CooltrainerF2AfterBattleText::
 
 _Route15CooltrainerM1BattleText::
 	text "Gdy gwiżdżę, mogę"
-	line "przywołać #MONA"
-	cont "ptaka!"
+	line "przywołać #MONY"
+	cont "ptaki!"
 	done
 
 _Route15CooltrainerM1EndBattleText::

@@ -14,8 +14,8 @@ _SafariZoneWestRestHouseCooltrainerMText::
 	done
 
 _SafariZoneWestRestHouseSilphWorkerFText::
-	text "Dużo wędrowałem,"
-	line "ale nie widziałem"
+	text "Dużo wędrowałam,"
+	line "ale nie widziałam"
 	cont "#MONA, którego"
-	cont "bym chciał."
+	cont "bym chciała."
 	done

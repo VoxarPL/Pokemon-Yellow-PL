@@ -68,9 +68,11 @@ _Route16Biker5EndBattleText::
 
 _Route16Biker5AfterBattleText::
 	text "Lubię, gdy moje"
-	line "#MONY są okrutne!"
-	cont "Rozrywają wrogów"
-	cont "na strzępy!"
+	line "#MONY są"
+	cont "okrutne!"
+
+	para "Rozrywają wrogów"
+	line "na strzępy!"
 	done
 
 _Route16Biker6BattleText::
@@ -114,6 +116,7 @@ _Route16CyclingRoadSignText::
 
 _Route16SignText::
 	text "DROGA 16"
-	line "PRYZMANIA -"
-	cont "PARMANIA"
+
+	para "PRYZMANIA -"
+	line "PARMANIA"
 	done

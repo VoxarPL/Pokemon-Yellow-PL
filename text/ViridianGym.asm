@@ -20,12 +20,12 @@ _ViridianGymGiovanniPreBattleText::
 	done
 
 _ViridianGymGiovanniReceivedEarthBadgeText::
-	text "Ha!"
-	line "To była naprawdę"
-	cont "intensywna walka!"
+	text "Ha! To była bardzo"
+	line "intensywna walka!"
 	cont "Wygrałeś!"
-	cont "Na dowód, oto"
-	cont "ODZNAKA ZIEMI!@"
+
+	para "Na dowód, oto"
+	line "ODZNAKA ZIEMI!@"
 	text_end
 
 _ViridianGymGiovanniPostBattleAdviceText::
@@ -48,7 +48,7 @@ _ViridianGymGiovanniPostBattleAdviceText::
 _ViridianGymGiovanniEarthBadgeInfoText::
 	text "ODZNAKA ZIEMI"
 	line "sprawi, że każdy"
-	cont "#MON jest"
+	cont "#MON będzie"
 	cont "posłuszny!"
 
 	para "To dowód twojego"
@@ -77,7 +77,7 @@ _ViridianGymGiovanniTM27ExplanationText::
 	cont "#MONA jednym"
 	cont "trafieniem!"
 
-	para "Zrobiłem go, kiedy"
+	para "Zrobiłem to, kiedy"
 	line "prowadziłem SALĘ,"
 	cont "dawno temu..."
 	done
@@ -167,7 +167,7 @@ _ViridianGymCooltrainerM2AfterBattleText::
 
 _ViridianGymHiker3BattleText::
 	text "Jestem KRÓLEM"
-	line "KARATR! Twój los"
+	line "KARATE! Twój los"
 	cont "spoczywa na mnie!"
 	done
 

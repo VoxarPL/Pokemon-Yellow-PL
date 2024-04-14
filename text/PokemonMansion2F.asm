@@ -35,8 +35,7 @@ _PokemonMansion2FDiary2Text::
 
 _PokemonMansion2FSwitchText::
 	text "Tajny przełącznik!"
-
-	para "Nacisnąć?"
+	line "Nacisnąć?"
 	done
 
 _PokemonMansion2FSwitchPressedText::

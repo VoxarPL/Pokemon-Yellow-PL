@@ -20,8 +20,9 @@ _CinnabarIslandGamblerText::
 
 _CinnabarIslandSignText::
 	text "WYSPA CINNABAR"
-	line "Miasto Płonącego"
-	cont "Pożądania"
+
+	para "Miasto Płonącego"
+	line "Pożądania"
 	done
 
 _CinnabarIslandPokemonLabSignText::

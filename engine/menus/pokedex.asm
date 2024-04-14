@@ -347,7 +347,7 @@ PokedexContentsText:
 PokedexMenuItemsText:
 	db   "DANE"
 	next "GŁOS"
-	next "OBSZ"
+	next "MAPA"
 	next "DRUK"
 	next "WRÓĆ@"
 

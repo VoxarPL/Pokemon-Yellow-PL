@@ -16,8 +16,7 @@ _PokemonMansion1FScientistAfterBattleText::
 
 _PokemonMansion1FSwitchText::
 	text "Tajny przełącznik!"
-
-	para "Nacisnąć?"
+	line "Nacisnąć?"
 	done
 
 _PokemonMansion1FSwitchPressedText::

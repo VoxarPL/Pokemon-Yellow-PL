@@ -23,7 +23,7 @@ _LoreleisRoomLoreleiBeforeBattleText::
 	done
 
 _LoreleisRoomLoreleiEndBattleText::
-	text "Jak śmiałeś!"
+	text "Jak śmiałeś?!"
 	prompt
 
 _LoreleisRoomLoreleiAfterBattleText::

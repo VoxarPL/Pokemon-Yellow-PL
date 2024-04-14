@@ -101,16 +101,14 @@ _ViridianCityOldManSleepyPrivatePropertyText::
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Ziew!"
-	line "Musiałem zasnąć na"
-	cont "słońcu."
+	text "Ziew! Musiałem"
+	line "zasnąć na słońcu."
 
 	para "Miałem sen o"
 	line "DROWZEE zjadającym"
-	cont "mój sen."
-	cont "Co to jest?"
-	cont "Skąd się wziął ten"
-	cont "TM?"
+	cont "mój sen. Co to"
+	cont "jest? Skąd się"
+	cont "wziął ten TM?"
 
 	para "To jest straszne!"
 	line "Proszę, możesz"

@@ -41,7 +41,7 @@ _LancesRoomLanceAfterBattleText::
 	cont "tobą, <PLAYER>!"
 
 	para "Jesteś teraz"
-	line "Mistrzem LIGI"
+	line "mistrzem LIGI"
 	cont "#MON!"
 
 	para "...Albo byłbyś, ale"
@@ -51,15 +51,14 @@ _LancesRoomLanceAfterBattleText::
 
 	para "Musisz stawić"
 	line "czoła jeszcze"
-	cont "jednemu Trenerowi!"
+	cont "jednemu trenerowi!"
 	cont "Nazywa się..."
 
-	para "<RIVAL>!"
-	line "Pokonał ELITARNĄ"
-	cont "CZWÓRKĘ przed"
-	cont "tobą!"
+	para "<RIVAL>! Pokonał"
+	line "ELITARNĄ CZWÓRKĘ"
+	cont "przed tobą!"
 
 	para "On jest prawdziwym"
-	line "Mistrzem LIGI"
+	line "mistrzem LIGI"
 	cont "#MON!@"
 	text_end

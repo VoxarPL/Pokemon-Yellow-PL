@@ -39,8 +39,6 @@ _CinnabarLabMetronomeRoomPCText::
 	text "Przyszła wiadomość"
 	line "e-mail!"
 
-	para "..."
-
 	para "3 legendarne"
 	line "#MONY to"
 	cont "ARTICUNO, ZAPDOS i"
@@ -55,8 +53,6 @@ _CinnabarLabMetronomeRoomPCText::
 
 	para "Od: ZESPÓŁ"
 	line "BADAWCZY #MONÓW"
-
-	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::

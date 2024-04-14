@@ -13,9 +13,9 @@ _FuchsiaMeetingRoomSafariZoneWorker2::
 	cont "#MONÓW!"
 
 	para "Posiada nawet"
-	line "Skamieliny"
-	cont "wymarłych"
-	cont "#MONÓW!"
+	line "skamieliny"
+	cont "#MONÓW, które"
+	cont "wymarły!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
