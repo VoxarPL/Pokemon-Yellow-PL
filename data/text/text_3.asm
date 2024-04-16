@@ -580,13 +580,13 @@ _ColosseumTotalL50Text::
 _ColosseumHeightText::
 	text_ram wcd6d
 	text " ma ponad"
-	line "6’8” wzrostu!" ; zmienić na cm
+	line "2 m wzrostu!"
 	prompt
 
 _ColosseumWeightText::
 	text_ram wcd6d
 	text " waży"
-	line "ponad 44 funtów!" ; zmienić na kg
+	line "ponad 20 kg!"
 	prompt
 
 _ColosseumEvolvedText::

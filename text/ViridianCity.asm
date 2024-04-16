@@ -31,7 +31,7 @@ _ViridianCityOldManLosingMyTouchText::
 	line "też # BALLE."
 
 	para "Muszę kupić kilka"
-	line "w SKLEPIE #MON."
+	line "w #MON MART."
 	done
 
 _ViridianCityYoungster1Text::

@@ -597,35 +597,35 @@ GBPrinter_UpdateStatusMessage:
 	db   "@"
 .CheckingLink:
 	db   ""
-	next " CHECKING LINK...@"
+	next "    SPRAWDZANIE...@"
 .Transmitting:
 	db   ""
-	next "  TRANSMITTING...@"
+	next "    PRZESYŁANIE...@"
 .Printing:
 	db   ""
-	next "    PRINTING...@"
+	next "    DRUKOWANIE...@"
 .Error1:
-	db   " Printer Error 1"
+	db   " Błąd Drukarki 1"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual.@"
+	next "Sprawdź Instrukcję"
+	next "Game Boy Printer.@"
 .Error2:
-	db   " Printer Error 2"
+	db   " Błąd Drukarki 2"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual.@"
+	next "Sprawdź Instrukcję"
+	next "Game Boy Printer.@"
 .Error3:
-	db   " Printer Error 3"
+	db   " Błąd Drukarki 3"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual.@"
+	next "Sprawdź Instrukcję"
+	next "Game Boy Printer.@"
 .Error4:
-	db   " Printer Error 4"
+	db   " Błąd Drukarki 4"
 	next ""
-	next "Check the Game Boy"
-	next "Printer Manual.@"
+	next "Sprawdź Instrukcję"
+	next "Game Boy Printer.@"
 .WrongDevice:
-	db   "This is not the"
+	db   "To nie jest"
 	next "Game Boy Printer!@"
 
 Printer_PrepareSurfingMinigameHighScoreTileMap::
@@ -816,7 +816,7 @@ PrintPCBox_DrawPage1:
 	call PrintPCBox_PlaceBoxMonInfo
 	ret
 
-.PokemonListString: db "POKéMON LIST@"
+.PokemonListString: db "LISTA #MONÓW@"
 .BoxString: db "BOX@"
 
 PrintPCBox_DrawPage2:

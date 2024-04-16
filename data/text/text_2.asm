@@ -26,16 +26,16 @@ _BoxWillBeClearedText::
 	line "oczyszczony."
 	done
 
-_TradeWentToText:: ; sprawdź
+_TradeWentToText::
 	text_ram wStringBuffer
-	text " "
-	line "poszedł @"
+	text " poszedł"
+	line "do @"
 	text_ram wLinkEnemyTrainerName
 	text "."
 	done
 
 _TradeForText::
-	text "Dla <PLAYER>"
+	text "Za twojego"
 	line "@"
 	text_ram wStringBuffer
 	text ","
@@ -58,7 +58,7 @@ _TradeWavesFarewellText::
 _TradeTransferredText::
 	text_ram wcd6d
 	text " jest"
-	line "przesłany."
+	line "przesyłany."
 	done
 
 _TradeTakeCareText::
@@ -366,7 +366,7 @@ _CinnabarGymQuizIntroText::
 
 	para "Odpowiedź dobrze!"
 	line "Zaczynamy!"
-	para "" ; sprawdzić
+	para ""
 	done
 
 _CinnabarGymQuizShortIntroText::
@@ -1068,7 +1068,7 @@ _IsFrozenText::
 	line "jest zamrożony!"
 	prompt
 
-_FullyParalyzedText:: ; poprawić?
+_FullyParalyzedText::
 	text "<USER>"
 	line "sparaliżowany!"
 	prompt
@@ -1169,11 +1169,6 @@ _KeptGoingAndCrashedText::
 	cont "rozbił się!"
 	prompt
 
-;_UnaffectedText::
-;	text "<TARGET>"
-;	line "jest odporny!"
-;	prompt
-
 _DoesntAffectMonText::
 	text "Nie ma wpływu na"
 	line "<TARGET>!"
@@ -1252,11 +1247,11 @@ _GainedText::
 	text_end
 
 _WithExpAllText::
-	text "z ROZDZIELACZA,"
-	cont "@"
+	text "Drużyna zyskuje"
+	next "@"
 	text_end
 
-_BoostedText:: ; sprawdzić
+_BoostedText::
 	text "wzmocnione"
 	cont "@"
 	text_end
@@ -1266,7 +1261,7 @@ _ExpPointsText::
 	text " Pkt Dośw.!"
 	prompt
 
-_GrewLevelText:: ; poprawić
+_GrewLevelText::
 	text_ram wcd6d
 	text " osiąga"
 	line "poziom @"

@@ -297,13 +297,13 @@ _AlreadyKnowsText::
 	text "!"
 	prompt
 
-_ConnectCableText:: ; sprawdź
-	text "OK, podłącz kabel"
-	line "w ten sposób!"
+_ConnectCableText::
+	text "OK, zacznijmy"
+	line "wymianę!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> wymienia"
+	text "<PLAYER> wymienił"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text " na"
@@ -317,16 +317,14 @@ _WannaTrade1Text::
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "! Może"
-
-	para "wymienisz na"
-	line "@"
+	cont "wymienisz się za"
+	cont "@"
 	text_ram wInGameTradeReceiveMonName
 	text "? "
 	done
 
 _NoTrade1Text::
-	text "Awww!"
-	line "No cóż..."
+	text "Ołł! No cóż..."
 	done
 
 _WrongMon1Text::
