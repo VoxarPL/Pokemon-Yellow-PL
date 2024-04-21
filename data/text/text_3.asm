@@ -348,8 +348,8 @@ _OnceReleasedText::
 	text "Po wypuszczeniu,"
 	line "@"
 	text_ram wStringBuffer
-	text " już"
-	cont "nie wróci. OK?"
+	text " już nie"
+	cont "wróci. OK?"
 	done
 
 _MonWasReleasedText::
@@ -432,9 +432,8 @@ _NotEnoughMemoryText::
 	done
 
 _OakSpeechText1::
-	text "Cześć!"
-	line "Witaj w świecie"
-	cont "#MON!"
+	text "Cześć! Witaj w"
+	line "świecie #MON!"
 
 	para "Nazywam się OAK!"
 	line "Ludzie nazywają"
@@ -445,8 +444,8 @@ _OakSpeechText1::
 _OakSpeechText2A::
 	text "Ten świat"
 	line "zamieszkiwany jest"
-	cont "stworzenia zwane"
-	cont "#MONAMI!@"
+	cont "przez stworzenia"
+	cont "zwane #MONAMI!@"
 	text_end
 
 _OakSpeechText2B::

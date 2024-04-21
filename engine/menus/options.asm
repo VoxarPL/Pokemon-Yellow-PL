@@ -225,7 +225,7 @@ OptionsMenu_SpeakerSettings:
 	ld e, [hl]
 	inc hl
 	ld d, [hl]
-	hlcoord 8, 8
+	hlcoord 10, 8
 	call PlaceString
 	and a
 	ret
@@ -237,13 +237,13 @@ SpeakerOptionStringsPointerTable:
 	dw Earphone3SoundText
 
 MonoSoundText:
-	db ":MONO    @"
+	db "MONO    @"
 Earphone1SoundText:
-	db ":STEREO 1@"
+	db "STEREO 1@"
 Earphone2SoundText:
-	db ":STEREO 2@"
+	db "STEREO 2@"
 Earphone3SoundText:
-	db ":STEREO 3@"
+	db "STEREO 3@"
 
 OptionsMenu_GBPrinterBrightness:
 	call Func_41e7b
@@ -436,8 +436,8 @@ AllOptionsText:
 	db "PRĘD.TEKSTU:"
 	next "ANIMACJE   :"
 	next "STYL WALKI :"
-	next "DŹWIĘK"
-	next "DRUK :@"
+	next "DŹWIĘK:"
+	next "DRUK:@"
 
 OptionMenuCancelText:
 	db "ANULUJ@"

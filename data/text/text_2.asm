@@ -462,8 +462,6 @@ _OakLabEmailText::
 	text "W skrzynce jest"
 	line "wiadomość!"
 
-	para "..."
-
 	para "Wzywamy wszystkich"
 	line "trenerów #MON!"
 
@@ -622,8 +620,8 @@ _RedBedroomSNESText::
 	text "<PLAYER> gra na"
 	line "SUPER NINTENDO!"
 
-	para "...OK!"
-	line "Czas już w drogę!"
+	para "...OK, czas już w"
+	line "drogę!"
 	done
 
 _Route15UpstairsBinocularsText::

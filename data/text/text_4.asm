@@ -38,12 +38,12 @@ _ChooseABoxText::
 
 _EvolvedText::
 	text_ram wStringBuffer
-	text " ewoluo-"
+	text " stał"
 	done
 
 _IntoText::
 	text_start
-	line "wał w @"
+	line "się @"
 	text_ram wcd6d
 	text "!"
 	done

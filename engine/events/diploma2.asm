@@ -24,7 +24,7 @@ _DisplayDiploma:
 	ld [hl], a
 
 	ld de, DiplomaText
-	hlcoord 5, 2
+	hlcoord 6, 2
 	call PlaceString
 
 	ld de, DiplomaPlayer
@@ -55,7 +55,7 @@ DiplomaText:
 	db CIRCLE_TILE_ID, "Dyplom", CIRCLE_TILE_ID, "@"
 
 DiplomaPlayer:
-	db "Gracz@"
+	db "Gracz:@"
 
 DiplomaCongrats:
 	db   "Gratulacje! Ten"

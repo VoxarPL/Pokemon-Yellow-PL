@@ -149,7 +149,7 @@ _CeruleanCityCooltrainerF1ElectrodePunchText::
 	line "PCHNIĘCIE!"
 
 	para "Nie! Znowu"
-	cont "zawaliłeś!"
+	line "zawaliłeś!"
 	done
 
 _CeruleanCityCooltrainerF1ElectrodeWithdrawText::

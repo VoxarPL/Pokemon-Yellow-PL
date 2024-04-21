@@ -1,15 +1,15 @@
 _Route15Gate2FOaksAideExpAllText::
 	text "ROZDZIELACZ daje"
-	line "punkty doświadcze-"
-	cont "nia wszystkim"
-	cont "twoim #MONOM,"
-	cont "nawet jeśli nie"
-	cont "walczyły."
+	line "Pkt Doświadczenia"
+	cont "wszystkim twoim"
+	cont "#MONOM, nawet"
+	cont "jeśli nie brały"
+	cont "udziału w walce."
 
 	para "Zmniejsza jednak"
 	line "ilość doświadcze-"
 	cont "nia dla każdego"
-	cont "#MONA."
+	cont "#MONA o połowę."
 
 	para "Jeśli go nie"
 	line "chcesz, schowaj go"

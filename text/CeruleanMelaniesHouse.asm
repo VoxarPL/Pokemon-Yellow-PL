@@ -7,7 +7,7 @@ MelanieText1::
 	cont "zdrowia."
 
 	para "Potrzebuje on"
-	line "dobrego Trenera,"
+	line "dobrego trenera,"
 	cont "który się nim"
 	cont "zajmie.@"
 	text_end

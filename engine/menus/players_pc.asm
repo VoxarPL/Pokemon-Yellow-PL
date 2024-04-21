@@ -23,7 +23,7 @@ PlayerPCMenu:
 	set 5, [hl]
 	call LoadScreenTilesFromBuffer2
 	hlcoord 0, 0
-	lb bc, 8, 14
+	lb bc, 8, 10
 	call TextBoxBorder
 	call UpdateSprites
 	hlcoord 2, 2

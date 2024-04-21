@@ -31,7 +31,7 @@ _SSAnneKitchenCook5Text::
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Snivel...Sniff..."
+	text "Snivel... Sniff..."
 
 	para "Mogę tylko obierać"
 	line "cebulę... Snivel..."

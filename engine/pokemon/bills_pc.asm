@@ -86,7 +86,7 @@ SomeonesPCText:   db "CZYJŚ PC@"
 BillsPCText:      db "PC BILLA@"
 PlayersPCText:    db " - PC@"
 OaksPCText:       db "PC PROF.OAKA@"
-PKMNLeaguePCText: db "LIGA <PKMN>@"
+PKMNLeaguePCText: db "LIGA #MON@"
 LogOffPCText:     db "WYLOGUJ@"
 
 BillsPC_::
@@ -120,7 +120,7 @@ BillsPCMenu:
 	lb bc, 4, 18
 	call TextBoxBorder
 	hlcoord 0, 0
-	lb bc, 12, 12
+	lb bc, 12, 13
 	call TextBoxBorder
 	call UpdateSprites
 	hlcoord 2, 2

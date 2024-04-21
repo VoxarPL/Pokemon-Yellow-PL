@@ -4,10 +4,10 @@ _DexCompletionText::
 
 	para "@"
 	text_decimal hDexRatingNumMonsSeen, 1, 3
-	text " widzianych"
+	text " widzianych i"
 	line "@"
 	text_decimal hDexRatingNumMonsOwned, 1, 3
-	text " posiadanych"
+	text " posiadanych."
 
 	para "Ocena PROF.OAKA:"
 	prompt
@@ -15,8 +15,9 @@ _DexCompletionText::
 _DexRatingText_Own0To9::
 	text "Wciąż masz wiele"
 	line "do zrobienia."
-	cont "Szukaj #MONÓW w"
-	cont "wysokiej trawie!"
+
+	para "Szukaj #MONÓW w"
+	line "wysokiej trawie!"
 	done
 
 _DexRatingText_Own10To19::
@@ -29,8 +30,9 @@ _DexRatingText_Own10To19::
 _DexRatingText_Own20To29::
 	text "Wciąż potrzebujesz"
 	line "więcej #MONÓW!"
-	cont "Spróbuj złapać"
-	cont "inne gatunki!"
+
+	para "Spróbuj złapać"
+	line "inne gatunki!"
 	done
 
 _DexRatingText_Own30To39::
@@ -51,8 +53,9 @@ _DexRatingText_Own50To59::
 	text "W końcu masz co"
 	line "najmniej 50"
 	cont "gatunków!"
-	cont "Koniecznie zdobądź"
-	cont "ROZDZIELACZ od"
+
+	para "Koniecznie zdobądź"
+	line "ROZDZIELACZ od"
 	cont "mojego ASYSTENTA!"
 	done
 
@@ -68,9 +71,8 @@ _DexRatingText_Own70To79::
 	done
 
 _DexRatingText_Own80To89::
-	text "Wspaniale!"
-	line "Lubisz zbierać"
-	cont "rzeczy?"
+	text "Wspaniale! Lubisz"
+	line "zbierać rzeczy?"
 	done
 
 _DexRatingText_Own90To99::
@@ -96,7 +98,7 @@ _DexRatingText_Own110To119::
 _DexRatingText_Own120To129::
 	text "Doskonale!"
 	line "Wymieniaj się, aby"
-	cont "zdobyć więcej!"
+	cont "zdobyć ich więcej!"
 	done
 
 _DexRatingText_Own130To139::
@@ -109,8 +111,9 @@ _DexRatingText_Own130To139::
 _DexRatingText_Own140To149::
 	text "Nie mam już nic do"
 	line "powiedzenia!"
-	cont "Jesteś teraz"
-	cont "autorytetem!"
+
+	para "Jesteś teraz"
+	line "autorytetem!"
 	done
 
 _DexRatingText_Own150To151::

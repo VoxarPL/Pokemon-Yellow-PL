@@ -24,8 +24,9 @@ _PewterGymBrockPostBattleAdviceText::
 
 	para "Niektórzy trenują"
 	line "#MONY do walki."
-	cont "Inni widzą w nich"
-	cont "pupili."
+
+	para "Inni widzą w nich"
+	line "pupili."
 
 	para "Ja trenuję, aby"
 	line "zostać hodowcą"
@@ -101,9 +102,9 @@ _PewterGymBrockBoulderBadgeInfoText::
 	line "#MONY stają się"
 	cont "potężniejsze!"
 
-	para "Technika BŁYSKU"
-	line "może być używana"
-	cont "w każdej chwili!"
+	para "Ruch BŁYSK może"
+	line "być używany w"
+	cont "każdej chwili!"
 	prompt
 
 _PewterGymCooltrainerMBattleText::
@@ -124,8 +125,8 @@ _PewterGymCooltrainerMEndBattleText::
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "Jesteś gorący, ale"
-	line "nie tak gorący jak"
+	text "Jesteś dobry, ale"
+	line "nie tak dobry jak"
 	cont "BROCK!"
 	done
 
