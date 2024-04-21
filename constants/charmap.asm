@@ -156,25 +156,25 @@
 	charmap "<WA>",      $be ; WAGA
 	charmap "<GA>",      $bf ; WAGA
 
-	charmap "Ą",         $c0
-	charmap "Ć",         $c1
-	charmap "Ę",         $c2
-	charmap "Ł",         $c3
-	charmap "Ń",         $c4
-	charmap "Ó",         $c5
-	charmap "Ś",         $c6
-	charmap "Ź",         $c7
-	charmap "Ż",         $c8
+	charmap "ą",         $c0
+	charmap "ć",         $c1
+	charmap "ę",         $c2
+	charmap "ł",         $c3
+	charmap "ń",         $c4
+	charmap "ó",         $c5
+	charmap "ś",         $c6
+	charmap "ź",         $c7
+	charmap "ż",         $c8
 
-	charmap "ą",         $c9
-	charmap "ć",         $ca
-	charmap "ę",         $cb
-	charmap "ł",         $cc
-	charmap "ń",         $cd
-	charmap "ó",         $ce
-	charmap "ś",         $cf
-	charmap "ź",         $d0
-	charmap "ż",         $d1
+	charmap "Ą",         $c9
+	charmap "Ć",         $ca
+	charmap "Ę",         $cb
+	charmap "Ł",         $cc
+	charmap "Ń",         $cd
+	charmap "Ó",         $ce
+	charmap "Ś",         $cf
+	charmap "Ź",         $d0
+	charmap "Ż",         $d1
 
 	charmap "'",         $e0
 	charmap "<PK>",      $e1
