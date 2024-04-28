@@ -165,7 +165,7 @@ CreditsText_MonsterDesign:
 CreditsText_GameScenario:
 	db -6, "SCENARIUSZ GRY@"
 CreditsText_ParametricDesign:
-	db -7, "PROJEKT PARAMETRÓW@"
+	db -8, "PROJEKT PARAMETRÓW@"
 CreditsText_MapDesign:
 	db -5, "PROJEKT MAPY@"
 CreditsText_Testing:
@@ -175,7 +175,7 @@ CreditsText_SpecialThanks:
 CreditsText_Producers:
 	db -4, "PRODUCENCI@"
 CreditsText_Producer:
-	db -3, "PRODUCENT@"
+	db -4, "PRODUCENT@"
 CreditsText_ExecutiveProducer:
 	db -9, "PRODUCENT WYKONAWCZY@"
 CreditsText_Tamada:
@@ -224,7 +224,7 @@ CreditsText_PikachuVoice:
 
 	db -3, "××××××××@"
 CreditsText_USStaff:
-	db -8, "AUTORZY WERSJI@"
+	db -8, "AUTORZY WERSJI US@"
 CreditsText_USCoord:
 	db -6, "KOORDYNACJA US@"
 CreditsText_Tilden:

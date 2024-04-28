@@ -38,8 +38,9 @@ _SilphCo4FScientistAfterBattleText::
 	text "Drzwi są"
 	line "zablokowane"
 	cont "elektronicznie!"
-	cont "Otworzy je KARTA"
-	cont "DOSTĘPU!"
+
+	para "Otworzy je KARTA"
+	line "DOSTĘPU!"
 	done
 
 _SilphCo4FRocket2BattleText::

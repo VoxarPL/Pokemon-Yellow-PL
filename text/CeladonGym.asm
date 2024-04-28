@@ -17,8 +17,8 @@ _CeladonGymErikaPreBattleText::
 
 	para "Och, wybacz, nie"
 	line "miałam pojęcia, że"
-	cont "chciałeś rzucić"
-	cont "mi wyzwanie."
+	cont "chciałeś rzucić mi"
+	cont "wyzwanie."
 
 	para "Bardzo dobrze, ale"
 	line "ja nie przegram."

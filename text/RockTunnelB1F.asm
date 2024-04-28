@@ -99,7 +99,7 @@ _RockTunnelB1FHiker3BattleText::
 	done
 
 _RockTunnelB1FHiker3EndBattleText::
-	text "Wystrzelony!!"
+	text "Wystrzelony!"
 	prompt
 
 _RockTunnelB1FHiker3AfterBattleText::

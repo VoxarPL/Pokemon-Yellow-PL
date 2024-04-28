@@ -19,7 +19,7 @@ _SilphCo9FRocket1BattleText::
 	done
 
 _SilphCo9FRocket1EndBattleText::
-	text "Ghaaach!"
+	text "Gaaach!"
 	prompt
 
 _SilphCo9FRocket1AfterBattleText::

@@ -9,8 +9,9 @@ _ViridianGymGiovanniPreBattleText::
 	para "Ale znowu mnie"
 	line "złapałeś!"
 	cont "Niech tak będzie!"
-	cont "Tym razem się nie"
-	cont "powstrzymam!"
+
+	para "Tym razem się nie"
+	line "powstrzymam!"
 
 	para "Po raz kolejny"
 	line "zmierzysz się z"

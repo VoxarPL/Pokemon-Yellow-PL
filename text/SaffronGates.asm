@@ -11,16 +11,16 @@ _SaffronGateGuardGeeImThirstyText::
 _SaffronGateGuardImParchedText::
 	text "Chłopcze, zaschło"
 	line "mi w gardle!"
-	cont "..."
-	cont "Hę? Mogę to wypić?"
-	cont "Rany, dzięki!@"
+
+	para "Hę? Mogę to wypić?"
+	line "Rany, dzięki!@"
 	text_end
 
 _SaffronGateGuardYouCanGoOnThroughText::
 	text_start
 
 	para "...Glug, glug..."
-	cont "...Glug, glug..."
+	line "...Glug, glug..."
 
 	para "Jeśli chcesz iść"
 	line "do SAFRANII..."

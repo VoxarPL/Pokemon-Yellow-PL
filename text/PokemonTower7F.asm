@@ -5,9 +5,9 @@ _PokemonTowerJessieJamesText1::
 _PokemonTowerJessieJamesText2::
 	text "Dziadek chciał się"
 	line "poskarżyć, więc go"
-	cont "naprostowaliśmy."
+	cont "uciszyliśmy."
 
-	para "Więc zmykaj w"
+	para "Lepiej zmykaj w"
 	line "podskokach lub do"
 	cont "walki stań!"
 	done

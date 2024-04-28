@@ -100,8 +100,9 @@ _Route10CooltrainerF2EndBattleText::
 _Route10CooltrainerF2AfterBattleText::
 	text "#MONY są tutaj"
 	line "takie masywne!"
-	cont "Powinien być"
-	cont "różowy z kwiatowym"
+
+	para "Powinien być"
+	line "różowy z kwiatowym"
 	cont "wzorem!"
 	done
 

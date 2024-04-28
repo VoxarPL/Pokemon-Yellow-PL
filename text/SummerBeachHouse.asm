@@ -5,9 +5,9 @@ _SummerBeachHouseSurfinDudeText1::
 	line "jak SURFOWAĆ! Więc"
 	cont "nie jestem sam..."
 
-	para "Świetnie! Zasłuży-"
-	line "łeś na SURFOWANIE"
-	cont "z KOLESIEM!"
+	para "Super! Zasłużyłeś"
+	line "na SURFOWANIE z"
+	cont "KOLESIEM!"
 
 	para "Spróbujesz?"
 	done

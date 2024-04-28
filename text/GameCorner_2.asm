@@ -1,4 +1,4 @@
 _GameCornerOopsForgotCoinCaseText::
-	text "Ups! Zapomniałem"
+	text "Ups! Zapomniałeś"
 	line "ETUI NA ŻETONY!"
 	done

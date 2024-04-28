@@ -9,11 +9,9 @@ _CeladonMart1FReceptionistText::
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "1P: LADA"
-	line "    OBSŁUGI"
+	text "1P: LADA OBSŁUGI"
 
-	para "2P: RYNEK"
-	line "    TRENERA"
+	para "2P: RYNEK TRENERA"
 
 	para "3P: SKLEP Z GRAMI"
 
@@ -26,6 +24,5 @@ _CeladonMart1FDirectorySignText::
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "1P: LADA"
-	line "    OBSŁUGI"
+	text "1P: LADA OBSŁUGI"
 	done

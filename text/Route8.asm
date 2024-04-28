@@ -39,8 +39,7 @@ _Route8SuperNerd2EndBattleText::
 
 _Route8SuperNerd2AfterBattleText::
 	text "Najpierw idzie"
-	line "GRIMER...a...a..."
-	cont "...potem..."
+	line "GRIMER...a...a...potem..."
 	done
 
 _Route8CooltrainerF1BattleText::
