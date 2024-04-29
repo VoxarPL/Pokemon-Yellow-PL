@@ -205,8 +205,6 @@ TryingToLearnText:
 	text_end
 
 OneTwoAndText:
-; bugfix: In Red/Blue, the SFX_SWAP sound was played in the wrong bank, which played an incorrect sound
-; Yellow has fixed this by swapping to the correct bank
 	text_far _OneTwoAndText
 	text_pause
 	text_asm
