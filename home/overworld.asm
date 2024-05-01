@@ -1665,7 +1665,6 @@ GetSimulatedInput::
 
 ; function to check the tile ahead to determine if the character should get on land or keep surfing
 ; sets carry if there is a collision and clears carry otherwise
-; This function had a bug in Red/Blue, but it was fixed in Yellow.
 CollisionCheckOnWater::
 	ld a, [wd730]
 	bit 7, a

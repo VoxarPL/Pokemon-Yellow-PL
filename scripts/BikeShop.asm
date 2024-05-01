@@ -63,7 +63,6 @@ BikeShopClerkText:
 	call PlaceString
 	ld hl, BikeShopClerkDoYouLikeItText
 	call PrintText
-	; This fixes the bike shop instatext glitch
 	ld hl, wd730
 	res 6, [hl]
 	call HandleMenuInput

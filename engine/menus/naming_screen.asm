@@ -309,10 +309,6 @@ DisplayNamingScreen:
 	jp EraseMenuCursor
 
 LoadEDTile:
-; In Red/Blue, the bank for the ED_tile was defined incorrectly as bank0
-; Luckily, the MBC3 treats loading $0 into $2000-$2fff range as loading bank1 into $4000-$7fff range
-; Because Yellow uses the MBC5, loading $0 into $2000 - $2fff range will load bank0 instead of bank1 and thus incorrectly load the tile
-; Instead of defining the correct bank, GameFreak decided to simply copy the ED_Tile in the function during HBlank
 	ld de, ED_Tile
 	ld hl, vFont tile $70
 	ld c, $4 ; number of copies needed

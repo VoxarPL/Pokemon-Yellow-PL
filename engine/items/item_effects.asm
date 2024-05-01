@@ -484,7 +484,7 @@ ItemUseBall:
 
 	ld hl, wEnemyBattleStatus3
 	bit TRANSFORMED, [hl]
-	ld [wEnemyMonSpecies2], a
+	jr z, .notTransformed
 	jr .skip6
 
 .notTransformed
@@ -1691,6 +1691,7 @@ ItemUsePokedoll:
 	dec a
 	jp nz, ItemUseNotTime
 	ld a, $01
+;	ld [wBattleResult], a ; uniemożliwia użycie lalki na duchu Marowaka
 	ld [wEscapedFromBattle], a
 	jp PrintItemUseTextAndRemoveItem
 
