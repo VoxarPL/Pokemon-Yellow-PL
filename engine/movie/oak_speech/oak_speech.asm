@@ -8,8 +8,10 @@ PrepareOakSpeech:
 	; which causes CheckForceBikeOrSurf to not return.
 	; To fix this in debug builds, reset bit 5 here or in StartNewGame.
 	; In non-debug builds, the instructions can be removed.
+IF DEF(_DEBUG)
 	ld a, [wd732]
 	push af
+ENDC
 	ld a, [wPrinterSettings]
 	push af
 	ld hl, wPlayerName
@@ -26,8 +28,10 @@ PrepareOakSpeech:
 	ld [wSurfingMinigameHiScore + 2], a
 	pop af
 	ld [wPrinterSettings], a
+IF DEF(_DEBUG)
 	pop af
 	ld [wd732], a
+ENDC
 	pop af
 	ld [wOptions], a
 	pop af

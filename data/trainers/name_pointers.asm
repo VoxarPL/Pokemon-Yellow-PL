@@ -52,26 +52,4 @@ TrainerNamePointers:
 	dw .NoName
 	assert_table_length NUM_TRAINERS
 
-.NoName:            db "@"
-
-;.YoungsterName:     db "NASTOLATEK@"
-;.BugCatcherName:    db "ROBALOŁAPACZ@"
-;.LassName:          db "PANNA@"
-;.JrTrainerMName:    db "OBOZOWICZ@"
-;.JrTrainerFName:    db "OBOZOWICZKA@"
-;.PokemaniacName:    db "POKéMANIAK@"
-;.SuperNerdName:     db "SUPER NERD@"
-;.BurglarName:       db "RABUŚ@"
-;.EngineerName:      db "INŻYNIER@"
-;.UnusedJugglerName: db "ŻONGLER@"
-;.SwimmerName:       db "PŁYWAK@"
-;.BeautyName:        db "PIĘKNOŚĆ@"
-;.RockerName:        db "ROCKER@"
-;.JugglerName:       db "ŻONGLER@"
-;.BlackbeltName:     db "CZARNY PAS@"
-;.ProfOakName:       db "PROF.OAK@"
-;.ChiefName:         db "SZEF@"
-;.ScientistName:     db "NAUKOWIEC@"
-;.RocketName:        db "ROCKET@"
-;.CooltrainerMName:  db "AS TRENERÓW@"
-;.CooltrainerFName:  db "AS TRENERÓW@"
+.NoName:	db "@"

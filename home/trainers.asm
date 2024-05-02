@@ -145,7 +145,7 @@ ENDC
 	xor a ; EXCLAMATION_BUBBLE
 	ld [wWhichEmotionBubble], a
 	predef EmotionBubble
-	ld a, $ff ; D_RIGHT | D_LEFT | D_UP | D_DOWN
+	ld a, $ff
 	ld [wJoyIgnore], a
 	xor a
 	ldh [hJoyHeld], a

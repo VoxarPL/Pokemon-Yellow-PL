@@ -68,7 +68,7 @@
 
 	charmap "<to>",      $70 ; narrow "to"
 
-	charmap "<BOLD_P>",  $72 ; "『"
+	charmap "<BOLD_P>",  $72
 	charmap "<ID>",      $73
 	charmap "№",         $74
 
