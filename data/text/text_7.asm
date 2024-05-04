@@ -174,8 +174,13 @@ _ShallWeHealYourPokemonText::
 	done
 
 _NeedYourPokemonText::
-	text "OK. Weźmiemy"
+	text "OK, weźmiemy"
 	line "twoje #MONY."
+	done
+
+_NoPokemon::
+	text "Nie masz żadnych"
+	line "#MONÓW!"
 	done
 
 _PokemonFightingFitText::

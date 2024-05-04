@@ -1255,7 +1255,7 @@ _BoostedText::
 
 _ExpPointsText::
 	text_decimal wExpAmountGained, 2, 4
-	text " Pkt Dośw.!"
+	text " pkt dośw.!"
 	prompt
 
 _GrewLevelText::
@@ -1298,9 +1298,8 @@ _WildMonAppearedText::
 	prompt
 
 _HookedMonAttackedText::
-	text "Złowiony"
-	line "@"
+	text "Dziki @"
 	text_ram wEnemyMonNick
 	text_start
-	cont "pojawił się!"
+	line "pojawił się!"
 	prompt

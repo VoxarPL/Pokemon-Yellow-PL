@@ -6,7 +6,7 @@ StatModTextStrings:
 	li "ATAK"
 	li "OBRONA"
 	li "SZYBKOŚĆ"
-	li "SPECJAL."
+	li "SPECJALNE"
 	assert_list_length SPECIAL_DOWN_SIDE_EFFECT - ATTACK_DOWN_SIDE_EFFECT + 1
 	li "CELNOŚĆ"
 	li "UNIK"

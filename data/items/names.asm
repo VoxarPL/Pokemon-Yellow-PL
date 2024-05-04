@@ -28,7 +28,7 @@ ItemNames::
 	li "ODZ.BAGNA" ; Odznaka Bagna
 	li "ODZ.WULKANU" ; Odznaka Wulkanu
 	li "ODZ.ZIEMI" ; Odznaka Ziemi
-	li "LINA UCIECZKI" ; albo Lina Wyjścia
+	li "LINA UCIECZKI"
 	li "ODGANIACZ"
 	li "STARYBURSZTYN"
 	li "KAMIEŃ OGNIA"

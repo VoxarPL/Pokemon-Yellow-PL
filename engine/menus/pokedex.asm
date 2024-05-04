@@ -292,11 +292,17 @@ Pokedex_DrawInterface:
 	hlcoord 16, 5
 	lb bc, 1, 3
 	call PrintNumber ; print number of owned pokemon
+	hlcoord 16, 0
+	ld de, PokedexSeenText1
+	call PlaceString
 	hlcoord 16, 1
-	ld de, PokedexSeenText
+	ld de, PokedexSeenText2
+	call PlaceString
+	hlcoord 16, 3
+	ld de, PokedexOwnText1
 	call PlaceString
 	hlcoord 16, 4
-	ld de, PokedexOwnText
+	ld de, PokedexOwnText2
 	call PlaceString
 	hlcoord 1, 1
 	ld de, PokedexContentsText
@@ -335,11 +341,17 @@ DrawPokedexVerticalLine:
 	jr nz, .loop
 	ret
 
-PokedexSeenText:
-	db "BYŁO@"
+PokedexSeenText1:
+	db "POZ-@"
 
-PokedexOwnText:
-	db "MAM@"
+PokedexSeenText2:
+	db "NANE@"
+
+PokedexOwnText1:
+	db "ZŁA-@"
+
+PokedexOwnText2:
+	db "PANE@"
 
 PokedexContentsText:
 	db "LISTA@"
