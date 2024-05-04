@@ -1,27 +1,20 @@
-# Pokémon Yellow [![Build Status][ci-badge]][ci]
+# Pokémon Yellow PL
 
-This is a disassembly of Pokémon Yellow.
+Jest to dekompilacja Pokémon Yellow PL.
 
-It builds the following ROMs:
+Kompiluje następujące ROM-y:
 
-- Pokemon Yellow (UE) [C][!].gbc  `sha1: cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1`
-- YELLMONS.GB (debug build) `sha1: d44e96eddfbdad633cbe4e6e64915e9e198974b0`
-- Dmgapse0.h08.patch `sha1: f3346a5559d52c296b8feab0cdbbfb0e250ac161`
+- pokeyellow_pl.gbc
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+Aby skonfigurować repozytorium, zobacz [**INSTALL.md**](INSTALL.md).
 
 
-## See also
+## Zobacz także
 
-- [**Wiki**][wiki] (includes [tutorials][tutorials])
-- [**Symbols**][symbols]
+- [**Pokemon-Red-Blue-PL**][pokered-pl]
+- [**porered**][pret-red]
+- [**poreyellow**][pret-yellow]
 
-You can find us on [Discord (pret, #pokered)](https://discord.gg/d5dubZ3).
-
-For other pret projects, see [pret.github.io](https://pret.github.io/).
-
-[wiki]: https://github.com/pret/pokeyellow/wiki
-[tutorials]: https://github.com/pret/pokeyellow/wiki/Tutorials
-[symbols]: https://github.com/pret/pokeyellow/tree/symbols
-[ci]: https://github.com/pret/pokeyellow/actions
-[ci-badge]: https://github.com/pret/pokeyellow/actions/workflows/main.yml/badge.svg
+[pokered-pl]: https://github.com/VoxarPL/Pokemon-Red-Blue-PL
+[pret-red]: https://github.com/pret/pokered
+[pret-yellow]: https://github.com/pret/pokeyellow
