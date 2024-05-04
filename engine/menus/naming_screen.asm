@@ -448,10 +448,7 @@ PrintNamingText:
 	call GetMonName
 	hlcoord 4, 1
 	call PlaceString
-	ld hl, $1
-	add hl, bc
-	ld [hl], " " ; leftover from Japanese version; blank tile $c9 in English
-	hlcoord 1, 3
+	hlcoord 2, 3
 	ld de, NicknameTextString
 	jr .placeString
 .notNickname
