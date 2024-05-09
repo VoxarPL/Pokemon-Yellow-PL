@@ -98,9 +98,9 @@ _Museum1FScientist2YouDontHaveSpaceText::
 	done
 
 _Museum1FScientist3Text::
-	text "Jesteśmy dumni z 2"
-	line "skamielin bardzo"
-	cont "rzadkich,"
+	text "Jesteśmy dumni z"
+	line "dwóch skamielin"
+	cont "bardzo rzadkich,"
 	cont "prehistorycznych"
 	cont "#MONÓW!"
 	done

@@ -19,7 +19,7 @@ _PewterCityCooltrainerMText::
 	line "ROBALOŁAPACZE,"
 	cont "ale BROCK z SALI"
 	cont "MARMORII zna się"
-	cont "na fachu!"
+	cont "na rzeczy!"
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
@@ -84,7 +84,8 @@ _PewterCityTrainerTipsText::
 	para "Każdy #MON,"
 	line "który weźmie"
 	cont "udział w walce,"
-	cont "zdobywa Pkt Dośw.!"
+	cont "otrzyma punkty"
+	cont "doświadczenia!"
 	done
 
 _PewterCityPoliceNoticeSignText::

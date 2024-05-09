@@ -185,7 +185,12 @@ ContinueText:
 
 NewGameText:
 	db   "NOWA GRA"
-	next "OPCJE@"
+	next "OPCJE"
+	next
+	next
+	next
+	next "#MON YELLOW PL"
+	next "v2.0@"
 
 DisplayContinueGameInfo:
 	xor a

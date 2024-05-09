@@ -472,7 +472,7 @@ CalcExpToLevelUp:
 	ret
 
 StatusScreenExpText:
-	db   "PUNKTY EXP"
+	db   "PKT DOŚW."
 	next "NAST.POZ.@"
 
 StatusScreen_ClearName:
