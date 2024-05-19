@@ -66,10 +66,8 @@ _CeladonMart3FCurrentFloorSignText::
 	done
 
 _CeladonMart3FPokemonPosterText::
-	text "Wersja Czerwona i"
-	line "Niebieska!"
-
-	para "Złap je wszystkie!"
+	text "Wersja Żółta!"
+	line "Złap je wszystkie!"
 	done
 
 _CeladonMart3FClerkTM18PreReceiveText::

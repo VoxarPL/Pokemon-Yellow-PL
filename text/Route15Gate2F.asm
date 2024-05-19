@@ -1,6 +1,6 @@
 _Route15Gate2FOaksAideExpAllText::
 	text "ROZDZIELACZ daje"
-	line "Pkt Doświadczenia"
+	line "pkt doświadczenia"
 	cont "wszystkim twoim"
 	cont "#MONOM, nawet"
 	cont "jeśli nie brały"

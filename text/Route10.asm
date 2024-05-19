@@ -1,8 +1,9 @@
 _Route10SuperNerd1BattleText::
 	text "Łał, też jesteś"
 	line "#MANIAKIEM?"
-	cont "Chcesz zobaczyć"
-	cont "moją kolekcję?"
+
+	para "Chcesz zobaczyć"
+	line "moją kolekcję?"
 	done
 
 _Route10SuperNerd1EndBattleText::

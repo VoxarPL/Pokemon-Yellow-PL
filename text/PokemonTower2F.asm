@@ -2,8 +2,9 @@ _PokemonTower2FRivalWhatBringsYouHereText::
 	text "<RIVAL>: Hej,"
 	line "<PLAYER>! Co cię tu"
 	cont "sprowadza?"
-	cont "Twoje #MONY nie"
-	cont "są martwe!"
+
+	para "Twoje #MONY nie"
+	line "są martwe!"
 
 	para "Mogę sprawić, że"
 	line "tylko zemdleją!"
@@ -29,8 +30,9 @@ _PokemonTower2FRivalVictoryText::
 _PokemonTower2FRivalHowsYourDexText::
 	text "Jak tam twój"
 	line "#DEX, kolego?"
-	cont "Właśnie złapałem"
-	cont "CUBONE'A!"
+
+	para "Właśnie złapałem"
+	line "CUBONE'A!"
 
 	para "Nie mogę jeszcze"
 	line "znaleźć MAROWAKA!"

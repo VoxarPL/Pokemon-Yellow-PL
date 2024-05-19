@@ -4,9 +4,7 @@ _CeladonMartRoofLittleGirlGiveHerWhichDrinkText::
 	done
 
 _CeladonMartRoofLittleGirlYayFreshWaterText::
-	text "Jej!"
-
-	para "ŚWIEŻA WODA!"
+	text "Jej! ŚWIEŻA WODA!"
 
 	para "Dziękuję!"
 
@@ -34,9 +32,8 @@ _CeladonMartRoofLittleGirlTM13ExplanationText::
 	text_end
 
 _CeladonMartRoofLittleGirlYaySodaPopText::
-	text "Jej!"
-
-	para "NAPÓJ GAZOWANY!"
+	text "Jej! NAPÓJ"
+	line "GAZOWANY!"
 
 	para "Dziękuję!"
 
@@ -64,9 +61,7 @@ _CeladonMartRoofLittleGirlTM48ExplanationText::
 	text_end
 
 _CeladonMartRoofLittleGirlYayLemonadeText::
-	text "Jej!"
-
-	para "LEMONIADA!"
+	text "Jej! LEMONIADA!"
 
 	para "Dziękuję!"
 
@@ -141,7 +136,7 @@ _VendingMachineText4::
 _VendingMachineText5::
 	text_ram wStringBuffer
 	text_start
-	line "wyskoczyła!"
+	line "wyskakuje!"
 	done
 
 _VendingMachineText6::

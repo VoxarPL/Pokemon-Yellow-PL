@@ -35,7 +35,7 @@ _CableClubNPCMakingPreparationsText::
 	done
 
 _FlashLightsAreaText::
-	text "FLASH rozświetla"
+	text "BŁYSK rozświetla"
 	line "cały obszar!"
 	prompt
 
