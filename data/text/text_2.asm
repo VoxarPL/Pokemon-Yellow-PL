@@ -52,8 +52,8 @@ _TradeSendsText::
 
 _TradeWavesFarewellText::
 	text_ram wLinkEnemyTrainerName
-	text " fale"
-	line "pożegnalne"
+	text " macha"
+	line "na pożegnanie."
 	done
 
 _TradeTransferredText::
@@ -69,9 +69,9 @@ _TradeTakeCareText::
 	text "."
 	done
 
-_TradeWillTradeText:: ; sprawdź
+_TradeWillTradeText::
 	text_ram wLinkEnemyTrainerName
-	text " "
+	text_start
 	line "wymieni @"
 	text_ram wcd6d
 	text_start
@@ -683,7 +683,7 @@ _LinkCableInfoText1::
 
 _LinkCableInfoText2::
 	text "KOLOSEUM pozwala"
-	line "ci grać z"
+	line "ci zagrać z"
 	cont "przyjacielem."
 	prompt
 
@@ -711,8 +711,8 @@ _ViridianBlackboardSleepText::
 	cont "śpi!"
 
 	para "Będzie spał nawet"
-	line "nawet po"
-	cont "zakończonej walce."
+	line "po zakończonej"
+	cont "walce."
 
 	para "Użyj PRZEBUDZACZA,"
 	line "aby go obudzić!"
@@ -735,7 +735,7 @@ _ViridianBlackboardPrlzText::
 	line "że #MON czasem"
 	cont "nie trafia!"
 
-	para "Paraliż pozostaje"
+	para "Status pozostaje"
 	line "po walce."
 
 	para "Potraktuj go"
@@ -744,11 +744,11 @@ _ViridianBlackboardPrlzText::
 
 _ViridianBlackboardBurnText::
 	text "Oparzenie redukuje"
-	line "atak i szybkość."
-	cont "Stopniowo rani."
+	line "atak i szybkość"
+	cont "#MONA."
 
-	para "Oparzenie zostaje"
-	line "po walce."
+	para "Stopniowo rani i"
+	line "zostaje po walce."
 
 	para "Użyj LEKU OPARZEŃ,"
 	line "aby go wyleczyć!"
@@ -977,7 +977,7 @@ _TrainerAboutToUseText::
 
 _TrainerSentOutText::
 	text_ram wTrainerName
-	text " "
+	text_start
 	line "wysyła @"
 	text_ram wEnemyMonNick
 	text "!"
@@ -1080,9 +1080,9 @@ _MustRechargeText::
 	line "musi odpocząć!"
 	prompt
 
-_DisabledNoMoreText::
-	text "<USER>"
-	line "w pełni aktywny!"
+_DisabledNoMoreText:: ; wymyślić coś lepszego
+	text "Ruch został"
+	line "włączony!"
 	prompt
 
 _IsConfusedText::
@@ -1157,7 +1157,7 @@ _ExclamationPointText::
 
 _AttackMissedText::
 	text "<USER>"
-	line "atak spudłować!"
+	line "spudłował!"
 	prompt
 
 _KeptGoingAndCrashedText::
@@ -1182,13 +1182,13 @@ _OHKOText::
 
 _LoafingAroundText::
 	text_ram wBattleMonNick
-	text " "
+	text_start
 	line "wygłupia się."
 	prompt
 
 _BeganToNapText::
 	text_ram wBattleMonNick
-	text " "
+	text_start
 	line "zaczyna drzemkę!"
 	prompt
 
@@ -1217,12 +1217,12 @@ _SubstituteTookDamageText::
 	prompt
 
 _SubstituteBrokeText::
-	text "<TARGET>"
+	text "<TARGET> -"
 	line "ZASTĘPCA zaniknął!"
 	prompt
 
 _BuildingRageText::
-	text "<USER>"
+	text "<USER> -"
 	line "WŚCIEKŁOŚĆ rośnie!"
 	prompt
 

@@ -6,5 +6,5 @@ VitaminStats:
 	li "ATAK"
 	li "OBRONA"
 	li "SZYBKOŚĆ"
-	li "SPECJAL."
+	li "SPECJALNE"
 	assert_list_length NUM_STATS

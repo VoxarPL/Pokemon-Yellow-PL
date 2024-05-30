@@ -76,7 +76,7 @@ _RefusingText::
 
 _VitaminStatRoseText::
 	text_ram wcd6d
-	text " "
+	text " -"
 	line "@"
 	text_ram wStringBuffer
 	text " rośnie."
@@ -135,24 +135,24 @@ _ItemfinderFoundNothingText::
 
 _RaisePPWhichTechniqueText::
 	text "Zwiększyć PP"
-	line "której techniki?"
+	line "którego ruchu?"
 	done
 
 _RestorePPWhichTechniqueText::
 	text "Przywrócić PP"
-	line "której techniki?"
+	line "którego ruchu?"
 	done
 
 _PPMaxedOutText::
 	text_ram wStringBuffer
-	text " PP"
+	text " - PP"
 	line "jest maksymalne."
 	prompt
 
 _PPIncreasedText::
 	text_ram wStringBuffer
-	text " PP"
-	line "zwiększono."
+	text " -"
+	line "zwiększono PP."
 	prompt
 
 _PPRestoredText::
@@ -224,10 +224,10 @@ _NoCyclingAllowedHereText::
 	prompt
 
 _NoSurfingHereText::
-	text "Nie SURFUJ na"
+	text "Nie SURFUJ tu na"
 	line "@"
 	text_ram wcd6d
-	text " tu!"
+	text "!"
 	prompt
 
 _BoxFullCannotThrowBallText::
@@ -352,11 +352,10 @@ _AfterTrade1Text::
 _WannaTrade2Text::
 	text "Cześć! Czy chcesz"
 	line "wymienić swojego"
-
-	para "@"
+	cont "@"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "na @"
+	cont "na @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
@@ -419,7 +418,7 @@ _Thanks3Text::
 	done
 
 _AfterTrade3Text::
-	text "Jak tam mój stary"
+	text "Jak tam stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"

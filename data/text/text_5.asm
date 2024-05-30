@@ -41,7 +41,7 @@ _FireDefrostedText::
 	prompt
 
 _MonsStatsRoseText::
-	text "<USER>"
+	text "<USER> -"
 	line "@"
 	text_ram wStringBuffer
 	text "@"
@@ -56,7 +56,7 @@ _RoseText::
 	prompt
 
 _MonsStatsFellText::
-	text "<TARGET>"
+	text "<TARGET> -"
 	line "@"
 	text_ram wStringBuffer
 	text "@"
@@ -133,7 +133,7 @@ _MimicLearnedMoveText::
 	prompt
 
 _MoveWasDisabledText::
-	text "<TARGET>"
+	text "<TARGET> -"
 	line "@"
 	text_ram wcd6d
 	text " "
@@ -198,14 +198,14 @@ _HitWithRecoilText::
 	line "uderza rykoszetem!"
 	prompt
 
-_ConvertedTypeText:: ; sprawdź
-	text "Zmieniony typ na"
+_ConvertedTypeText::
+	text "Zmieniono typ na"
 	line "<TARGET>!"
 	prompt
 
 _StatusChangesEliminatedText::
-	text "Zmiany STANU"
-	line "wyeliminowane!"
+	text "Wyeliminowano"
+	line "zmiany STANU!"
 	prompt
 
 _GettingPumpedText::

@@ -8,9 +8,6 @@ IF DEF(_YELLOW_VC)
 	text "Zapraszamy"
 	line "ponownie!"
 	done
-	text_start
-	text "z powodu"
-	cont "braku aktywności."
 ELSE
 	text "Zakończono połą-"
 	line "czenie z powodu"

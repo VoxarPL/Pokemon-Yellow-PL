@@ -69,8 +69,8 @@ BattleMenuText:
 	db   "WALCZ <PK><MN>"
 	next "TORBA WIEJ@"
 
-SafariZoneBattleMenuText: ; sprawdzić
-	db   "BALL×       KARM" ; BAIT
+SafariZoneBattleMenuText:
+	db   "BALL×       KARM"
 	next "RZUĆ SKAŁĘ  WIEJ@"
 
 SwitchStatsCancelText:

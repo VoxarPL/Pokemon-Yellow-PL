@@ -146,8 +146,8 @@ _IceHealText::
 
 _AwakeningText::
 	text_ram wcd6d
-	text_start
-	line "budzi się!"
+	text " budzi"
+	line "się!"
 	done
 
 _FullHealText::
@@ -158,8 +158,8 @@ _FullHealText::
 
 _ReviveText::
 	text_ram wcd6d
-	text_start
-	line "zostaje ocucony!"
+	text " zostaje"
+	line "ocucony!"
 	done
 
 _RareCandyText::
@@ -219,7 +219,7 @@ _DepositHowManyText::
 
 _ItemWasStoredText::
 	text_ram wcd6d
-	text " "
+	text " -"
 	line "przesłano do PC."
 	prompt
 
@@ -242,7 +242,7 @@ _WithdrawHowManyText::
 	done
 
 _WithdrewItemText::
-	text "Zabrano"
+	text "Zabrano przedmiot"
 	line "@"
 	text_ram wcd6d
 	text "."
@@ -280,7 +280,7 @@ _SleepingPikachuText2::
 	line "odpowiedzi..."
 	prompt
 
-_SwitchOnText:: ; sprawdzić
+_SwitchOnText::
 	text "Przełącz!"
 	prompt
 
@@ -296,7 +296,7 @@ _DepositWhichMonText::
 _MonWasStoredText::
 	text_ram wStringBuffer
 	text " wysłany"
-	line "do Boxu @"
+	line "do Boxu nr @"
 	text_ram wBoxNumString
 	text "."
 	prompt
@@ -507,7 +507,7 @@ _HisNameIsText::
 	cont "imię <RIVAL>!"
 	prompt
 
-_WillBeTradedText:: ; sprawdzić
+_WillBeTradedText::
 	text_ram wNameOfPlayerMonToBeTraded
 	text " i"
 	line "@"
@@ -579,7 +579,7 @@ _ColosseumTotalL50Text::
 _ColosseumHeightText::
 	text_ram wcd6d
 	text " ma ponad"
-	line "2 m wzrostu!"
+	line "2 metry wzrostu!"
 	prompt
 
 _ColosseumWeightText::

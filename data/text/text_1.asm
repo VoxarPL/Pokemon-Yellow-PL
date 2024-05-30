@@ -111,7 +111,7 @@ _OaksAideUhOhText::
 	done
 
 _OaksAideComeBackText::
-	text "Och. Już wiem."
+	text "Och, już wiem."
 
 	para "Gdy zdobędziesz @"
 	text_decimal hOaksAideRequirement, 1, 3

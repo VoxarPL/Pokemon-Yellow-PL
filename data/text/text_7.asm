@@ -115,7 +115,7 @@ _DidNotLearnText::
 
 _TryingToLearnText::
 	text_ram wLearnMoveMonName
-	text " "
+	text_start
 	line "próbuje poznać"
 	cont "@"
 	text_ram wStringBuffer
@@ -146,8 +146,8 @@ _ForgotAndText::
 	text_start
 	para "@"
 	text_ram wLearnMoveMonName
-	text " zapomina"
-	line "@"
+	text " nie zna"
+	line "już @"
 	text_ram wcd6d
 	text "!"
 
