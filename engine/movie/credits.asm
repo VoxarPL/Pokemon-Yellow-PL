@@ -286,7 +286,7 @@ ShowTheEndGFX:
 	jp FadeInCreditsText
 
 TheEndTextString:
-; "T H E  E N D"
+; "KONIEC"
 	db $60,$62,$64,$66,$68,$6A,"@"
 	db $61,$63,$65,$67,$69,$6B,"@"
 

@@ -185,7 +185,7 @@ LoadTownMap_Fly::
 	ld a, [hl]
 	ld b, $4
 	call DrawPlayerOrBirdSprite ; draw bird sprite
-	hlcoord 3, 0
+	hlcoord 4, 0
 	ld de, wcd6d
 	call PlaceString
 	ld c, 15
