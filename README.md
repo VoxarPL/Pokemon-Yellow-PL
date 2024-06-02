@@ -2,7 +2,7 @@
 
 Jest to dekompilacja Pokémon Yellow PL.
 
-Kompiluje następujące ROM-y:
+Kompiluje następujący ROM:
 
 - pokeyellow_pl.gbc
 
