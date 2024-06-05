@@ -190,7 +190,7 @@ NewGameText:
 	next
 	next
 	next "#MON YELLOW PL"
-	next "v2.0.1@"
+	next "v2.0.2@"
 
 DisplayContinueGameInfo:
 	xor a
