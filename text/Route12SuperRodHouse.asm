@@ -41,8 +41,9 @@ _Route12SuperRodHouseFishingGuruTryFishingText::
 
 	para "Użyj SUPER WĘDKI w"
 	line "każdej wodzie!"
-	cont "Możesz łowić różne"
-	cont "gatunki #MONÓW!"
+
+	para "Możesz łowić różne"
+	line "gatunki #MONÓW!"
 
 	para "Spróbuj łowić,"
 	line "gdzie tylko można!"

@@ -66,6 +66,6 @@ _BikeShopYoungsterTheseBikesAreExpensiveText::
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Łał. Twój ROWER"
+	text "Łał, twój ROWER"
 	line "jest fajny!"
 	done

@@ -31,8 +31,9 @@ _SafariZoneSecretHouseFishingGuruHM03ExplanationText::
 
 	para "I ten HM nie jest"
 	line "jednorazowy!"
-	cont "Możesz go używać"
-	cont "wielokrotnie!"
+	
+	para "Możesz go używać"
+	line "wielokrotnie!"
 
 	para "Masz super"
 	line "szczęście, że"

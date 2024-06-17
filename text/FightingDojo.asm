@@ -43,7 +43,7 @@ _FightingDojoKarateMasterStayAndTrainWithUsText::
 	done
 
 _FightingDojoBlackbelt1BattleText::
-	text "Hoargh! Zdejmij"
+	text "Hoarch! Zdejmij"
 	line "buty!"
 	done
 
@@ -104,8 +104,7 @@ _FightingDojoBlackbelt4BattleText::
 	done
 
 _FightingDojoBlackbelt4EndBattleText::
-	text "Uff!"
-	line "Poddaję się!"
+	text "Uff! Poddaję się!"
 	prompt
 
 _FightingDojoBlackbelt4AfterBattleText::

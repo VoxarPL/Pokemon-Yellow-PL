@@ -121,8 +121,9 @@ _Route13Beauty2EndBattleText::
 _Route13Beauty2AfterBattleText::
 	text "Nie wiem nic o"
 	line "#MONACH."
-	cont "Po prostu lubię te"
-	cont "fajne!"
+
+	para "Po prostu lubię te"
+	line "fajne!"
 	done
 
 _Route13BikerBattleText::
@@ -167,8 +168,8 @@ _Route13TrainerTips2Text::
 
 	para "Użyć SELECT, aby"
 	line "przesuwać"
-	cont "przedmioty w oknie"
-	cont "TORBA!"
+	cont "przedmioty w"
+	cont "TORBIE!"
 	done
 
 _Route13SignText::

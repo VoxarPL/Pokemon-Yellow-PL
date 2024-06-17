@@ -89,9 +89,8 @@ _CeladonMart3FClerkReceivedTM18Text::
 
 _CeladonMart3FClerkTM18ExplanationText::
 	text "TM18 to KONTRA!"
-	line "Nie tak jak ten,"
-	cont "na którym się"
-	cont "opieram!"
+	line "Nie tak jak to, na"
+	cont "czym się opieram!"
 	done
 
 _CeladonMart3FClerkTM18NoRoomText::

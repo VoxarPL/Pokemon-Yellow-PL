@@ -24,8 +24,8 @@ _Route12Fisher1BattleText::
 	done
 
 _Route12Fisher1EndBattleText::
-	text "Tch!"
-	line "Jakieś maleństwo!"
+	text "Tch! Jakieś"
+	line "maleństwo!"
 	prompt
 
 _Route12Fisher1AfterBattleText::

@@ -13,7 +13,7 @@ _CeladonMart5FGentlemanText::
 	done
 
 _CeladonMart5FSailorText::
-	text "Szukam ulepszaczy"
+	text "Szukam wzmacniaczy"
 	line "zdolności dla"
 	cont "#MONÓW."
 

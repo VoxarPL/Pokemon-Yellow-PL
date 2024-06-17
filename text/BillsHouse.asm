@@ -11,8 +11,9 @@ _BillsHouseBillImNotAPokemonText::
 	para "Mów mi BILL!"
 	line "Prawdziwy ze mnie"
 	cont "#MANIAK! Hej!"
-	cont "Co tak na mnie"
-	cont "patrzysz?"
+
+	para "Co tak na mnie"
+	line "patrzysz?"
 
 	para "Nie żartuję,"
 	line "eksperymentowałem"
@@ -74,15 +75,17 @@ _BillsHouseBillWhyDontYouGoInsteadOfMeText::
 	text "Ten wycieczkowiec,"
 	line "S.S.ANNA, jest w"
 	cont "ORANII."
-	cont "Jego pasażerami są"
-	cont "trenerzy!"
+
+	para "Jego pasażerami są"
+	line "trenerzy!"
 
 	para "Zaprosili mnie na"
 	line "imprezę, ale nie"
 	cont "znoszę takich"
-	cont "imprez. Może ty"
-	cont "pójdziesz zamiast"
-	cont "mnie?"
+	cont "imprez."
+
+	para "Może ty pójdziesz"
+	line "zamiast mnie?"
 	done
 
 _BillsHouseBillCheckOutMyRarePokemonText::

@@ -88,8 +88,9 @@ _ChampionsRoomOakText::
 _ChampionsRoomOakCongratulatesPlayerText::
 	text "OAK: Wygrałeś!"
 	line "Moje gratulacje!"
-	cont "Jesteś teraz"
-	cont "nowym mistrzem"
+
+	para "Jesteś teraz"
+	line "nowym mistrzem"
 	cont "LIGI #MON!"
 
 	para "Bardzo dorosłeś od"

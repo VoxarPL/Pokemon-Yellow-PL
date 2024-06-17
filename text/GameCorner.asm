@@ -141,8 +141,9 @@ _GameCornerMiddleAgedMan2INeedMoreCoinsText::
 _GameCornerFishingGuru2ThrowingMeOffText::
 	text "Hej, co?"
 	line "Zniechęcasz mnie!"
-	cont "Weź te żetony,"
-	cont "sio!"
+
+	para "Weź te żetony,"
+	line "sio!"
 	prompt
 
 _GameCornerFishingGuru2Received20CoinsText::
@@ -175,8 +176,9 @@ _GameCornerRocketBattleEndText::
 _GameCornerRocketAfterBattleText::
 	text "Nasza kryjówka"
 	line "została odkryta!"
-	cont "Lepiej powiadomię"
-	cont "SZEFA!"
+
+	para "Lepiej powiadomię"
+	line "SZEFA!"
 	done
 
 _GameCornerPosterSwitchBehindPosterText::

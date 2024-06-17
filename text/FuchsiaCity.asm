@@ -1,8 +1,9 @@
 _FuchsiaCityYoungster1Text::
 	text "Czy próbowałeś"
 	line "GRĘ SAFARI?"
-	cont "Niektóre #MONY"
-	cont "można złapać tylko"
+
+	para "Niektóre #MONY"
+	line "można złapać tylko"
 	cont "tam."
 	done
 

@@ -81,7 +81,8 @@ ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
 _ViridianCityGirlHasntHadHisCoffeeYetText::
 	text "Och, dziadku! Nie"
 	line "bądź taki podły!"
-	cont "Nie wypił jeszcze"
+
+	para "Nie wypił jeszcze"
 	cont "kawy."
 	done
 
@@ -177,7 +178,7 @@ _ViridianCityTrainerTips2Text::
 	para "Ruchy #MONÓW są"
 	line "ograniczone przez"
 	cont "ich PUNKTY MOCY, w"
-	cont "skrócie, PP."
+	cont "skrócie PP."
 
 	para "Aby uzupełnić PP,"
 	line "daj odpocząć"

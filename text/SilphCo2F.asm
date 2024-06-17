@@ -4,8 +4,10 @@ SilphCo2FSilphWorkerFPleaseTakeThisText::
 
 	para "Och, nie jesteś z"
 	line "ZESPOŁU R."
-	cont "Myślałam, że..."
-	cont "Przepraszam."
+
+	para "Myślałam, że..."
+	line "Przepraszam."
+
 	cont "Proszę, weź to!"
 	prompt
 

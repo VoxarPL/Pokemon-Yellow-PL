@@ -70,5 +70,5 @@ _CeladonMansion1Text12::
 	line "fantastyczny duet."
 
 	para "Przez was jestem"
-	line "zazdrosny!"
+	line "zazdrosna!"
 	done

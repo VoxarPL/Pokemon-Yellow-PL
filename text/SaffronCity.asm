@@ -45,8 +45,9 @@ _SaffronCityScientistText::
 _SaffronCitySilphWorkerMText::
 	text "Tak! ZESPÓŁ R"
 	line "znowu błysnął!"
-	cont "Można bezpiecznie"
-	cont "wyjść na zewnątrz!"
+
+	para "Można bezpiecznie"
+	line "wyjść na zewnątrz!"
 	done
 
 _SaffronCitySilphWorkerFText::

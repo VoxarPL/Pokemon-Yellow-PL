@@ -218,8 +218,9 @@ _OaksLabRivalTakesText4::
 _OaksLabRivalTakesText5::
 	text "OAK: Ale, ja..."
 	line "Och, w porządku."
-	cont "Ten #MON może"
-	cont "być już twój."
+
+	para "Ten #MON może"
+	line "być już twój."
 
 	para "I tak zamierzałem"
 	line "ci go dać..."
@@ -255,8 +256,9 @@ _OaksLabOakDontGoAwayYetText::
 _OaksLabRivalIllTakeYouOnText::
 	text "<RIVAL>: Zaczekaj,"
 	line "<PLAYER>!"
-	cont "Sprawdźmy nasze"
-	cont "#MONY!"
+
+	para "Sprawdźmy nasze"
+	line "#MONY!"
 
 	para "Dalej, przekonajmy"
 	line "się!"

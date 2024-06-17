@@ -16,9 +16,8 @@ _FuchsiaGymKogaBeforeBattleText::
 	done
 
 _FuchsiaGymKogaReceivedSoulBadgeText::
-	text "Humph!"
-	line "Udowodniłeś swoją"
-	cont "wartość!"
+	text "Humph! Udowodniłeś"
+	line "swoją wartość!"
 
 	para "Proszę! Weź tę"
 	line "ODZNAKĘ DUSZY!"

@@ -10,8 +10,9 @@ _CeladonCityLittleGirlText::
 _CeladonCityGramps1Text::
 	text "Cheche! Ta SALA"
 	line "jest świetna!"
-	cont "Pełno w niej"
-	cont "kobiet!"
+
+	para "Pełno w niej"
+	line "kobiet!"
 	done
 
 _CeladonCityGirlText::

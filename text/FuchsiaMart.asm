@@ -9,6 +9,7 @@ _FuchsiaMartMiddleAgedManText::
 _FuchsiaMartCooltrainerFText::
 	text "Próbowałeś X"
 	line "SZYBKOŚĆ?"
-	cont "Przyspiesza"
-	cont "#MONA w walce!"
+
+	para "Przyspiesza"
+	line "#MONA w walce!"
 	done

@@ -15,6 +15,7 @@ _FuchsiaPokecenterCooltrainerFText::
 
 	para "Prowadzi do LIGI"
 	line "#MON."
-	cont "Kwatery wszystkich"
-	cont "trenerów."
+
+	para "Kwatery wszystkich"
+	line "trenerów."
 	done

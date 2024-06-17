@@ -46,7 +46,7 @@ _CopycatsHouse2FCopycatTM31Explanation1Text::
 
 _CopycatsHouse2FCopycatTM31Explanation2Text::
 	text "<PLAYER>: Cześć,"
-	line "Dzięki za TM31!"
+	line "dzięki za TM31!"
 
 	para "<PLAYER>: Pardon?"
 

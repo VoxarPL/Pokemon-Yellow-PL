@@ -123,7 +123,7 @@ _Route20Swimmer8BattleText::
 	done
 
 _Route20Swimmer8EndBattleText::
-	text "Jestem taki"
+	text "Jestem taka"
 	line "rozczarowana!"
 	prompt
 

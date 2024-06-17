@@ -31,9 +31,10 @@ _SaffronGymSabrinaReceivedMarshBadgeText::
 
 _SaffronGymSabrinaPostBattleAdviceText::
 	text "Każdy posiada moc"
-	line "psychiczną! Ludzie"
-	cont "po prostu o tym"
-	cont "nie wiedzą!"
+	line "psychiczną!"
+
+	para "Ludzie po prostu o"
+	line "tym nie wiedzą!"
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::

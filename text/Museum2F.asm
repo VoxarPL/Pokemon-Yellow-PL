@@ -38,8 +38,9 @@ _Museum2FHikerText::
 _Museum2FPikachuText1::
 	text "Twój PIKACHU jest"
 	line "nieokiełznany."
-	cont "Mogę go dostać dla"
-	cont "mojej córki?"
+
+	para "Mogę go dostać dla"
+	line "mojej córki?"
 	done
 
 _Museum2FPikachuText2::

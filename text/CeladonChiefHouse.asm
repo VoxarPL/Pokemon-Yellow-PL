@@ -7,9 +7,9 @@ _CeladonChiefHouseChiefText::
 _CeladonChiefHouseRocketText::
 	text "SZEFIE!"
 
-	para "Wysłaliśmy"
-	line "2000 #MONÓW"
-	cont "jako nagrody!"
+	para "Wysłaliśmy 2000"
+	line "#MONÓW jako"
+	cont "nagrody!"
 	done
 
 _CeladonChiefHouseSailorText::

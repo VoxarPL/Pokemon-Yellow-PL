@@ -34,8 +34,9 @@ _Route14CooltrainerM2AfterBattleText::
 _Route14CooltrainerM3BattleText::
 	text "TM są w sprzedaży"
 	line "w PRYZMANII!"
-	cont "Ale niewiele osób"
-	cont "posiada HM!"
+
+	para "Ale niewiele osób"
+	line "posiada HM!"
 	done
 
 _Route14CooltrainerM3EndBattleText::

@@ -137,8 +137,9 @@ _ViridianForestTrainerTips3Text::
 	para "Nie kradnij"
 	line "#MONÓW od"
 	cont "innych trenerów!"
-	cont "Łap tylko dzikie"
-	cont "#MONY!"
+
+	para "Łap tylko dzikie"
+	line "#MONY!"
 	done
 
 _ViridianForestTrainerTips4Text::

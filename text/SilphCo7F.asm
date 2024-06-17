@@ -34,8 +34,9 @@ _SilphCo7FSilphWorkerM1IsOurPresidentOkText::
 	text "SZEF ZESPOŁU R"
 	line "poszedł do sali"
 	cont "konferencyjnej!"
-	cont "Czy nasz PREZES ma"
-	cont "się dobrze?"
+
+	para "Czy nasz PREZES ma"
+	line "się dobrze?"
 	done
 
 _SilphCo7FSilphWorkerM1SavedText::
@@ -73,8 +74,9 @@ _SilphCo7FSilphWorkerM3YouChasedOffTeamRocketText::
 _SilphCo7FSilphWorkerM4ItsReallyDangerousHereText::
 	text "Ty! Tu jest"
 	line "niebezpiecznie!"
-	cont "Przyszedłeś mnie"
-	cont "uratować?"
+
+	para "Przyszedłeś mnie"
+	line "uratować?"
 	done
 
 _SilphCo7FSilphWorkerM4SafeAtLastText::
@@ -158,8 +160,9 @@ _SilphCo7FRivalWaitedHereText::
 
 	para "Chyba ZESPÓŁ R cię"
 	line "spowolnił!"
-	cont "Nie żeby mnie to"
-	cont "obchodziło!"
+
+	para "Nie żeby mnie to"
+	line "obchodziło!"
 
 	para "Widziałem cię w"
 	line "SAFRANII, więc"

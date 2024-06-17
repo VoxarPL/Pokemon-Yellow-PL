@@ -101,8 +101,9 @@ _CeruleanCityRocketIllReturnTheTMText::
 _CeruleanCityCooltrainerMText::
 	text "Też jesteś"
 	line "trenerem?"
-	cont "Zbieranie, walki,"
-	cont "to ciężkie życie."
+
+	para "Zbieranie, walki,"
+	line "to ciężkie życie."
 	done
 
 _CeruleanCitySuperNerd1Text::
@@ -174,7 +175,7 @@ _CeruleanCityElectrodeTookASnoozeText::
 	done
 
 _CeruleanCityElectrodeIsLoafingAroundText::
-	text "ELECTRODE kręci ci"
+	text "ELECTRODE kręci"
 	line "się dookoła..."
 	done
 
@@ -223,7 +224,7 @@ _CeruleanCityTrainerTipsText::
 	line "TRENERÓW!"
 
 	para "Naciśnięcie"
-	line "Przycisku B"
+	line "przycisku B"
 	cont "podczas ewolucji"
 	cont "anuluje proces."
 	done

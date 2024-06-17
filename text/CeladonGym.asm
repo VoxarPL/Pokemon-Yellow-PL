@@ -12,8 +12,9 @@ _CeladonGymErikaPreBattleText::
 
 	para "Uczę sztuki"
 	line "aranżacji kwiatów."
-	cont "Moje #MONY są"
-	cont "typu trawiastego."
+
+	para "Moje #MONY są"
+	line "typu trawiastego."
 
 	para "Och, wybacz, nie"
 	line "miałam pojęcia, że"
@@ -25,8 +26,8 @@ _CeladonGymErikaPreBattleText::
 	done
 
 _CeladonGymErikaReceivedRainbowBadgeText::
-	text "Och!"
-	line "Przyznaję porażkę."
+	text "Och! Przyznaję"
+	line "porażkę."
 
 	para "Jesteś niezwykle"
 	line "silny."

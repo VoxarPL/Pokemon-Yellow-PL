@@ -11,7 +11,7 @@ _CeruleanMartCooltrainerMText::
 	done
 
 _CeruleanMartCooltrainerFText::
-	text "Widziałeś jakieś"
+	text "Widziałeś może"
 	line "RZADKIE CUKSY?"
 
 	para "Sprawią, że"

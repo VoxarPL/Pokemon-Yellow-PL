@@ -5,8 +5,8 @@ _MtMoon1FHikerBattleText::
 	done
 
 _MtMoon1FHikerEndBattleText::
-	text "Łał!"
-	line "Znowu w szoku!"
+	text "Łał! Znowu w"
+	line "szoku!"
 	prompt
 
 _MtMoon1FHikerAfterBattleText::
