@@ -190,7 +190,7 @@ NewGameText:
 	next
 	next
 	next "#MON YELLOW PL"
-	next "v2.0.2@"
+	next "v2.0.3@"
 
 DisplayContinueGameInfo:
 	xor a
@@ -272,8 +272,8 @@ PrintPlayTime:
 
 SaveScreenInfoText:
 	db   "GRACZ"
-	next "ODZNAKI   "
-	next "#DEX    "
+	next "ODZNAKI"
+	next "#DEX"
 	next "CZAS@"
 
 DisplayOptionMenu:
