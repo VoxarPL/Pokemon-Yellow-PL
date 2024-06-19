@@ -1,6 +1,6 @@
 PrintWaitingText::
 	hlcoord 3, 10
-	lb bc, 1, 11
+	lb bc, 1, 12
 	ld a, [wIsInBattle]
 	and a
 	jr z, .trade
@@ -17,4 +17,4 @@ PrintWaitingText::
 	jp DelayFrames
 
 WaitingText:
-	db "Oczekiwanie...!@"
+	db "Oczekiwanie...@"

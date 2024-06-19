@@ -9,10 +9,10 @@ CableClub_DoBattleOrTrade:
 	call LoadFontTilePatterns
 	call LoadHpBarAndStatusTilePatterns
 	call LoadTrainerInfoTextBoxTiles
-	hlcoord 3, 8
-	lb bc, 2, 12
+	hlcoord 2, 8
+	lb bc, 2, 14
 	call CableClub_TextBoxBorder
-	hlcoord 4, 10
+	hlcoord 3, 10
 	ld de, PleaseWaitString
 	call PlaceString
 	ld hl, wPlayerNumHits
@@ -542,7 +542,7 @@ TradeCenter_SelectMon:
 	ld [wTradeCenterPointerTableIndex], a
 	jp CallCurrentTradeCenterFunction
 .statsTrade
-	db "STAN     WYMIEŃ@"
+	db "STAN      WYMIEŃ@"
 .selectedCancelMenuItem
 	ld a, [wCurrentMenuItem]
 	ld b, a
@@ -886,7 +886,7 @@ WillBeTradedText:
 	text_end
 
 TradeCompleted:
-	db   "Wymiana"
+	db   "Wymiana została"
 	next "zakończona!@"
 
 TradeCanceled:
